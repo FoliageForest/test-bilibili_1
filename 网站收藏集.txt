@@ -1,0 +1,511 @@
+最后更新日期：2022-02-05
+
++++++ +++++   教育   +++++ +++++
+	https://psychologytoday.com/			有许多英语文章(不含翻译)		2021-12-29
+	https://sciencedaily.com/			ScienceDaily		2021-12-28
+	https://easypronunciation.com/					2021-12-26
+	https://hudong.moe.gov.cn/qggxmd/					2021-12-25
+	https://icourse163.org/university/HIT			哈尔滨工业大学_中国大学MOOC		2021-12-23
+	https://icourse163.org/			中国大学MOOC		2021-12-23
+	https://xz.chsi.com.cn/					2021-12-22
+	https://www.neea.edu.cn/			『中国教育考试网』		2021-09-20
+	http://www.xszz.cee.edu.cn/			官方网站『全国学生资助管理中心』		2021-09-02
+	https://knowsex.net/			『知性，开放式性教育网站』		2021-08-28
+	https://cse.neea.edu.cn/			『国家外语能力测评体系 - 国家外语能力测评体系』		2021-08-26
+	https://www.neea.cn/			『中国教育考试网』		2021-08-26
+	https://ntce.neea.edu.cn/			『NTCE - 中国教育考试网』		2021-08-26
+	https://www.51voa.com/			『美国之音-VOA听力下载,慢速英语,常速英语,VOA视频』		2021-08-21
+	http://www.npc.gov.cn/wxzl/wxzl/2000-12/17/content_4680.htm			『中华人民共和国刑法（修订）_中国人大网』		2021-08-20
+	https://www.icourses.cn/			『爱课程』		2021-08-17
+	http://bp.pep.com.cn/ebook/
+	http://bp.pep.com.cn/jc/			『2020年春季人教版教科书』人民教育出版社 人教版中小学教材电子版
+	https://www.linkresearcher.com/			『领研网 - 专注学术传播与科研招聘【唯一官方网站】』
+	http://www.shuren100.com/Home/News/index/id/4.html			中学生数理化杂志在线看『新闻列表 - 河南教育宣传网』
+	https://www.esl-lab.com/			英语学习『Randall's ESL Cyber Listening Lab - English Listening』
+->-+-   高考志愿填报   -+-<-
+	https://mp.weixin.qq.com/s/CpzV1K2BKi7wASAjNBVixw			微信公众号『攀枝花七中』于 2020-07-27 22:00 发布文章『这样解释平行志愿，我瞬间懂了！』
+->-+-   电子教材   -+-<-
+	http://77ebooks.com/archives/894			高中数学人教A版电子教科书下载
+	http://dzkbw.com/			比较全的电子课本索引『电子课本-电子课本网』
+	https://mubu.com/mobile/doc/6qb36eMBSw			『【分享资料】高中课本分享』
+
+
+
+
++++++ +++++   生活   +++++ +++++
+	https://tz12306.com/			四川长途汽车购票		2022-01-07
+	https://10086.cn/			中国移动官方网站		2021-11-05
+	https://scqcp.com/			四川长途汽车汽车票『汽车票查询_网上订票_余票预定|团子出行【原四川汽车票务网】』		2021-09-09
+	https://sichuan.tianditu.gov.cn/			地图『四川省地理信息公共服务平台』		2021-09-02
+	https://www.zhihu.com/question/49581507			『第一次坐高铁，整个流程是怎么样的？ - 知乎』		2021-08-31
+	https://www.zhihu.com/question/49581507/answer/739728083			『第一次坐高铁，整个流程是怎么样的？ - 昔日心的回答 - 知乎』		2021-08-31
+	https://www.12306.cn/index/			『中国铁路12306』		2021-08-26
+	https://mp.weixin.qq.com/s/ugOiT0Ha7N4Bv6RsgPaJ7g			疫苗接种间隔时间『刚刚！官方发布，“一老一小”新冠病毒疫苗接种20问』		2021-08-24
+->-+-   地图   -<-+-
+	https://www.tianditu.gov.cn/			权威官方『国家地理信息公共服务平台 天地图』		2021-09-03
+	https://www.zrzyst.cn/			『自然资源部地图技术审查中心』		2021-09-02
+	http://bzdt.ch.mnr.gov.cn/			地图下载『标准地图服务系统』		2021-09-02
+	http://scsm.mnr.gov.cn/nbzdt.htm			权威四川地图下载『四川测绘地理信息局门户网站-』		2021-09-02
+	http://www.smgi.com.cn/StandMaps/mapDetails.html			权威四川地图下载『四川省公益性地图服务』		2021-09-02
+
+
+
+
++++++ +++++   计算机   +++++ +++++
+	https://krita.org/			Krita 官方网站 自由开源的免费绘画软件		2022-02-05
+	https://gitforwindows.org/			Git for Windows		2022-02-02
+	https://juejin.cn/			掘金		2022-02-02
+	https://alternativeto.net/			AlternativeTo		2022-02-02
+	https://joplinapp.org/			Joplin		2022-02-01
+	https://github.com/xfangfang/Macast			Macast		2022-01-31
+	https://rarbg.to/			RARBG		2022-01-31
+	https://github.com/asciidoctor/asciidoctor			GitHub - Asciidoctor		2022-01-30
+	https://asciidoctor.org/			Asciidoctor		2022-01-30
+	https://asciidoctor.cn/			Asciidoctor - 文本处理与发布工具链		2022-01-30
+	https://remarkableapp.github.io/			Remarkable - Linux Markdown 编辑器		2022-01-29
+	https://mika-cn.github.io/					2022-01-29
+	https://github.com/mika-cn/maoxian-web-clipper					2022-01-29
+	https://mika-cn.github.io/maoxian-web-clipper/index-zh-CN.html					2022-01-29
+	https://www.android-x86.org/			Android-x86  Run Android on your PC		2022-01-28
+	https://reviversoft.com/file-extensions			ReviverSoft_文件扩展名		2022-01-27
+	https://atom.io			Atom官网		2022-01-26
+	https://github.com/atom/atom			Atom		2022-01-26
+	https://linux.cn/lctt			Linux中国翻译组		2022-01-24
+	https://github.com/the1812/Malware-Patch					2022-01-24
+	https://lizhi.io/			数码荔枝		2022-01-20
+	https://ghxi.com/			果核剥壳 软件下载		2022-01-20
+	https://mobilism.org/					2022-01-20
+	https://halo.run/			Halo 开源博客/CMS系统		2022-01-05
+	https://typecho.org/					2022-01-05
+	https://rustdesk.com/			RustDesk | 开源远程桌面软件(备注_by-FoliageForest：网站末尾补上/zh/切换为中文)		2022-01-04
+	https://realtimerendering.com/					2022-01-03
+	https://gameprogrammingpatterns.com/					2022-01-03
+	https://m.weibo.cn/u/1112829033			微博@vposy		2022-01-01
+	https://github.com/DIYgod/DPlayer/					2022-01-01
+	https://apache.org/					2022-01-01
+	http://www.javathinker.net/					2021-12-27
+	https://repo.xposed.info/					2021-12-27
+	https://www.gitpod.io/					2021-12-26
+	https://github.com/2dust/v2rayNG/					2021-12-25
+	https://heroku.com/					2021-12-25
+	https://zhenti.burningvocabulary.com/					2021-12-17
+	https://burningvocabulary.com/					2021-12-17
+	https://github.com/zcjunblog/google-access-helper2021					2021-12-16
+	https://blog.dotcpp.com/					2021-12-16
+	https://github.com/rd2coding/Road2Coding					2021-12-16
+	https://www.dotcpp.com/					2021-12-16
+	https://r2coding.com/					2021-12-16
+	https://www.lenovo.com.cn/					2021-12-04
+	https://androidide.com/			『AndroidIDE』		2021-12-01
+	https://www.bybusa.com/			CPU、显卡天梯图		2021-11-29
+	https://01xz.net/					2021-11-29
+	https://evolution-x.org/					2021-11-29
+	https://7-zip.org/			『7-Zip』		2021-11-29
+	https://www.starx.ink/					2021-11-25
+	https://www.asus.com.cn/					2021-11-25
+	https://www.maxon.net/					2021-11-25
+	https://cpu-comparison.com/					2021-11-25
+	https://www.aida64.com/					2021-11-25
+	https://www.acer.com.cn/					2021-11-25
+	https://www.hp.com/					2021-11-25
+	https://www.pcbeta.com/			『首页 - 远景论坛 - 微软极客社区』		2021-11-24
+	https://www.cpuid.com/			『CPUID』		2021-11-17
+	https://www.cpu-panda.com/zh-cn/			『CPU基准测试和处理器技术参数』		2021-11-15
+	https://www.yuque.com/			『语雀 - 新一代云端知识库』		2021-11-14
+	https://programmerblog.xyz/			『IT技术分享社区』		2021-11-14
+	https://github.com/hoverwinter/HIT-OSLab			『GitHub - hoverwinter/HIT-OSLab: S - 哈工大《操作系统》实验』		2021-10-31
+	https://www.eclipse.org/			『Enabling Open Innovation & Collaboration | The Eclipse Foundation』		2021-10-18
+	https://mirrors.cngi.edu.cn/			『教育网镜像站们』		2021-10-17
+	https://mirrorz.org/			『MirrorZ.org』		2021-10-17
+	https://github.com/XiangLinPro/IT_book			『GitHub - XiangLinPro/IT_book: 本项目收藏这些年来看过或者听过的一些不错的常用的上千本书籍，没准你想找的书就在这里呢，包含了互联网行业大多数书籍和面试经验题目等等。有人工智能系列（常用深度学习框架TensorFlow、pytorch、keras。NLP、机器学习，深度学习等等），大数据系列(Spark,Hadoop,Scala,kafka等)，程序员必修系列（C、C++、java、数据结构、linux，设计模式、数据库等等）』		2021-10-16
+	https://commonvoice.mozilla.org/zh-CN			『Common Voice』		2021-10-16
+	https://mirrors.sdu.edu.cn/			『主页 - 山东大学镜像站』		2021-10-08
+	https://www.abbreviationfinder.org/cn/			『在线英文缩略词查询 | 国际英文缩写查询工具』		2021-10-08
+	http://39.100.236.137/			CPU、GPU天梯图		2021-10-07
+	https://taxilng.github.io/Mobile_CPU_Ladder_Diagram/			『手机CPU天梯图』		2021-10-07
+	https://github.com/taxilng/Mobile_CPU_Ladder_Diagram			『手机CPU天梯图』		2021-10-07
+	https://ip138.com/			『iP地址查询--手机号码查询归属地 | 邮政编码查询 | iP地址归属地查询 | 身份证号码验证在线查询网』		2021-10-07
+	https://todesk.com/			『ToDesk|免费安全流畅的远程控制软件』		2021-10-07
+	https://www.miit.gov.cn/			『中华人民共和国工业和信息化部』		2021-10-04
+	https://jamcz.com/			『晨钟网络科技 - 致力于开发小众实用的软件|晨钟酱』		2021-10-04
+	https://www.mydrivers.com/			点击排行榜可查看天梯图『快科技(原驱动之家)--科技改变未来』		2021-10-04
+	https://www.socpk.com/			『移动芯片性能排行榜』		2021-10-03
+	https://archive.org/			『Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine』		2021-09-06
+	https://www.51cxsoft.com/			『优捷易_不一样的装机体验 – 台州祥电科技有限公司旗下网站』		2021-09-02
+	https://mupdf.com/			『MuPDF』		2021-08-27
+	http://painterengine.com/			『PainterEngine 一个由C语言编写的完整开源的跨平台图形应用框架』		2021-08-25
+	https://blog.zenithal.me/			『Zenithal Hourly Radio』		2021-08-22
+	https://ejin66.github.io/			『Ejin Blog | A good website』		2021-08-22
+	https://www.v2fly.org/			『V2Fly.org』		2021-08-22
+	https://wiki.kache.moe/			『使用文档』		2021-08-22
+	https://merlinblog.xyz/			『Sabrina的万事屋』		2021-08-21
+	https://subcon.dlj.tf/			『Subscription Converter』		2021-08-21
+	https://clash.skk.moe/			『Clash Editor』		2021-08-21
+	https://kejileida.net/			『科技雷达』		2021-08-21
+	https://doyoudo.com/			『doyoudo』		2021-08-20
+	https://sagernet.org/			『SagerNet』		2021-08-19
+	https://askahh.com/			找机场『Askahh机场测速』		2021-08-19
+	https://www.debian.org/			『Debian -- The Universal Operating System』		2021-08-18
+	https://www.zlon.org/			『Zlon』		2021-08-18
+	https://man.zlon.org/			『中文 man 手册』		2021-08-18
+	https://www.linuxde.net/			『Linux Today - Linux新闻资讯发布，Linux职业技术学习！』		2021-08-17
+	https://greasyfork.org/zh-CN			『Greasy Fork - 安全、实用的用户脚本大全』		2021-08-17
+	https://qv2ray.net/			『Qv2ray』		2021-08-17
+	https://opensource.com/			『Opensource.com | Opensource.com』		2021-08-15
+	https://linux.cn/			『Linux 中国◆开源社区』		2021-08-15
+	https://linuxstory.org/			『Linux Story』		2021-08-15
+	https://sspai.com/			『少数派 - 高效工作，品质生活』		2021-08-15
+	https://julialang.org/			『The Julia Programming Language』		2021-08-15
+	https://doubibackup.com/			『逗比根据地 - 世界那么逗，我想出去看看』		2021-08-15
+	https://p3terx.com/			nano使用教程、Termux使用教程『P3TERX ZONE』		2021-08-14
+	https://www.sqlsec.com/			『国光』		2021-08-14
+	https://www.sqlsec.com/tools.html			HWIDGEN(Windows数字激活工具)下载，DiskGenius专业版下载，其它『安全小公举 | 国光』		2021-08-14
+	https://git-scm.com/			『Git』		2021-08-14
+	http://aweb.cc/			『全分享社区_WEB前沿技术学习、交流、分享门户』		2021-08-14
+	https://kotlinlang.org/			『Kotlin Programming Language』		2021-08-13
+	https://android-ide.com/			『AIDE - Android IDE』		2021-08-13
+	https://regexr.com/			『RegExr: Learn, Build, & Test RegEx』		2021-08-13
+	https://www.cnblogs.com/			『博客园 - 开发者的网上家园』		2021-08-13
+	https://www.p2hp.com/			『PHP中文站 PHP中文网 PHP教程 PHP框架』		2021-08-13
+	https://pandoc.org/			『Pandoc - About pandoc』		2021-08-13
+	https://ednovas.xyz/2021/04/06/atlasos/			『白嫖月抛 Atlas OS VPS | EdNovas 的小站』		2021-08-13
+	https://stackoverflow.com/			『Stack Overflow - Where Developers Learn, Share, & Build Careers』		2021-08-12
+	https://developer.android.com/			『Android 开发者  |  Android Developers』		2021-08-11
+	https://trialclub.org/			『Freetrial.store-自动发卡, 自动发货』		2021-08-11
+	https://www.onevps.cloud/cn/			VPS商家『OneVPS - 最适合你需要的VPS』		2021-08-10
+	https://www.tiaozhuji.com/			『挑主机 - 国外空间,海外空间,美国、海外虚拟主机导购』		2021-08-09
+	https://www.awardspace.com/			『Free Web Hosting with PHP, MySQL, Email Sending, No Ads | AwardSpace.com』		2021-08-09
+	https://congcong0806.github.io/			『聪聪 Blog』		2021-08-09
+	https://lowendaff.com/			VPS测评等『lowendaff』		2201-08-09
+	https://fastvm.org/			『FastVM – 提供国内访问速度快的国外VPS、独立服务器等信息』		2021-08-09
+	https://vuejs.org/			『Vue.js』		2021-08-08
+	https://v2cross.com/			『v2cross - the way to cross.-v2cross-the way to cross.』		2021-08-08
+	https://suwav2ray.com/			该站为速蛙云的帮助中心。但介绍了一些有用的知识『速蛙的blog - 专注始于兴趣，兴趣始于爱好』		2021-08-08
+	https://zhujiwiki.com/			『主机百科-提供有价值的主机信息和主机测评。』		2021-08-08
+	https://www.ithome.com/			『IT之家 - 爱科技，爱这里 - 前沿科技新闻网站』		2021-08-08
+	https://quickvideosharing.github.io/QinYingNote/			『沁影的网络备忘录 | QinYingNote』		2021-08-07
+	https://github.com/programthink/			电子书清单、开源项目清单『programthink (编程随想)』		2021-08-07
+	https://program-think.blogspot.com/			可能非常重要？『编程随想的博客』		2021-08-07
+	https://sct.ftqq.com/			『Server酱·Turbo版』		2021-08-07
+	https://ipq.co/			『IPQuick: create dns records instantly』		2021-08-05
+	https://virmach.com/			『Cheap Windows VPS & Linux VPS - VirMach.com | The Best & Cheapest VPS Cloud Hosting』		2021-08-07
+	https://www.ihezu.com.cn/index			『爱合租 - 让合租更靠谱』		2021-08-07
+	https://www.winvps.eu/			『Google Voice 靓号 / GV 靓号 / 美国靓号』		2021-08-07
+	https://github.com/termux/termux-app/			『termux/termux-app: Termux - a terminal emulator application for Android OS extendible by variety of packages.』		2021-08-06
+	https://ybfl.xyz/			『永不分离—jcnf的导航站』		2021-08-06
+	https://github.com/devgianlu/Aria2Android/			『devgianlu/Aria2Android: An Android app that allows you run aria2 on your device』		2021-08-05
+	https://v2ray.com/			『Project V · Project V 官方网站』		2021-08-05
+	https://bwgbus.com/			整理国内外贸论坛『搬瓦工巴士 - 收集,分享有关搬瓦工,just my socks资讯.』		2021-08-05
+	https://cloud.tencent.com/developer/article/1159970#:~:text=Primitive%20Ftpd%E6%98%AF%E4%B8%80%E6%AC%BE%E5%85%8D%E8%B4%B9%EF%BC%8C%E6%97%A0%E5%B9%BF%E5%91%8A%E4%B8%94,%E5%BC%80%E6%BA%90%20%E7%9A%84%EF%BC%8C%E5%8F%AF%E4%BB%A5%E5%9C%A8%E5%AE%89%E5%8D%93%E8%AE%BE%E5%A4%87%E4%B8%8A%E6%8F%90%E4%BE%9BFTP%2FSFTP%E6%9C%8D%E5%8A%A1%E6%9D%A5%E5%88%86%E4%BA%AB%E8%AE%BE%E5%A4%87%E4%B8%8A%E6%96%87%E4%BB%B6%E7%9A%84%E5%BA%94%E7%94%A8%EF%BC%8C%E4%BD%BF%E7%94%A8Primitive%20Ftpd%EF%BC%8C%E4%BD%A0%E7%9A%84%E5%AE%89%E5%8D%93%E8%AE%BE%E5%A4%87%E5%B0%86%E4%BC%9A%E5%8F%98%E8%BA%AB%E4%B8%BAFTP%2FSFTP%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E5%BD%93%E4%B8%A4%E5%8F%B0%E8%AE%BE%E5%A4%87%E5%A4%84%E5%9C%A8%E5%90%8C%E4%B8%80%E5%B1%80%E5%9F%9F%E7%BD%91%E4%B8%8B%EF%BC%8C%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%B0%B1%E5%8F%AF%E9%80%9A%E8%BF%87FTP%2FSFTP%E5%8D%8F%E8%AE%AE%E8%AE%BF%E9%97%AE%E6%9C%8D%E5%8A%A1%E7%AB%AF%E4%B8%AD%E7%9A%84%E6%96%87%E4%BB%B6%E3%80%82.			『Primitive Ftpd:将设备变身为FTP/SFTP服务器 - 云+社区 - 腾讯云』		2021-08-04
+	https://github.com/jaywcjlove/linux-command			『GitHub - jaywcjlove/linux-command: Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux』		2021-08-04
+	https://wangchujiang.com/			计算机，包括Linux命令『小弟调调™ - (͡·̮̃·̃) 撸码的乐趣 💯 ，“人没了，™代码还在”』		2021-08-04
+	https://www.wallmama.com/			『翻墙与科学上网指南，2021年08月更新 - 墙妈妈』		2021-08-03
+	https://cnodejs.org/			『CNode：Node.js专业中文社区』		2021-08-03
+	https://linux265.com/			Linux命令『Linux265 - Linux265资源分享网』		2021-08-02
+	https://semver.org/lang/zh-CN/			『语义化版本 2.0.0 | Semantic Versioning』			2021-08-02
+	https://semver.org/			『Semantic Versioning 2.0.0 | Semantic Versioning』		2021-08-02
+	https://chinese.freecodecamp.org/			『免费学习编程 - Python、JavaScript、Java、Git 等』		2021-08-01
+	https://www.freecodecamp.org/			『Learn to Code — For Free — Coding Courses for Busy People』		2021-08-01
+	https://hellogithub.com/			提供入门计算机的相关资源链接『HelloGitHub 分享 GitHub 上入门级、有趣的开源项目』		2021-08-01
+	https://vpsgongyi.com/			『VPS攻略 - VPS资讯、VPS评测、VPS推荐、VPS教程、VPS优惠码、VPS一键脚本』		2021-07-31
+	https://v2raytech.com/			『V2ray科技 - 一键脚本、VPS教程、闲聊扯淡』		2021-07-31
+	https://kde.org/zh-cn/			『首页 - KDE 社区』		2021-07-31
+	https://cloud.tencent.com/developer/			『云+社区 - 腾讯云』		2021-07-29
+	https://github.com/webtorrent/webtorrent			『webtorrent/webtorrent: ⚡️ Streaming torrent client for the web』		2021-07-28
+	https://aria2.github.io/			『aria2』		2021-07-26
+	https://jquery.com/			『jQuery』		2021-07-22
+	https://kali.org/			『Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution』		2021-07-21
+	https://gitee.com/			『Gitee - 基于 Git 的代码托管和研发协作平台--Gitee | Software Development and Collaboration Platform』		2021-07-21
+	https://www.oschina.net/			『OSCHINA - 中文开源技术交流社区』		2021-07-21
+	https://sourceforge.net/			『SourceForge - Download, Develop and Publish Free Open Source Software』		2021-07-21
+	https://magiskmanager.com/			『Download Magisk Manager Latest Version 23.0 For Android 2021』
+	https://bbs.gfan.com/			『机锋网-畅享科技品质生活,尽在机锋网』
+	https://www.xda-developers.com/			『XDA Portal & Forums』
+	https://omnirom.org/			『OmniROM』
+	https://aicp-rom.com/			『AICP | Android Ice Cold Project』
+	https://resurrectionremix.com/			『Resurrection Remix OS | Get Resurrected』
+	https://bbs.mokeedev.com/			『MoKee Open Source Community』
+	https://download.mokeedev.com/			『魔趣下载』
+	https://download.lineageos.org.cn/			『LineageOS镜像下载』		2021-07-18
+	https://lineageos.org/			『LineageOS – LineageOS Android Distribution』
+	https://www.lineageos.org.cn/			『LineageOS中文论坛 - 手机版 - Powered by Discuz!』
+	https://github.com/elder-frog/OpenCourseCatalog			『elder-frog/OpenCourseCatalog: Bilibili 公开课目录』
+	https://github.com/sysuexam/SYSU-Exam			『sysuexam/SYSU-Exam: 收集整理SYSU期末考试卷子、资料』
+	https://ustc-resource.github.io/USTC-Course/			『USTC-Course | :heart:中国科学技术大学课程资源』
+	https://github.com/USTC-Resource/USTC-Course			『USTC-Resource/USTC-Course: 中国科学技术大学课程资源』
+	https://github.com/QSCTech/zju-icicles			『QSCTech/zju-icicles: 浙江大学课程攻略共享计划』
+	https://github.com/PKUanonym/REKCARC-TSC-UHT			『PKUanonym/REKCARC-TSC-UHT: 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University』
+	https://github.com/tongtzeho
+	https://github.com/lib-pku
+	http://hacpai.com/			黑客派
+	http://it-ebooks.flygon.net/			『布客新知』
+	http://apachecn.org/
+	http://www.ruanyifeng.com/home.html			许多有益的知识『阮一峰的个人网站 - Ruan YiFeng's Personal Website』
+	https://yunliyunwai.cn/			云里云外开源社区
+	https://runoob.com/			『菜鸟教程 - 学的不仅是技术，更是梦想！』
+	https://cppreference.com/			C/C++参考网站
+	https://learncpp.com/			『Learn C++』
+	https://cplusplus.com/			『cplusplus.com - The C++ Resources Network』
+	https://tutorialspoint.com/			关于计算机的教程(划到网页后半部分)『RxJS, ggplot2, Python Data Persistence, Caffe2, PyBrain, Python Data Access, H2O, Colab, Theano, Flutter, KNime, Mean.js, Weka, Solidity』
+	https://github.com/fffaraz/awesome-cpp			『fffaraz/awesome-cpp: A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.』
+	https://calibre-ebook.com/			软件『calibre - 电子书管理』
+	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
+	https://whatk.me/			电脑系统重装『Whatk』
+->-+-   GitHub Repository   -+-<-
+	https://github.com/sqlsec/termux-install-linux			Termux一键安装Linux脚本		2022-02-05
+	https://github.com/laurent22/joplin/			laurent22 - joplin/		2022-02-01
+	https://github.com/marktext/marktext					2022-01-24
+	https://github.com/theatergong/FFmpegTools					2021-12-12
+	https://github.com/microsoft/calculator					2021-12-10
+->-+-   商家、市场   -+-<-
+	https://freewebhostforyou.ml/			『Professional Free Hosting』		2021-08-27
+	https://www.zhujiceping.com/			『国外主机测评 - 国外VPS，国外服务器，国外主机，测评及优惠码』		2021-08-24
+	https://cloudcone.com/			『Managed Cloud Hosting, Dedicated Servers, Cloud Services - CloudCone』		2021-08-23
+	https://www.ceranetworks.com/cn.php			『CeraNetworks – Enterprise servers | Dedicated Servers | IP Transit | ANTI-DDOS - A Brand of GlobalData Investments INC』		2021-08-20
+	https://cloudcone.com/			『Managed Cloud Hosting, Dedicated Servers, Cloud Services - CloudCone』		2021-08-13
+	https://pacificrack.com/			『PacificRack | KVM SSD VPS, Hybrid Dedicated Servers, Dedicated Servers, Virtual Private Servers, Asia-Optimized Network』		2021-08-13
+	https://www.coincola.com/			『可盈可乐|CoinCola官网-全球创新的比特币场外/币币交易平台』		2021-08-11
+	https://www.ihezu.cn/			『奈飞小铺 - 流媒体影音帐号合租平台』		2021-08-11
+	https://www.freetrial.store/			『Freetrial.Store』		2021-08-11
+	https://oulucloud.com/			『歐路雲 - 高防禦雲服務器|美国|加拿大|香港|新加坡|法國VPS|免費虛擬主機|海外VPS|海外服務器|VPS服務器|KVM服務器.』		2021-08-10
+	https://ypyun.top/			『斯故の月抛商店』		2021-08-10
+->-+-   个人博客   -+-<-
+	http://blog.xnnyygn.in/					2022-02-03
+	https://www.itrhx.com/					2022-01-25
+	https://utermux.eu.org/					2022-01-17
+	https://blog.xinac.cn/					2022-01-05
+	https://yuncun.xyz/					2022-01-04
+	https://diygod.me/					2022-01-01
+	https://ursb.me/					2022-01-01
+	https://sameen.art/			可下载Adobe全家桶(win+mac)		2021-12-28
+	https://ivon852.github.io/					2021-12-25
+	https://goku.top/					2021-12-24
+	http://matrix67.com/					2021-12-12
+	https://www.summerain0.club/			『summerain0的个人博客 -』		2021-12-08
+	https://blog.cktime.xyz/			『cktime的博客』		2021-11-14
+	https://zhangjing-github-code.github.io/			『zhangjing's Hexo Blog』		2021-10-24
+	https://hk-shao.github.io/			『HK-SHAO | 烧风的小站』		2021-08-27
+	https://www.misakano.eu.org/			『小御坂的破站』		2021-08-17
+	https://younghz.github.io/			Markdown语法『Home · 1907 🕥』		2021-08-12
+	https://yuhongjun.github.io/			Markdown语法(Chinese(Simplified))『Demi's Journey』		2021-08-12
+	https://www.adgk.net/			『坂本dalao的小破屋』		2021-08-06
+	https://xunflash.top/			『Xunflash的小站』		2021-08-06
+	https://gddhy.net/			『Gddhy's Blog』		2021-08-06
+	http://b.mstat.top/			计算机、番剧『萌新博客』		2021-08-04
+	https://www.freeluffy.com/			『梦想家路飞FreeLuffy』		2021-08-04
+	https://www.baishitou.cn/			『白石头博客分享技术，享受生活』		2021-08-03
+	https://blog.linjunhalida.com/			『网络寻租』		2021-07-31
+	https://zhangyiming748.github.io/			挺有趣的『技术博客』		2021-07-30
+	https://sobaigu.com/			『搜百谷 | 达则兼济天下尤物，懒人改变世界劳模！』		2021-07-30
+	https://qaiu.top/			1.安卓手机端编程App;2.C4droid下载使用『I'm QAIU』		2021-07-30
+	https://tingtalk.me/			Telegram新手教程『庭说 - 保持蓬勃的好奇心』		2021-07-28
+	https://lgf.im/			个人博客『zu1k』		2021-07-27
+	https://www.dazhuanlan.com/			配合百度的站内搜使用『大专栏』
+	https://littlebearsama.github.io/			『LittleBear！！！』
+	https://coal.pub/			『COAL repository』
+	https://lstwwa.top/			『原の站』
+	https://tlanyan.me/			与计算机有关的个人博客『tlanyan - 十里平湖霜满天，寸寸青丝愁华年』
+	https://darrenliuwei.com/			个人博客_『刘伟』
+	https://sphard.com/			个人博客(1.许多与计算机有关的电子书；2.“翻墙”的教程)_『刘伟』
+	https://newlearner.site/			『Newlearnerの小站 - 探索未知，记录点滴』
+	https://fbbi.pw/
+	https://linuxstudy.cn/			『Linux Study』
+	https://blog.lvcshu.com/			『johnpoint's blog』
+->-+-   Linux   -+-<-
+	https://man.linuxde.net/			『Linux命令大全』		2021-08-17
+	https://www.archlinuxcn.org/			『Arch Linux』		2021-08-14
+	http://linux.51yip.com/			Linux命令『linux 命令 在线中文手册』		2021-08-17
+	https://linuxtools-rst.readthedocs.io/zh_CN/latest/			Linux参考『Linux工具快速教程 — Linux Tools Quick Tutorial』		2021-08-03
+	https://linux.vbird.org/			『鳥哥私房菜 - 鳥哥的首頁』		2021-08-03
+	http://cn.linux.vbird.org/			Linux自学材料『鸟哥的Linux私房菜简体首页』		2021-08-03
+	https://archlinux.org/			『Arch Linux』		2021-07-23
+	http://billie66.github.io/TLCL/			Linux自学材料『TLCL』
+	https://linuxcommand.org/			『LinuxCommand.org: Learn The Linux Command Line. Write Shell Scripts.』
+- -   命令查询   - -
+	https://manpages.debian.org/buster/manpages-zh/index.html			Linux命令『Manpages of manpages-zh in Debian buster — Debian Manpages』		2021-08-18
+	https://man.zlon.org/buster/manpages-zh/index.html			Linux命令『Manpages of manpages-zh in Debian buster — Debian Manpages』		2021-08-18
+->-+-   翻墙   -+-<-
+	https://merlinblog.xyz/wiki/cfa.html			『Clash for Android教程 | 东半球第二好用的安卓翻墙工具 - Sabrina的万事屋』		2021-08-21
+	https://congcong0806.github.io/2018/04/20/SS/			『SS/SSR/V2Ray/Clash 简介和客户端软件下载 - 聪聪 Blog』		2021-08-21
+	https://v2raytech.com/differences-between-individuals/			与翻墙相关的很多内容『理解人与人之间的差距 - V2ray科技』		2021-07-31
+	https://shadowsocks.org/			『Shadowsocks - A fast tunnel proxy that helps you bypass firewalls』		2021-07-31
+	https://doubi.us/			『逗比翻墙网 - 世界那么逗，我想翻墙看看』
+->-+-   论坛   -+-<-
+	https://wszgw.net/			亚洲卫星电视家电维修论坛		2022-01-28
+	https://community.aidlux.com/					2021-12-12
+	https://bbs.pcbeta.com/			『论坛 - 远景论坛 - 微软极客社区』		2021-11-24
+	https://bbs.kafan.cn/			『卡饭论坛_最好的软件论坛_讨论 - 互助分享 - 大气谦和!』		2021-11-09
+	https://bbs.nga.cn/			IT软硬件『NGA玩家社区』		2021-10-06
+	https://www.ymcn.org/			『源码中国 | 源码下载,文档,书籍,编程资源』		2021-08-07
+	https://emacs-china.org/			『Emacs China』		2021-08-0
+	https://hostloc.com/			『全球主机交流论坛 - 手机版 - Powered by Discuz!』		2021-08-06
+	https://bbs.binmt.cc/			『MT论坛 - MT官网_MT管理器论坛_MT管理器_MT管理器教程_MT最新版本』		2021-07-22
+	https://ld246.com/			『链滴』
+	https://pediy.com/			『看雪学院-安全培训|安全招聘|www.kanxue.com』
+->-+-   教程   -+-<-
+	https://apple.sqlsec.com/			国光的黑苹果安装教程		2022-02-05
+	https://jenkov.com/			一些教程		2022-01-08
+	https://segmentfault.com/a/1190000016337325					2022-01-05
+	https://wiki.openv2.icu/			开眼云知识库.翻墙相关软件使用教程等		2022-01-04
+	https://gameprogrammingpatterns.com/contents.html					2022-01-03
+	https://github.com/wenquan0hf/linux			『wenquan0hf/linux: Linux 入门教程』		2021-08-17
+	http://c.biancheng.net/			『C语言中文网：C语言程序设计门户网站(入门教程、编程软件)』		2021-08-13
+	https://v2rayssr.com/			『V2RaySSR综合网 – V2Ray、SSR、Xray、Trojan 门户网』		2021-08-13
+	https://github.com/hijkpw/scripts/			『hijkpw/scripts: Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程』		2021-08-09
+	https://www.adgk.net/archives/52/			『安卓AdGuard与VPN共存的几种方法 - 坂本dalao的小破屋』		2021-08-05
+	https://github.com/jaywcjlove/shell-tutorial			『GitHub - jaywcjlove/shell-tutorial: Shell入门教程（Shell tutorial book）』		2021-08-04
+	https://www.linuxcool.com/			『Linux命令大全(手册) – 真正好用的Linux命令在线查询网站』		2021-08-02
+	https://github.com/phodal/github/			『GitHub - phodal/github: GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.』		2021-08-02
+	https://blog.qaiu.top/s/devtool/			『安卓手机端编程 - 千百度』		2021-07-30
+	https://zhangyiming748.github.io/2019/06/06/Pre-college/			『准大学生实体店买电脑防坑指南 - 技术博客』		2021-07-30
+	https://cloud.tencent.com/developer/article/1159970			『Primitive Ftpd:将设备变身为FTP/SFTP服务器 - 云+社区 - 腾讯云』		2021-07-29
+	https://www.linuxprobe.com/			『《Linux就该这么学》 - 必读的Linux系统与红帽RHCE认证免费自学书籍』		2021-07-28
+	https://learngitbranching.js.org/			『Learn Git Branching』		2021-07-27
+	https://www.liaoxuefeng.com/			『首页 - 廖雪峰的官方网站』		2021-07-22
+	https://github.com/iggredible/Learn-Vim			『iggredible/Learn-Vim: Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.』		2021-07-22
+	https://sspai.com/post/43338			『Android 玩机终极指南 - 少数派』
+- -   Markdown   - -
+	https://markdowntutorial.com/					2022-01-26
+	https://markdown.p2hp.com/basic-syntax/index.html			『Markdown基本语法 | Markdown 中文网』		2021-08-13
+	https://markdown.p2hp.com/			『Markdown 中文网』		2021-08-13
+	https://www.cnblogs.com/yuiko/p/md.html			『Markdown语法参考 - 事小蓝鸭 - 博客园』		2021-08-13
+	https://blog.p2hp.com/archives/2796			『markdown简明语法2 | Lenix Blog』		2021-08-13
+	https://blog.p2hp.com/archives/2793			『markdown 简明语法 | Lenix Blog』		2021-08-13
+	https://github.com/LearnShare/Learning-Markdown/			『LearnShare/Learning-Markdown: Markdown guidance and reference(Markdown 入门参考)』		2021-08-12
+	http://itmyhome.com/markdown/			『首页 | Markdown 入门参考』		2021-08-12
+	https://xianbai.me/learn-md/			『Introduction | Learning-Markdown (Markdown 入门参考)』		2021-08-12
+	https://github.com/younghz/Markdown			『younghz/Markdown: Markdown 基本语法。』		2021-08-12
+	https://younghz.github.io/Markdown/			『Markdown』		2021-08-12
+	https://yuhongjun.github.io/tech/2017/05/02/Markdown-%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C-%E5%AE%8C%E6%95%B4%E6%95%B4%E7%90%86%E7%89%88.html			『Markdown 语法手册 （完整整理版）』		2021-08-12
+->-+-   Xposed & Magisk   -+-<-
+	https://github.com/topjohnwu/Magisk			Magisk官方GitHub『topjohnwu/Magisk: The Magic Mask for Android』		2021-08-15
+	https://github.com/taichi-framework/TaiChi			『taichi-framework/TaiChi: A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 11.』		2021-07-28
+	https://taichi.cool/			『Tai Chi』		2021-07-28
+	https://vxposed.com/			『Download | VirtualXposed』		2021-07-27
+	https://github.com/rovo89/Xposed			『rovo89/Xposed: The native part of the Xposed framework (mainly the modified app_process binary).』		2021-07-27
+	https://github.com/android-hacker/VirtualXposed/			『android-hacker/VirtualXposed: A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.』		2021-07-27
+	https://virtualxposed.com/			『VirtualXposed APK 0.20.3 Download Latest in 2021 [Official]』		2021-07-27
+
+
+
+
++++++ +++++   工具   +++++ +++++
+	http://xiaoshujiang.com/					2022-01-25
+	https://mirrors.bfsu.edu.cn/		北京外国语大学开源软件镜像站			2021-12-24
+	https://zhutix.com/			『致美化 - 最专业的桌面美化交流平台 - 漫锋网』		2021-10-23
+	https://www.geogebra.org/			『GeoGebra - 风靡世界, 过亿师生沉迷使用的免费数学软件』		2021-10-22
+	http://www.xitie.com/			『西贴 - 历史价格查询|网上商城价格走势图』		2021-10-06
+	http://www.tool168.cn/			查询电商平台商品历史价格『过客网-过客比价网-专注于淘宝比价』		2021-10-06
+	http://manmanbuy.com/			查询电商平台商品历史价格『慢慢买——购物比价网』		2021-10-06
+	https://www.baklib.com/			『首页 | Baklib官网-专业的知识库及帮助文档制作软件』		2021-08-20
+	https://kongbaibot.gitbook.io/luxiaoxun-help/			『鲁小迅—帮助文档 - luxiaoxun_help』		2021-08-20
+	https://www.discourse.org/			『Discourse - Civilized Discussion』		2021-08-20
+	https://rufus.ie/zh/			『Rufus - 轻松创建USB启动盘』		2021-08-20
+	https://www.videolan.org/			『VLC: Official site - Free multimedia solutions for all OS! - VideoLAN』		2021-08-19
+	https://www.toolfk.com/			Linux命令『工具人 - TOOLFK在线工具人』		2021-08-18
+	https://mirrors.ustc.edu.cn/			『USTC Open Source Software Mirror』		2021-08-14
+	https://tinify.cn/			『TinyPNG – 压缩PNG图片的同时保留透明度』		2021-08-13
+	https://tinypng.com/			『TinyPNG – Compress PNG images while preserving transparency』		2021-08-13
+	https://xiaomirom.com/			『XiaomiROM.com - 小米 ROM 线刷包, 卡刷包的最新及历史版本下载』		2021-08-12
+	https://protonmail.com/zh-Hans/			『ProtonMail：免费的加密电子邮箱』		2021-08-11
+	https://bianyuan.xyz/			『边缘@订阅转换API』		2021-08-10
+	https://www.imooc.com/			『慕课网-程序员的梦工厂』		2021-08-06
+	https://beijing-time.org/			『现在北京时间 在线标准北京时间校对』		2021-08-05
+	http://www.beian.gov.cn/			备案查询『全国互联网安全管理服务平台』		2021-08-03
+	https://habo.qq.com/			『腾讯哈勃分析系统』		2021-08-01
+	https://mirrors.tuna.tsinghua.edu.cn/			『清华大学开源软件镜像站 | Tsinghua Open Source Mirror』		2021-07-27
+	https://www.charlesproxy.com/			『Charles Web Debugging Proxy • HTTP Monitor / HTTP Proxy / HTTPS & SSL Proxy / Reverse Proxy』		2021-07-27
+	https://apktry.com/			『ApkTry.com - Free Android Apks & Games Downloads』		2021-07-27
+	https://y4f.net/			『小北的自留地-一个伪文艺青年的博客』		2021-07-26
+	https://github.com/wbt5/real-url			『wbt5/real-url: 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 55 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。』		2021-07-26
+	https://www.baiduyun.wiki/			『油小猴』		2021-07-26
+	https://xdown.org/			『Xdown』		2021-07-22
+	https://panhub.cc/			『阿里云盘 - Panhub - 网盘资源分享中心 - 阿里云盘|天翼云盘|百度网盘|www.panhub.cc』		2021-07-21
+	https://bilibili.iiilab.com/			『哔哩哔哩(bilibili)视频解析下载 - 保存B站视频到手机、电脑』		2021-07-20
+	https://ys168.com/			『永硕E盘 专业网络硬盘服务』		2021-07-19
+	https://github.com/sharmajv/vpn			『sharmajv/vpn: VPN软件（小三VPN），完全免费，不注册，不限速，不限流，不看广告不流氓』		2021-07-18
+	https://www.yxssp.com/			破解软件下载『异星软件空间 | 感受不一样的精彩体验！』		2021-07-18
+	https://mdict.org/			『Mdict』		2021-07-18
+	http://tool.liumingye.cn/			『刘明野的工具箱 | 刘明野的工具箱提供好用、易用的工具，还在不断添加中，欢迎访问！』
+	https://www.zdic.net/			『漢典』
+	https://freemdict.com/			论坛_『FreeMdict-在您的电脑和手机上免费离线查询数千本各语种、各领域的优秀词典。』
+	https://forum.freemdict.com/			有许多字典资源、学习外语的好地方『FreeMdict 论坛 - 自由 无门槛 免费』
+	http://openstd.samr.gov.cn/bzgk/gb/			『国家标准全文公开』
+	https://github.com/Astringentfruit/Collection-of-e-book-download-and-search-sites
+	http://wandoujia.com/			方便的下载软件的历史版本，某些旧手机不支持新版本的App（例如CHM-TL00）_『豌豆荚手机助手-海量安卓APP应用与游戏免费下载』
+	https://ffmpeg.org/			『FFmpeg』		2021-07-18
+	https://www.solvusoft.com/zh-cn/file-extensions/			『世界上最大的文件扩展名目录』
+	https://pan.naifei.cc/new/			百度网盘不限速下载『度云简易分享地址提取』
+	https://runine.cn/			百度网盘不限速下载『歪果不求仁』
+->-+-   论坛   -+-<-
+	http://duzhitu.com/			不限于儿童早教『读知兔 - 儿童早教资源免费下载 - Powered by Discuz!』		2021-08-09
+->-+-   电子书   -+-<-
+	https://lorefree.com/			『LoreFree - 首个基于EOS和IPFS的去中心化知识共享社区』
+	https://sobooks.cc/			『SoBooks - 优质的电子书资源下载网站』
+	https://z-lib.org/			『Z-Library. The world's largest ebook library.』
+	https://pdfstop.com/			『PDF Stop - Books PDF, Epub And Mobi Free Download』
+	https://bkfeng.top/ebook			『电子书查找方法大合集 | 本卡风』
+->-+-   网址导航   -+-<-
+	http://www.silisili.cc/			『嘶哩嘶哩-萌导航_silisili.cc | 您的私人二次元导航姬』		2021-07-18
+	https://www.wangzhanchi.com/			『网站目录_分类目录_网站大全__国内外网址大全应有尽有 - 网站池』
+	https://chinag.pro/			『ChinaG.PRO - 学习网址导航』
+->-+-   软件下载   -+-<-
+	https://atom.io/			Atom官方网站		2022-01-26
+	https://geekuninstaller.com/			Geek Uninstaller		2022-01-21
+	https://bbs.binmt.cc/			『MT论坛 - MT官网_MT管理器论坛_MT管理器_MT管理器教程_MT最新版本』		2021-07-23
+	https://www.iplaysoft.com/			『异次元软件世界』		2021-07-19
+	https://mpyit.com/			『老殁 - 殁漂遥 - 分享好软件 - MpyIT.com，LaomoIT.com』		2021-07-19
+	https://apkpure.com/			『使用APKPure APK下载器在线极速下载原版应用 - APKPure官网』
+	https://apkmirror.com/			『APKMirror - Free APK Downloads - Free and safe Android APK downloads』
+	https://f-droid.org/			『F-Droid - Free and Open Source Android App Repository』
+
+
+
+
++++++ +++++   娱乐   +++++ +++++
+	https://undertale.com/			Undertale官网		2022-01-19
+	https://sxctdlkj.com/			看电影		2021-12-05
+	https://www.agefans.vip/			『在线动画 动漫下载 - AGE动漫』		2021-08-27
+	https://www.agefans.cc/			『在线动画 动漫下载 - AGE动漫』		2021-08-27
+	https://mikanani.me/			『蜜柑计划 - Mikan Project』		2021-08-27
+	https://www.wxtv.net/			『无限影视网-全网最全影视库』		2021-08-16
+	http://yck.mumuceo.com/			电影源『源仓库』		2021-08-16
+	https://bgm.tv/			『Bangumi 番组计划』		2021-08-16
+	https://movies.ednovas.xyz/			『EdNovas的视频站』		2021-08-07
+	https://assrt.net/			『首页 - 射手网(伪) - assrt.net - 字幕下载，字幕组，中文字幕，美剧字幕，英剧字幕，双语字幕，新番字幕』		2021-07-26
+	https://555dy.fun/			电影、动漫『555电影-免费电影-在线电影网-免费VIP资源在线观看』		2021-07-24
+	http://bajjj.com/			『奇优影院手机版_免费高清电影在线观看奇优影院』		2021-07-19
+	https://bdxzy.com/			电影、动漫『北斗星资源』		2021-07-19
+	https://hobiao.net/			『红标影院-新视觉影院-青苹果影院-在线电影-影视大全』
+->-+-   漫画   -+-<-
+	https://bookshop.tw/			漫画购买『bookshop.tw - 購買正版台版漫畫，台灣直郵』		2021-07-21
+	https://vol.moe/			收费『Mox.moe [Kindle漫畫|Kobo漫畫|epub漫畫] [vol.moe]』		2021-07-21
+	https://www.cocomanhua.com/			漫画『斗罗大陆 绝世唐门 斗破苍穹 星武神诀 百炼成神 COCOMANHUA』		2021-07-19
+	https://biqug.org/			漫画『笔趣漫画，笔趣阁漫画-漫画大全-免费漫画在线看-最好看的漫画』		2021-07-18
+	http://www.gufengmh8.com/			漫画『天才小毒妃漫画_大角虫漫画_王牌校草漫画_指染成婚漫画-古风漫画网』		2021-07-18
+	https://www.acloudmerge.com/			漫画『集云数据』		2021-07-18
+	https://www.yxssp.com/tag/%e6%bc%ab%e7%94%bb			『漫画 | 异星软件空间』		2021-07-18
+	http://remm.net.cn/			『樱花动漫首页【实时更新2021年动漫】免费在线观看动漫网』		2021-07-17
+	https://36mh.com/			『漫画大全,好看的漫画,免费下拉式漫画网-36漫画』
+
+
+
+
++++++ +++++   其他   +++++ +++++
+	https://www.kintetsu.co.jp/foreign/chinese-kan/about/howto/before.html			车站用语(中、英、日等多语言)，点击交流卡		2022-01-15
+	https://neu-reality.com/			神经现实		2022-01-14
+	https://visuwords.com/					2021-12-01
+	https://www.linguee.com/					2021-11-25
+	https://forvo.com/			『Forvo: the pronunciation dictionary. All the words in the world pronounced by native speakers』		2021-11-24
+	https://apesk.com/color/			『FPA乐嘉性格色彩测试』		2021-10-21
+	https://sczyz.org.cn/			『志愿四川_有你有我』		2021-09-25
+	https://www.typingclub.com/			『Learn Touch Typing Free - TypingClub』
+	https://yun.hei521.cn/
+	https://www.maigoo.com/			搜索OTG数据线相关知识时得到『品牌|知识→买购网MAIGOO®™品牌十大与知识生活十大排行榜门户』
+	http://chinesetest.cn/			『首页--汉语考试服务网』
+	https://econ.wiki/			『SHU's Wiki』
+	https://www.sitstars.com/			『Shu's Garden - 坐于群星之上』
+->-+-   论坛   -+-<-
+	https://klpbbs.com/			『Minecraft(我的世界)苦力怕论坛——我的世界下载站，我的世界资源网，我的世界玩家论坛 - Minecraft(我的世界)苦力怕论坛』
+	https://www.coolapk.com/feed/18326437?shareKey=ZGE1ZTM3Y2I2OGNlNjAyZDA2MGE~&shareUid=2623493&shareFrom=com.coolapk.market_11.0
+
