@@ -1,6 +1,7 @@
-最后更新日期：2022-02-05
+最后更新日期：2022-02-13
 
 +++++ +++++   教育   +++++ +++++
+	https://gcompris.net/			GCompris 教育游戏 支持 Windows Android macOS GNU/Linux 树莓派		2022-02-06
 	https://psychologytoday.com/			有许多英语文章(不含翻译)		2021-12-29
 	https://sciencedaily.com/			ScienceDaily		2021-12-28
 	https://easypronunciation.com/					2021-12-26
@@ -52,7 +53,27 @@
 
 
 +++++ +++++   计算机   +++++ +++++
-	https://krita.org/			Krita 官方网站 自由开源的免费绘画软件		2022-02-05
+	https://mirrors.huaweicloud.com/			华为开源镜像站		2022-02-12
+	https://learnku.com/		LearnKu 终身编程者的知识社区			2022-02-11
+	https://virtualbox.org/			Oracle VM VirtualBox 官网		2022-02-10
+	https://vmware.com/			VMware 官网		2022-02-10
+	https://tortoisesvn.net/					2022-02-10
+	https://docs.github.com/					2022-02-09
+	https://cui-jiacai.gitbook.io/					2022-02-09
+	https://bootcss.com/			Bootstrap中文网		2022-02-08
+	https://readthedocs.org/			Read the Docs		2022-02-08
+	https://linuxidc.com/			Linux公社		2022-02-08
+	https://mirrors.kernel.org/					2022-02-08
+	https://github.com/liuhui998/gitbook					2022-02-08
+	https://translationproject.org/			the Translation Project		2022-02-08
+	https://github.com/WinMerge/winmerge		WinMerge 官方GitHub Repository		2022-02-07
+	https://yibai.com/					2022-02-06
+	https://fsf.org/			Free Software Foundation		2022-02-07
+	https://gnu.org/			GNU 操作系统		2022-02-07
+	https://github.com/pcottle/learnGitBranching			Learn Git Branching 官方 GitHub Repository		2022-02-07
+	https://kdevelop.org/			KDevelop - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP		2022-02-06
+	https://kubuntu.org/					2022-02-06
+	https://krita.org/			Krita 自由开源的免费绘画软件 官方网站 首要用途是绘画，其次才是图像处理		2022-02-05
 	https://gitforwindows.org/			Git for Windows		2022-02-02
 	https://juejin.cn/			掘金		2022-02-02
 	https://alternativeto.net/			AlternativeTo		2022-02-02
@@ -252,6 +273,13 @@
 	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
 	https://whatk.me/			电脑系统重装『Whatk』
 ->-+-   GitHub Repository   -+-<-
+	https://github.com/billie66/TLCL					2022-02-12
+	https://github.com/github/gitignore					2022-02-09
+	https://github.com/cli/cli/					2022-02-09
+	https://github.com/201220014/WhaleMarket					2022-02-09
+	https://github.com/201220014/WhaleMarket-Framework					2022-02-09
+	https://github.com/freeCodeCamp/freeCodeCamp					2022-02-09
+	https://github.com/schacon/gitbook					2022-02-08
 	https://github.com/sqlsec/termux-install-linux			Termux一键安装Linux脚本		2022-02-05
 	https://github.com/laurent22/joplin/			laurent22 - joplin/		2022-02-01
 	https://github.com/marktext/marktext					2022-01-24
@@ -270,6 +298,8 @@
 	https://oulucloud.com/			『歐路雲 - 高防禦雲服務器|美国|加拿大|香港|新加坡|法國VPS|免費虛擬主機|海外VPS|海外服務器|VPS服務器|KVM服務器.』		2021-08-10
 	https://ypyun.top/			『斯故の月抛商店』		2021-08-10
 ->-+-   个人博客   -+-<-
+	https://misakifx.github.io/					2022-02-11
+	https://leok77.cn/			FoliageForest：VirtualBox基础使用教程、开发环境搭建-Windows系统		2022-02-11
 	http://blog.xnnyygn.in/					2022-02-03
 	https://www.itrhx.com/					2022-01-25
 	https://utermux.eu.org/					2022-01-17
@@ -318,7 +348,7 @@
 	https://linuxtools-rst.readthedocs.io/zh_CN/latest/			Linux参考『Linux工具快速教程 — Linux Tools Quick Tutorial』		2021-08-03
 	https://linux.vbird.org/			『鳥哥私房菜 - 鳥哥的首頁』		2021-08-03
 	http://cn.linux.vbird.org/			Linux自学材料『鸟哥的Linux私房菜简体首页』		2021-08-03
-	https://archlinux.org/			『Arch Linux』		2021-07-23
+	https://archlinux.org/			『Arch Linux』  FoliageForest：该网站的wiki有参考价值		2021-07-23
 	http://billie66.github.io/TLCL/			Linux自学材料『TLCL』
 	https://linuxcommand.org/			『LinuxCommand.org: Learn The Linux Command Line. Write Shell Scripts.』
 - -   命令查询   - -
@@ -343,6 +373,15 @@
 	https://ld246.com/			『链滴』
 	https://pediy.com/			『看雪学院-安全培训|安全招聘|www.kanxue.com』
 ->-+-   教程   -+-<-
+	https://worldhello.net/gotgit/			Git权威指南   FoliageForest：在线免费的 Git 书籍		2022-02-13
+	https://blog.csdn.net/u011863024/article/details/118562748			FokiageForest：Git教程		2022-02-13
+	https://www.leok77.cn/2021/02/07/ComputerScience/开发环境搭建-Windows系统/			开发环境搭建-Windows系统   FoliageForest：质量较高		2022-02-12
+	https://www.leok77.cn/2021/01/28/ComputerScience/VirtualBox%E5%9F%BA%E7%A1%80%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/		VirtualBox基础使用教程			2022-02-11
+	http://www.srees.ynu.edu.cn/__local/1/90/67/98D48A1969648C683EC683CC6DA_DBDAE436_51FBF8.pdf					2022-02-11
+	https://www.howlifeusa.com/best-virtual-machine-software/			虚拟机软件		2022-02-10
+	https://mp.weixin.qq.com/s/-Eftrp2yKh3-bPrD5NX2lQ			Git 教程		2022-02-09
+	https://git-reference.readthedocs.io/			Pro Git book		2022-02-08
+	http://gitbook.liuhui998.com/			Git Community Book 中文版		2022-02-08
 	https://apple.sqlsec.com/			国光的黑苹果安装教程		2022-02-05
 	https://jenkov.com/			一些教程		2022-01-08
 	https://segmentfault.com/a/1190000016337325					2022-01-05
@@ -364,7 +403,8 @@
 	https://www.liaoxuefeng.com/			『首页 - 廖雪峰的官方网站』		2021-07-22
 	https://github.com/iggredible/Learn-Vim			『iggredible/Learn-Vim: Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.』		2021-07-22
 	https://sspai.com/post/43338			『Android 玩机终极指南 - 少数派』
-- -   Markdown   - -
+- -   Markdown教程   - -
+	https://markdown.xyz/			Markdown 指南中文版 | Markdown 中文网		2022-02-08
 	https://markdowntutorial.com/					2022-01-26
 	https://markdown.p2hp.com/basic-syntax/index.html			『Markdown基本语法 | Markdown 中文网』		2021-08-13
 	https://markdown.p2hp.com/			『Markdown 中文网』		2021-08-13
@@ -390,8 +430,10 @@
 
 
 +++++ +++++   工具   +++++ +++++
+	https://paste.ubuntu.com					2022-02-12
+	https://grammarly.com					2022-02-10
 	http://xiaoshujiang.com/					2022-01-25
-	https://mirrors.bfsu.edu.cn/		北京外国语大学开源软件镜像站			2021-12-24
+	https://mirrors.bfsu.edu.cn/			北京外国语大学开源软件镜像站		2021-12-24
 	https://zhutix.com/			『致美化 - 最专业的桌面美化交流平台 - 漫锋网』		2021-10-23
 	https://www.geogebra.org/			『GeoGebra - 风靡世界, 过亿师生沉迷使用的免费数学软件』		2021-10-22
 	http://www.xitie.com/			『西贴 - 历史价格查询|网上商城价格走势图』		2021-10-06
@@ -450,6 +492,8 @@
 	https://www.wangzhanchi.com/			『网站目录_分类目录_网站大全__国内外网址大全应有尽有 - 网站池』
 	https://chinag.pro/			『ChinaG.PRO - 学习网址导航』
 ->-+-   软件下载   -+-<-
+	https://winmerge.org/			WinMerge 官网		2022-02-07
+	https://kdenlive.org/			Kdenlive | KDE Non-Linear Video Editor (KDE 非线性视频编辑工具) | 支持 GNU/Linux、Windows、macOS 和 BSD		2022-02-06
 	https://atom.io/			Atom官方网站		2022-01-26
 	https://geekuninstaller.com/			Geek Uninstaller		2022-01-21
 	https://bbs.binmt.cc/			『MT论坛 - MT官网_MT管理器论坛_MT管理器_MT管理器教程_MT最新版本』		2021-07-23
