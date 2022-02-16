@@ -1,4 +1,4 @@
-最后更新日期：2022-02-13
+最后更新日期：2022-02-16
 
 +++++ +++++   教育   +++++ +++++
 	https://gcompris.net/			GCompris 教育游戏 支持 Windows Android macOS GNU/Linux 树莓派		2022-02-06
@@ -53,6 +53,8 @@
 
 
 +++++ +++++   计算机   +++++ +++++
+	https://garlicspace.com/					2022-02-14
+	https://v2xtls.org/			『V2ray XTLS黑科技』   FoliageForest：包含翻墙软件教程		2022-02-13
 	https://mirrors.huaweicloud.com/			华为开源镜像站		2022-02-12
 	https://learnku.com/		LearnKu 终身编程者的知识社区			2022-02-11
 	https://virtualbox.org/			Oracle VM VirtualBox 官网		2022-02-10
@@ -273,6 +275,8 @@
 	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
 	https://whatk.me/			电脑系统重装『Whatk』
 ->-+-   GitHub Repository   -+-<-
+	https://github.com/SDU-Mirrors/wonderful-github-releases					2022-02-14
+	https://github.com/ziahamza/webui-aria2					2022-02-14
 	https://github.com/billie66/TLCL					2022-02-12
 	https://github.com/github/gitignore					2022-02-09
 	https://github.com/cli/cli/					2022-02-09
@@ -298,6 +302,10 @@
 	https://oulucloud.com/			『歐路雲 - 高防禦雲服務器|美国|加拿大|香港|新加坡|法國VPS|免費虛擬主機|海外VPS|海外服務器|VPS服務器|KVM服務器.』		2021-08-10
 	https://ypyun.top/			『斯故の月抛商店』		2021-08-10
 ->-+-   个人博客   -+-<-
+	https://coolshell.cn/			酷壳 – CoolShell		2022-02-16
+	https://dlonng.com/					2022-02-16
+	https://blog.utermux.dev/					2022-02-14
+	https://rain.baimuxym.cn/					2022-02-14
 	https://misakifx.github.io/					2022-02-11
 	https://leok77.cn/			FoliageForest：VirtualBox基础使用教程、开发环境搭建-Windows系统		2022-02-11
 	http://blog.xnnyygn.in/					2022-02-03
@@ -308,7 +316,7 @@
 	https://diygod.me/					2022-01-01
 	https://ursb.me/					2022-01-01
 	https://sameen.art/			可下载Adobe全家桶(win+mac)		2021-12-28
-	https://ivon852.github.io/					2021-12-25
+	https://ivon852.github.io/			中文繁体：Android 基本刷机流程、Android 11安装Busybox教学、VMware共享资料夹未出现的解决办法、Linux Deploy: 手机安装chroot Linux教学+ 后续优化、使用TWRP/Orangefox给Android整机备份    FoliageForest：有许多玩机知识		2021-12-25
 	https://goku.top/					2021-12-24
 	http://matrix67.com/					2021-12-12
 	https://www.summerain0.club/			『summerain0的个人博客 -』		2021-12-08
@@ -355,6 +363,7 @@
 	https://manpages.debian.org/buster/manpages-zh/index.html			Linux命令『Manpages of manpages-zh in Debian buster — Debian Manpages』		2021-08-18
 	https://man.zlon.org/buster/manpages-zh/index.html			Linux命令『Manpages of manpages-zh in Debian buster — Debian Manpages』		2021-08-18
 ->-+-   翻墙   -+-<-
+	https://haoel.github.io/			科学上网教程		2022-02-16
 	https://merlinblog.xyz/wiki/cfa.html			『Clash for Android教程 | 东半球第二好用的安卓翻墙工具 - Sabrina的万事屋』		2021-08-21
 	https://congcong0806.github.io/2018/04/20/SS/			『SS/SSR/V2Ray/Clash 简介和客户端软件下载 - 聪聪 Blog』		2021-08-21
 	https://v2raytech.com/differences-between-individuals/			与翻墙相关的很多内容『理解人与人之间的差距 - V2ray科技』		2021-07-31
@@ -373,6 +382,7 @@
 	https://ld246.com/			『链滴』
 	https://pediy.com/			『看雪学院-安全培训|安全招聘|www.kanxue.com』
 ->-+-   教程   -+-<-
+	http://terrychen.info/					2022-02-14
 	https://worldhello.net/gotgit/			Git权威指南   FoliageForest：在线免费的 Git 书籍		2022-02-13
 	https://blog.csdn.net/u011863024/article/details/118562748			FokiageForest：Git教程		2022-02-13
 	https://www.leok77.cn/2021/02/07/ComputerScience/开发环境搭建-Windows系统/			开发环境搭建-Windows系统   FoliageForest：质量较高		2022-02-12
