@@ -1,4 +1,4 @@
-最后更新日期：2022-02-16
+最后更新日期：2022-02-21
 
 +++++ +++++   教育   +++++ +++++
 	https://gcompris.net/			GCompris 教育游戏 支持 Windows Android macOS GNU/Linux 树莓派		2022-02-06
@@ -53,6 +53,10 @@
 
 
 +++++ +++++   计算机   +++++ +++++
+	https://weibo.com/u/1112829033			下载Adobe系列软件的破解版    微博@vposy		2022-02-20
+	https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md			Git飞行规则(Flight Rules)		2022-02-17
+	https://thu-ios.github.io/tutorials/			Introduction of Tutorials for THU iOS Club | THU iOS Club 的文档 / 教程 / 资源		2022-02-17
+	http://manual.51yip.com/					2022-02-16
 	https://garlicspace.com/					2022-02-14
 	https://v2xtls.org/			『V2ray XTLS黑科技』   FoliageForest：包含翻墙软件教程		2022-02-13
 	https://mirrors.huaweicloud.com/			华为开源镜像站		2022-02-12
@@ -75,7 +79,7 @@
 	https://github.com/pcottle/learnGitBranching			Learn Git Branching 官方 GitHub Repository		2022-02-07
 	https://kdevelop.org/			KDevelop - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP		2022-02-06
 	https://kubuntu.org/					2022-02-06
-	https://krita.org/			Krita 自由开源的免费绘画软件 官方网站 首要用途是绘画，其次才是图像处理		2022-02-05
+	https://krita.org/			Krita 自由开源的免费绘画软件 官方网站：首要用途是绘画，其次才是图像处理		2022-02-05
 	https://gitforwindows.org/			Git for Windows		2022-02-02
 	https://juejin.cn/			掘金		2022-02-02
 	https://alternativeto.net/			AlternativeTo		2022-02-02
@@ -103,7 +107,6 @@
 	https://rustdesk.com/			RustDesk | 开源远程桌面软件(备注_by-FoliageForest：网站末尾补上/zh/切换为中文)		2022-01-04
 	https://realtimerendering.com/					2022-01-03
 	https://gameprogrammingpatterns.com/					2022-01-03
-	https://m.weibo.cn/u/1112829033			微博@vposy		2022-01-01
 	https://github.com/DIYgod/DPlayer/					2022-01-01
 	https://apache.org/					2022-01-01
 	http://www.javathinker.net/					2021-12-27
@@ -275,6 +278,7 @@
 	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
 	https://whatk.me/			电脑系统重装『Whatk』
 ->-+-   GitHub Repository   -+-<-
+	https://github.com/THU-iOS/tutorials/					2022-02-16
 	https://github.com/SDU-Mirrors/wonderful-github-releases					2022-02-14
 	https://github.com/ziahamza/webui-aria2					2022-02-14
 	https://github.com/billie66/TLCL					2022-02-12
@@ -302,6 +306,8 @@
 	https://oulucloud.com/			『歐路雲 - 高防禦雲服務器|美国|加拿大|香港|新加坡|法國VPS|免費虛擬主機|海外VPS|海外服務器|VPS服務器|KVM服務器.』		2021-08-10
 	https://ypyun.top/			『斯故の月抛商店』		2021-08-10
 ->-+-   个人博客   -+-<-
+	https://monsterhxw.github.io/					2022-02-19
+	https://iissnan.com/					2022-02-17
 	https://coolshell.cn/			酷壳 – CoolShell		2022-02-16
 	https://dlonng.com/					2022-02-16
 	https://blog.utermux.dev/					2022-02-14
@@ -350,6 +356,8 @@
 	https://linuxstudy.cn/			『Linux Study』
 	https://blog.lvcshu.com/			『johnpoint's blog』
 ->-+-   Linux   -+-<-
+	https://shellscript.readthedocs.io/			Shell编程		2022-02-21
+	https://codetoolchains.readthedocs.io/			CodeToolchains’s documentation    FoliageForest:Git、Linux、Shell等		2022-02-21
 	https://man.linuxde.net/			『Linux命令大全』		2021-08-17
 	https://www.archlinuxcn.org/			『Arch Linux』		2021-08-14
 	http://linux.51yip.com/			Linux命令『linux 命令 在线中文手册』		2021-08-17
@@ -382,6 +390,9 @@
 	https://ld246.com/			『链滴』
 	https://pediy.com/			『看雪学院-安全培训|安全招聘|www.kanxue.com』
 ->-+-   教程   -+-<-
+	https://iissnan.com/progit/			Pro Git 简体中文版		2022-02-17
+	https://www.bilibili.com/video/BV1fv411B73p					2022-02-16
+	https://coolshell.cn/articles/5426.html			简明 Vim 练级攻略		2022-02-16
 	http://terrychen.info/					2022-02-14
 	https://worldhello.net/gotgit/			Git权威指南   FoliageForest：在线免费的 Git 书籍		2022-02-13
 	https://blog.csdn.net/u011863024/article/details/118562748			FokiageForest：Git教程		2022-02-13
