@@ -1,6 +1,7 @@
-最后更新日期：2022-02-21
+最后更新日期：2022-03-14
 
 +++++ +++++   教育   +++++ +++++
+	https://ismart.hep.com.cn/			iSmart		2022-02-28
 	https://gcompris.net/			GCompris 教育游戏 支持 Windows Android macOS GNU/Linux 树莓派		2022-02-06
 	https://psychologytoday.com/			有许多英语文章(不含翻译)		2021-12-29
 	https://sciencedaily.com/			ScienceDaily		2021-12-28
@@ -53,14 +54,25 @@
 
 
 +++++ +++++   计算机   +++++ +++++
-	https://weibo.com/u/1112829033			下载Adobe系列软件的破解版    微博@vposy		2022-02-20
+	https://bilili.sigure.xyz/					2022-03-12
+	https://python.org/					2022-03-12
+	https://bilili.nyakku.moe/			bilibili video and danmaku downloader | B 站视频、弹幕下载器  bilili		2022-03-12
+	https://mirrors.huaweicloud.com/			华为开源镜像站		2022-03-07
+	https://geeksforgeeks.org/			许多计算机教程(英语)		2022-03-01
+	https://trackerslist.com/			BitTorrent Tracker 列表		2022-03-01
+	https://github.com/justjavac/free-programming-books-zh_cn			免费的编程中文书籍索引		2022-02-27
+	https://opensource.builders/					2022-02-22
+	https://macwk.com/					2022-02-22
+	https://howtogeek.com/			How-To Geek		2022-02-22
+	https://gitlab.com/			GitLab		2022-02-21
+	https://weibo.com/u/1112829033			下载Adobe系列软件的破解版，同时提供百度云和天翼云网盘    微博@vposy		2022-02-20
 	https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md			Git飞行规则(Flight Rules)		2022-02-17
 	https://thu-ios.github.io/tutorials/			Introduction of Tutorials for THU iOS Club | THU iOS Club 的文档 / 教程 / 资源		2022-02-17
 	http://manual.51yip.com/					2022-02-16
 	https://garlicspace.com/					2022-02-14
 	https://v2xtls.org/			『V2ray XTLS黑科技』   FoliageForest：包含翻墙软件教程		2022-02-13
 	https://mirrors.huaweicloud.com/			华为开源镜像站		2022-02-12
-	https://learnku.com/		LearnKu 终身编程者的知识社区			2022-02-11
+	https://learnku.com/			LearnKu 终身编程者的知识社区		2022-02-11
 	https://virtualbox.org/			Oracle VM VirtualBox 官网		2022-02-10
 	https://vmware.com/			VMware 官网		2022-02-10
 	https://tortoisesvn.net/					2022-02-10
@@ -278,6 +290,16 @@
 	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
 	https://whatk.me/			电脑系统重装『Whatk』
 ->-+-   GitHub Repository   -+-<-
+	https://github.com/blynn/gitmagic			A guide to using Git | 英语Git教程(带中文翻译) by FoliageForest		2022-03-14
+	https://github.com/yutto-dev/yutto			B站视频下载器yutto		2022-03-12
+	https://github.com/yutto-dev/bilili			bilili - B 站视频下载器		2022-03-12
+	https://github.com/XIU2/TrackersListCollection			BitTorrent Tracker 列表		2022-03-01
+	https://github.com/agalwood/Motrix					2022-02-28
+	https://github.com/goldendict/goldendict/					2022-02-27
+	https://github.com/BLKSerene/Wordless					2022-02-27
+	https://github.com/skywind3000/ECDICT					2022-02-27
+	https://github.com/fxsjy/diaosi					2022-02-27
+	https://github.com/zszdevelop/java-study-gitbook					2022-02-25
 	https://github.com/THU-iOS/tutorials/					2022-02-16
 	https://github.com/SDU-Mirrors/wonderful-github-releases					2022-02-14
 	https://github.com/ziahamza/webui-aria2					2022-02-14
@@ -306,6 +328,7 @@
 	https://oulucloud.com/			『歐路雲 - 高防禦雲服務器|美国|加拿大|香港|新加坡|法國VPS|免費虛擬主機|海外VPS|海外服務器|VPS服務器|KVM服務器.』		2021-08-10
 	https://ypyun.top/			『斯故の月抛商店』		2021-08-10
 ->-+-   个人博客   -+-<-
+	https://nyakku.moe/					2022-03-12
 	https://monsterhxw.github.io/					2022-02-19
 	https://iissnan.com/					2022-02-17
 	https://coolshell.cn/			酷壳 – CoolShell		2022-02-16
@@ -341,7 +364,7 @@
 	https://blog.linjunhalida.com/			『网络寻租』		2021-07-31
 	https://zhangyiming748.github.io/			挺有趣的『技术博客』		2021-07-30
 	https://sobaigu.com/			『搜百谷 | 达则兼济天下尤物，懒人改变世界劳模！』		2021-07-30
-	https://qaiu.top/			1.安卓手机端编程App;2.C4droid下载使用『I'm QAIU』		2021-07-30
+	https://qaiu.top/			1.安卓手机端编程App;2.C4droid下载使用;3.git命令简明教程『I'm QAIU』		2021-07-30
 	https://tingtalk.me/			Telegram新手教程『庭说 - 保持蓬勃的好奇心』		2021-07-28
 	https://lgf.im/			个人博客『zu1k』		2021-07-27
 	https://www.dazhuanlan.com/			配合百度的站内搜使用『大专栏』
@@ -390,6 +413,12 @@
 	https://ld246.com/			『链滴』
 	https://pediy.com/			『看雪学院-安全培训|安全招聘|www.kanxue.com』
 ->-+-   教程   -+-<-
+	http://www-cs-students.stanford.edu/~blynn/gitmagic/			Git Magic | 英语Git教程(带中文翻译)		2022-03-14
+	https://w3schools.com/			计算机教程(英语)『W3Schools Online Web Tutorials』		2022-03-04
+	https://java.isture.com/			一堆教程		2022-02-25
+	https://baiyunju.cc/tag/adobe%e8%bd%af%e4%bb%b6			《Adobe全家桶激活、使用专栏》   | FoliageForest：关于Adobe软件的一些教程（盗版下载办法等）		2022-02-23
+	https://baiyunju.cc/8602			vposy大神破解的Adobe2022全家桶网盘下载网址、解压密码		2022-02-23
+	https://baiyunju.cc/tag/adobe-genp-jiaocheng			Adobe GenP使用教程		2022-02-23
 	https://iissnan.com/progit/			Pro Git 简体中文版		2022-02-17
 	https://www.bilibili.com/video/BV1fv411B73p					2022-02-16
 	https://coolshell.cn/articles/5426.html			简明 Vim 练级攻略		2022-02-16
@@ -451,6 +480,17 @@
 
 
 +++++ +++++   工具   +++++ +++++
+	https://tiansh.github.io/us-danmaku/bilibili/					2022-03-12
+	https://tiansh.github.io/us-danmaku/acfun/					2022-03-12
+	https://filezilla-project.org/			FTP client sever		2022-03-10
+	https://motrix.app/					2022-02-28
+	https://bitcomet.com/			BitComet、网站wiki中有BT中常见术语解释		2022-02-28
+	https://thefreedictionary.com/					2022-02-27
+	http://lingoes.cn/			词典库下载		2022-02-27
+	http://goldendict.org/			GoldenDict		2022-02-27
+	https://foldoc.org/					2022-02-27
+	https://mediafire.com/					2022-02-23
+	http://www.chendianrong.com/pdf			低价寻找电子书的方案		2022-02-23
 	https://paste.ubuntu.com					2022-02-12
 	https://grammarly.com					2022-02-10
 	http://xiaoshujiang.com/					2022-01-25
@@ -500,6 +540,9 @@
 	https://www.solvusoft.com/zh-cn/file-extensions/			『世界上最大的文件扩展名目录』
 	https://pan.naifei.cc/new/			百度网盘不限速下载『度云简易分享地址提取』
 	https://runine.cn/			百度网盘不限速下载『歪果不求仁』
+->-+-   素材下载   -+-<-
+	https://www.nipic.com/			昵图网		2022-03-13
+	https://pngbag.com/			PNGBAG素材网    矢量图片免费下载_by-FoliageForest		2022-03-09
 ->-+-   论坛   -+-<-
 	http://duzhitu.com/			不限于儿童早教『读知兔 - 儿童早教资源免费下载 - Powered by Discuz!』		2021-08-09
 ->-+-   电子书   -+-<-
@@ -513,6 +556,7 @@
 	https://www.wangzhanchi.com/			『网站目录_分类目录_网站大全__国内外网址大全应有尽有 - 网站池』
 	https://chinag.pro/			『ChinaG.PRO - 学习网址导航』
 ->-+-   软件下载   -+-<-
+	https://gimp.org/					2022-02-22
 	https://winmerge.org/			WinMerge 官网		2022-02-07
 	https://kdenlive.org/			Kdenlive | KDE Non-Linear Video Editor (KDE 非线性视频编辑工具) | 支持 GNU/Linux、Windows、macOS 和 BSD		2022-02-06
 	https://atom.io/			Atom官方网站		2022-01-26
@@ -557,6 +601,8 @@
 
 
 +++++ +++++   其他   +++++ +++++
+	https://monokakido.jp/					2022-03-01
+	https://baiyunju.cc/					2022-02-23
 	https://www.kintetsu.co.jp/foreign/chinese-kan/about/howto/before.html			车站用语(中、英、日等多语言)，点击交流卡		2022-01-15
 	https://neu-reality.com/			神经现实		2022-01-14
 	https://visuwords.com/					2021-12-01
