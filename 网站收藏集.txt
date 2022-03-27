@@ -1,4 +1,4 @@
-最后更新日期：2022-03-14
+最后更新日期：2022-03-27
 
 +++++ +++++   教育   +++++ +++++
 	https://ismart.hep.com.cn/			iSmart		2022-02-28
@@ -54,6 +54,34 @@
 
 
 +++++ +++++   计算机   +++++ +++++
+	https://libreoffice.org/			『Home | LibreOffice - Free Office Suite - Based on OpenOffice - Compatible with Microsoft』		2022-03-27
+	https://mingw-w64.org/			『MinGW-w64』		2022-03-27
+	https://oreo.moe/blog/			codeblocks 配置C&C++开发环境、VS Code 配置 C&C++ 开发环境 『Oreo』		2022-03-27
+	https://codeblocks.org/			『Code::Blocks - Code::Blocks』		2022-03-27
+	https://gradle.org/			『Gradle Build Tool』		2022-03-26
+	http://ctex.org/			『科技排版系统:CTEX』		2022-03-25
+	https://ctan.org/			『CTAN: Comprehensive TeX Archive Network』		2022-03-25
+	https://daringfireball.net/			『Daring Fireball』		2022-03-25
+	https://github.com/lifegpc/bili			『lifegpc/bili: A tool to download barrage/video from bilibili/acfun. Support English, Japanese and Chinese(China).一个Python编写的从Bilibili/Acfun下载弹幕/视频的工具。支持英语、日语和中文（中国）。（WEBGUI正在路上）』		2022-03-24
+	https://go.dev/			『The Go Programming Language』		2022-03-24
+	https://github.com/iawia002/lux			『iawia002/lux: 👾 Fast and simple video download library and CLI tool written in Go』		2022-03-24
+	https://github.com/latex3/latex2e			The LaTeX2e Kernel Code Repository		2022-03-21
+	https://latex-project.org			『LaTeX - A document preparation system』		2022-03-20
+	https://qt.io/			『Qt | Cross-platform software development for embedded &amp; desktop』		2022-03-20
+	https://github.com/forthespada/InterviewGuide			『forthespada/InterviewGuide: 「InterviewGuide」一个收录优质计算机校招、社招面试常见面试题的仓库』		2022-03-19
+	https://interviewguide.cn/			『阿秀的求职笔记』		2022-03-19
+	https://www.luogu.com.cn/			『首页 - 洛谷 | 计算机科学教育新生态』		2022-03-19
+	https://codeboxinc.com/					2022-03-19
+	https://levitate-qian.github.io/2021/08/27/hexo-blog/			『【转】Github+hexo博客搭建教程 | Levitate_』		2022-03-18
+	https://www.ibm.com/docs/zh/ds8870/7.5.0?topic=v75-glossary					2022-03-18
+	https://people.ubuntu.com/~happyaron/l10n/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%AD%E8%8B%B1%E5%AF%B9%E7%85%A7%E6%9C%AF%E8%AF%AD%E8%A1%A8-old.html			软件工程中英对照术语表(2002年)		2022-03-18
+	http://www.c4best.cn/			全国高校计算机大赛		2022-03-18
+	http://net.c4best.cn/			全国高校计算机大赛-网络技术挑战赛		2022-03-18
+	https://gplt.patest.cn/			『团体程序设计天梯赛』		2022-03-18
+	https://pintia.cn/			『PTA | 程序设计类实验辅助教学平台』		2022-03-18
+	https://patest.cn/			『PAT 计算机程序设计能力测试』		2022-03-18
+	https://blog.pintia.cn/					2022-03-18
+	https://opengapps.org/			The Open GApps Project		2022-03-14
 	https://bilili.sigure.xyz/					2022-03-12
 	https://python.org/					2022-03-12
 	https://bilili.nyakku.moe/			bilibili video and danmaku downloader | B 站视频、弹幕下载器  bilili		2022-03-12
@@ -290,6 +318,10 @@
 	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
 	https://whatk.me/			电脑系统重装『Whatk』
 ->-+-   GitHub Repository   -+-<-
+	https://github.com/gradle/gradle			『gradle/gradle: Adaptable, fast automation for all』		2022-03-26
+	https://github.com/EarsEyesMouth/computerese-cross-references			计算机专业术语对照		2022-03-18
+	https://github.com/imarvinle/awesome-cs-books			计算机书籍分享		2022-03-14
+	https://github.com/opengapps/opengapps			Open GApps		2022-03-14
 	https://github.com/blynn/gitmagic			A guide to using Git | 英语Git教程(带中文翻译) by FoliageForest		2022-03-14
 	https://github.com/yutto-dev/yutto			B站视频下载器yutto		2022-03-12
 	https://github.com/yutto-dev/bilili			bilili - B 站视频下载器		2022-03-12
@@ -328,12 +360,16 @@
 	https://oulucloud.com/			『歐路雲 - 高防禦雲服務器|美国|加拿大|香港|新加坡|法國VPS|免費虛擬主機|海外VPS|海外服務器|VPS服務器|KVM服務器.』		2021-08-10
 	https://ypyun.top/			『斯故の月抛商店』		2021-08-10
 ->-+-   个人博客   -+-<-
+	https://www.utermux.dev/			『2096779623』		2022-03-27
+	https://levitate-qian.github.io/			『Levitate_ | 倘若正有一朵白云闪耀，那就望云爬坡吧。』		2022-03-18
+	https://ming-lian.github.io/					2022-03-17
+	https://tonzinonin.github.io/			tonzinonin		2022-03-14
 	https://nyakku.moe/					2022-03-12
 	https://monsterhxw.github.io/					2022-02-19
 	https://iissnan.com/					2022-02-17
 	https://coolshell.cn/			酷壳 – CoolShell		2022-02-16
 	https://dlonng.com/					2022-02-16
-	https://blog.utermux.dev/					2022-02-14
+	https://blog.utermux.dev/			『Utermux博客』		2022-02-14
 	https://rain.baimuxym.cn/					2022-02-14
 	https://misakifx.github.io/					2022-02-11
 	https://leok77.cn/			FoliageForest：VirtualBox基础使用教程、开发环境搭建-Windows系统		2022-02-11
@@ -413,6 +449,10 @@
 	https://ld246.com/			『链滴』
 	https://pediy.com/			『看雪学院-安全培训|安全招聘|www.kanxue.com』
 ->-+-   教程   -+-<-
+	http://mohu.org/info/symbols/symbols.htm			『常用数学符号的 LaTeX 表示方法』		2022-03-25
+	https://www.mohu.org/info/lshort-cn.pdf			LaTex 入门指南		2022-03-25
+	https://daringfireball.net/projects/markdown/syntax			『Daring Fireball: Markdown Syntax Documentation』		2022-03-25
+	https://tutorialspoint.com/			免费英文编程语言教程等		2022-03-14
 	http://www-cs-students.stanford.edu/~blynn/gitmagic/			Git Magic | 英语Git教程(带中文翻译)		2022-03-14
 	https://w3schools.com/			计算机教程(英语)『W3Schools Online Web Tutorials』		2022-03-04
 	https://java.isture.com/			一堆教程		2022-02-25
@@ -480,11 +520,18 @@
 
 
 +++++ +++++   工具   +++++ +++++
+	https://vip.test686.cf/			『vip视频解析 By 2096779623』		2022-03-27
+	https://github.com/huanghongxun/HMCL					2022-03-21
+	https://hmcl.huangyuhui.net/			免费、开源的 Minecraft 启动器 | 『Hello Minecraft! Launcher』		2022-03-21
+	https://hanbai.hocx.xyz/			知到代刷课		2022-03-20
+	https://www.newxitong.com/			『专注于Win7 - 致力于做最好用的win7系统【吻妻官网】』		2022-03=19
+	https://www.caam.rice.edu/~heinken/latex/symbols.pdf			LATEX Mathematical Symbols		2022-03-17
+	https://aidlux.com/			AidLux 官网		2022-03-14
 	https://tiansh.github.io/us-danmaku/bilibili/					2022-03-12
 	https://tiansh.github.io/us-danmaku/acfun/					2022-03-12
 	https://filezilla-project.org/			FTP client sever		2022-03-10
 	https://motrix.app/					2022-02-28
-	https://bitcomet.com/			BitComet、网站wiki中有BT中常见术语解释		2022-02-28
+	https://bitcomet.com/			BitComet、网站wiki中有 BT 常见术语解释		2022-02-28
 	https://thefreedictionary.com/					2022-02-27
 	http://lingoes.cn/			词典库下载		2022-02-27
 	http://goldendict.org/			GoldenDict		2022-02-27
