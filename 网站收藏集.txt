@@ -1,6 +1,40 @@
-最后更新日期：2022-03-27
+最后更新日期：2022-04-11
+
+
+
+目录：
+* 教育
+  |* 高考志愿填报
+  |* 电子教材
+* 生活
+  |* 地图
+* 计算机
+  |* GitHub Repository
+  |* 商家、市场
+  |* 个人博客
+  |* Linux
+    |* 命令查询
+  |* 翻墙
+  |* 论坛
+  |* 教程
+    |* Markdown教程
+  |* Xposed & Magisk
+* 工具
+  |* 素材下载
+  |* 论坛
+  |* 电子书
+  |* 网址导航
+  |* 软件下载
+* 娱乐
+  |* 漫画
+* 其他
+  |* 论坛
+
+
 
 +++++ +++++   教育   +++++ +++++
+	https://bdschool.cn/			『北京数字学校-首页』		2022-04-04
+	https://khanacademy.org/			『可汗学院 | 免费在线课程, 讲解以及练习』		2022-03-29
 	https://ismart.hep.com.cn/			iSmart		2022-02-28
 	https://gcompris.net/			GCompris 教育游戏 支持 Windows Android macOS GNU/Linux 树莓派		2022-02-06
 	https://psychologytoday.com/			有许多英语文章(不含翻译)		2021-12-29
@@ -54,7 +88,26 @@
 
 
 +++++ +++++   计算机   +++++ +++++
-	https://libreoffice.org/			『Home | LibreOffice - Free Office Suite - Based on OpenOffice - Compatible with Microsoft』		2022-03-27
+	https://code.visualstudio.com/			『Visual Studio Code - Code Editing. Redefined』		2022-04-09
+	https://godotengine.org/			『Godot Engine - Free and open source 2D and 3D game engine』		2022-04-09
+	https://visualstudio.microsoft.com/			『Visual Studio: 面向软件开发人员和 Teams 的 IDE 和代码编辑器』		2022-04-09
+	https://netbeans.apache.org/			『Welcome to Apache NetBeans』		2022-04-09
+	https://tonymacx86.com/			『Home | tonymacx86.com』		2022-04-08
+	https://jmeubank.github.io/tdm-gcc/			『tdm-gcc』		2022-04-05
+	https://tightvnc.com/			『TightVNC: VNC-Compatible Free Remote Control / Remote Desktop Software』		2022-04-04
+	https://www.nowcoder.com/			『牛客网-找工作神器|笔试题库|面试经验|实习招聘内推，求职就业一站解决_牛客网』		2022-04-04
+	https://juicessh.com/			『JuiceSSH - Free SSH client for Android』		2022-04-01
+	https://glfw.org/			『An OpenGL library | GLFW』		2022-04-01
+	https://lazyfoo.net/			『Lazy Foo' Productions』		2022-04-01
+	https://tjumyk.github.io/			『Kelvin喵~ | Yukai (Kelvin) Miao’s homepage at GitHub』		2022-04-01
+	https://developer.mozilla.org/			『MDN Web Docs』		2022-03-30
+	https://code.org/			『  马上开始学习，打造更美好的明天。 | Code.org』		2022-03-29
+	https://putty.org/			『Download PuTTY - a free SSH and telnet client for Windows』		2022-03-29
+	https://wenjiangs.com/			『文江博客 - 文江的个人博客，平凡的草根站长』		2022-03-29
+	https://iowiki.com/			提供计算机中文教程（例如中文 Java 基础教程）『WIKI教程』		2022-03-29
+	https://reactjs.org/			『React 官方中文文档 – 用于构建用户界面的 JavaScript 库』		2022-03-28
+	https://github.com/kaiyiwing/qwerty-learner			『Kaiyiwing/qwerty-learner: 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers』		2022-03-28
+	https://libreoffice.org/			『主页 | LibreOffice 简体中文官方网站 - 自由免费的办公套件』		2022-03-27
 	https://mingw-w64.org/			『MinGW-w64』		2022-03-27
 	https://oreo.moe/blog/			codeblocks 配置C&C++开发环境、VS Code 配置 C&C++ 开发环境 『Oreo』		2022-03-27
 	https://codeblocks.org/			『Code::Blocks - Code::Blocks』		2022-03-27
@@ -317,7 +370,19 @@
 	https://calibre-ebook.com/			软件『calibre - 电子书管理』
 	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
 	https://whatk.me/			电脑系统重装『Whatk』
-->-+-   GitHub Repository   -+-<-
+->-+-   GitHub Repository   -+-<
+	https://github.com/mozeal/SDL_gui			『mozeal/SDL_gui: GUI library for SDL2』		2022-04-11
+	https://github.com/godotengine/godot			『godotengine/godot: Godot Engine – Multi-platform 2D and 3D game engine』		2022-04-09
+	https://github.com/pbatard/rufus			『pbatard/rufus: The Reliable USB Formatting Utility』		2022-04-09
+	https://github.com/oneget/oneget			『OneGet/oneget: PackageManagement (aka OneGet) is a package manager for Windows』		2022-04-08
+	https://github.com/royqh1979/RedPanda-CPP			『royqh1979/RedPanda-CPP: A light-weight C/C++ IDE based on Qt』		2022-04-05
+	https://github.com/royqh1979/Dev-Cpp			Dev-C++ 的一个分支『royqh1979/Dev-CPP: A greatly improved Dev-Cpp』		2022-04-05
+	https://github.com/Embarcadero/Dev-Cpp			Dev-C++ 的一个分支『Embarcadero/Dev-Cpp: A fast, portable, simple, and free C/C++ IDE』		2022-04-04
+	https://github.com/2moe/tmoe-linux/			『2moe/tmoe-linux: Without any basic knowledge of linux shell, you can easily install and configure a GNU/Linux graphical desktop environment on 📱Android termux and 💻WSL .🍰You can also run VSCode on your android phone.』		2022-04-04
+	https://github.com/nightmare-space/vscode_for_android/			『nightmare-space/vscode_for_android: 安卓本地使用vs code编辑器实现方案』		2022-04-04
+	https://github.com/andOTP/andOTP			『andOTP/andOTP: Open source two-factor authentication for Android』		2022-04-04
+	https://github.com/snailclimb/javaguide			『Snailclimb/JavaGuide: 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！』		2022-04-03
+	https://github.com/meefik/linuxdeploy-cli			『meefik/linuxdeploy-cli: Linux Deploy CLI』		2022-04-01
 	https://github.com/gradle/gradle			『gradle/gradle: Adaptable, fast automation for all』		2022-03-26
 	https://github.com/EarsEyesMouth/computerese-cross-references			计算机专业术语对照		2022-03-18
 	https://github.com/imarvinle/awesome-cs-books			计算机书籍分享		2022-03-14
@@ -360,6 +425,7 @@
 	https://oulucloud.com/			『歐路雲 - 高防禦雲服務器|美国|加拿大|香港|新加坡|法國VPS|免費虛擬主機|海外VPS|海外服務器|VPS服務器|KVM服務器.』		2021-08-10
 	https://ypyun.top/			『斯故の月抛商店』		2021-08-10
 ->-+-   个人博客   -+-<-
+	https://acking-you.xyz/			『L_B__』		2022-04-04
 	https://www.utermux.dev/			『2096779623』		2022-03-27
 	https://levitate-qian.github.io/			『Levitate_ | 倘若正有一朵白云闪耀，那就望云爬坡吧。』		2022-03-18
 	https://ming-lian.github.io/					2022-03-17
@@ -437,6 +503,7 @@
 	https://shadowsocks.org/			『Shadowsocks - A fast tunnel proxy that helps you bypass firewalls』		2021-07-31
 	https://doubi.us/			『逗比翻墙网 - 世界那么逗，我想翻墙看看』
 ->-+-   论坛   -+-<-
+	https://v2ex.com/			『V2EX』		2022-04-04
 	https://wszgw.net/			亚洲卫星电视家电维修论坛		2022-01-28
 	https://community.aidlux.com/					2021-12-12
 	https://bbs.pcbeta.com/			『论坛 - 远景论坛 - 微软极客社区』		2021-11-24
@@ -449,6 +516,11 @@
 	https://ld246.com/			『链滴』
 	https://pediy.com/			『看雪学院-安全培训|安全招聘|www.kanxue.com』
 ->-+-   教程   -+-<-
+	https://ruanyifeng.com/blog/2017/11/2fa-tutorial.html			『双因素认证（2FA）教程 - 阮一峰的网络日志』		2022-04-04
+	http://tjumyk.github.io/sdl-tutorial-cn/			『SDL中文教程』		2022-04-01
+	https://github.com/tjumyk/sdl-tutorial-cn			『tjumyk/sdl-tutorial-cn: A Chinese translation of Lazy Foo&#39;s tutorial for SDL 1.2』		2022-04-01
+	https://en.wikibooks.org/wiki/LaTeX/Mathematics			『LaTeX/Mathematics - Wikibooks, open books for an open world』		2022-03-31
+	https://wenjiangs.com/docs/java-docs			『学习 Java 编程  文档中心 - 文江博客』		2022-03-29
 	http://mohu.org/info/symbols/symbols.htm			『常用数学符号的 LaTeX 表示方法』		2022-03-25
 	https://www.mohu.org/info/lshort-cn.pdf			LaTex 入门指南		2022-03-25
 	https://daringfireball.net/projects/markdown/syntax			『Daring Fireball: Markdown Syntax Documentation』		2022-03-25
@@ -465,7 +537,7 @@
 	http://terrychen.info/					2022-02-14
 	https://worldhello.net/gotgit/			Git权威指南   FoliageForest：在线免费的 Git 书籍		2022-02-13
 	https://blog.csdn.net/u011863024/article/details/118562748			FokiageForest：Git教程		2022-02-13
-	https://www.leok77.cn/2021/02/07/ComputerScience/开发环境搭建-Windows系统/			开发环境搭建-Windows系统   FoliageForest：质量较高		2022-02-12
+	https://www.leok77.cn/2021/02/07/ComputerScience/开发环境搭建-Windows系统/			开发环境搭建-Windows系统    Dev-C++ 各分支下载   FoliageForest：质量较高		2022-02-12
 	https://www.leok77.cn/2021/01/28/ComputerScience/VirtualBox%E5%9F%BA%E7%A1%80%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/		VirtualBox基础使用教程			2022-02-11
 	http://www.srees.ynu.edu.cn/__local/1/90/67/98D48A1969648C683EC683CC6DA_DBDAE436_51FBF8.pdf					2022-02-11
 	https://www.howlifeusa.com/best-virtual-machine-software/			虚拟机软件		2022-02-10
@@ -520,6 +592,12 @@
 
 
 +++++ +++++   工具   +++++ +++++
+	https://royqh1979.gitee.io/redpandacpp/			一个 C/C++ IDE 的官网『小熊猫C&#43;&#43;』		2022-04-05
+	https://iwin10.net/			『专注于Win10 - 更专注,才更出色』		2022-04-04
+	https://zy.xywlapi.cc/			『XApi』		2022-04-04
+	https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols			『List of LaTeX mathematical symbols - OeisWiki』		2022-03-31
+	https://okular.kde.org/			『Okular - The Universal Document Viewer』		2022-03-30
+	https://time.is/			『Time.is - 所有时区的精确时间』		2022-03-30
 	https://vip.test686.cf/			『vip视频解析 By 2096779623』		2022-03-27
 	https://github.com/huanghongxun/HMCL					2022-03-21
 	https://hmcl.huangyuhui.net/			免费、开源的 Minecraft 启动器 | 『Hello Minecraft! Launcher』		2022-03-21
@@ -529,7 +607,7 @@
 	https://aidlux.com/			AidLux 官网		2022-03-14
 	https://tiansh.github.io/us-danmaku/bilibili/					2022-03-12
 	https://tiansh.github.io/us-danmaku/acfun/					2022-03-12
-	https://filezilla-project.org/			FTP client sever		2022-03-10
+	https://filezilla-project.org/			『FileZilla - The free FTP solution』		2022-03-30
 	https://motrix.app/					2022-02-28
 	https://bitcomet.com/			BitComet、网站wiki中有 BT 常见术语解释		2022-02-28
 	https://thefreedictionary.com/					2022-02-27
@@ -603,6 +681,8 @@
 	https://www.wangzhanchi.com/			『网站目录_分类目录_网站大全__国内外网址大全应有尽有 - 网站池』
 	https://chinag.pro/			『ChinaG.PRO - 学习网址导航』
 ->-+-   软件下载   -+-<-
+	http://www.tbtool.cn/			『图吧工具箱 - 最纯净的硬件工具箱』		2022-04-02
+	https://sublimetext.com/			『Sublime Text - Text Editing, Done Right』		2022-03-29
 	https://gimp.org/					2022-02-22
 	https://winmerge.org/			WinMerge 官网		2022-02-07
 	https://kdenlive.org/			Kdenlive | KDE Non-Linear Video Editor (KDE 非线性视频编辑工具) | 支持 GNU/Linux、Windows、macOS 和 BSD		2022-02-06
@@ -648,6 +728,12 @@
 
 
 +++++ +++++   其他   +++++ +++++
+	https://thoughtco.com/			『ThoughtCo.com is the World&#39;s Largest Education Resource』		2022-04-10
+	https://frontiersin.org/			『Frontiers | Peer Reviewed Articles - Open Access Journals』		2022-04-06
+	https://academic.oup.com/			『Journals | Oxford Academic』		2022-04-06
+	https://doi.org/			『Digital Object Identifier System』		2022-04-06
+	https://zsxqs.com/			『首页 - 知识星宿』		2022-04-04
+	https://ala.org/			『American Library Association | Awards, publishing, and conferences: ALA membership advocates to ensure access to information for all』		2022-03-29
 	https://monokakido.jp/					2022-03-01
 	https://baiyunju.cc/					2022-02-23
 	https://www.kintetsu.co.jp/foreign/chinese-kan/about/howto/before.html			车站用语(中、英、日等多语言)，点击交流卡		2022-01-15
