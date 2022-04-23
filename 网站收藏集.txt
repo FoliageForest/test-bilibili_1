@@ -1,4 +1,4 @@
-最后更新日期：2022-04-11
+最后更新日期：2022-04-23
 
 
 
@@ -20,6 +20,7 @@
     |* Markdown教程
   |* Xposed & Magisk
 * 工具
+  |* PE 工具箱
   |* 素材下载
   |* 论坛
   |* 电子书
@@ -88,6 +89,13 @@
 
 
 +++++ +++++   计算机   +++++ +++++
+	https://wireshark.org/			『Wireshark · Go Deep.』		2022-04-19
+	https://www.kejiwanjia.com/			『科技玩家 - 发现科技的更多面』		2022-04-18
+	https://wahowe.github.io/Hello/			玩机资源分享		2022-04-16
+	https://aliyun.com/			『阿里云-上云就上阿里云』		2022-04-16
+	https://syncthing.net/			『Syncthing』		2022-04-15
+	https://arxiv.org/			『arXiv.org e-Print archive』		2022-04-15
+	https://joaoapps.com/			『Tasker and Join &#8211; Automate Your Life』		2022-04-12
 	https://code.visualstudio.com/			『Visual Studio Code - Code Editing. Redefined』		2022-04-09
 	https://godotengine.org/			『Godot Engine - Free and open source 2D and 3D game engine』		2022-04-09
 	https://visualstudio.microsoft.com/			『Visual Studio: 面向软件开发人员和 Teams 的 IDE 和代码编辑器』		2022-04-09
@@ -371,6 +379,13 @@
 	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
 	https://whatk.me/			电脑系统重装『Whatk』
 ->-+-   GitHub Repository   -+-<
+	https://github.com/Justin62628/Squirrel-RIFE			『Justin62628/Squirrel-RIFE: 效果更好的补帧软件，显存占用更小，是DAIN速度的10-25倍，包含抽帧处理，去除动漫卡顿感』		2022-04-19
+	https://github.com/blogwy/BilibiliVideoDownload			『blogwy/BilibiliVideoDownload: 跨平台下载bilibili视频桌面端软件，支持windows、macOS、Linux』		2022-04-19
+	https://github.com/gedoor/legado			『gedoor/legado: 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。』		2022-04-18
+	https://github.com/Genymobile/gnirehtet			『Genymobile/gnirehtet: Gnirehtet provides reverse tethering for Android』		2022-04-18
+	https://github.com/microsoft/winget-pkgs			『microsoft/winget-pkgs: The Microsoft community Windows Package Manager manifest repository』		2022-04-17
+	https://github.com/jgm/pandoc/			『jgm/pandoc: Universal markup converter』		2022-04-17
+	https://github.com/wahowe/Hello			玩机资源分享		2022-04-16
 	https://github.com/mozeal/SDL_gui			『mozeal/SDL_gui: GUI library for SDL2』		2022-04-11
 	https://github.com/godotengine/godot			『godotengine/godot: Godot Engine – Multi-platform 2D and 3D game engine』		2022-04-09
 	https://github.com/pbatard/rufus			『pbatard/rufus: The Reliable USB Formatting Utility』		2022-04-09
@@ -516,6 +531,9 @@
 	https://ld246.com/			『链滴』
 	https://pediy.com/			『看雪学院-安全培训|安全招聘|www.kanxue.com』
 ->-+-   教程   -+-<-
+	https://csdiy.wiki/			『CS自学指南』		2022-04-23
+	https://yeasy.gitbook.io/docker_practice/			『前言 - Docker — 从入门到实践』		2022-04-17
+	https://yeasy.gitbook.io/blockchain_guide/			『前言 - 区块链技术指南』		2022-04-17
 	https://ruanyifeng.com/blog/2017/11/2fa-tutorial.html			『双因素认证（2FA）教程 - 阮一峰的网络日志』		2022-04-04
 	http://tjumyk.github.io/sdl-tutorial-cn/			『SDL中文教程』		2022-04-01
 	https://github.com/tjumyk/sdl-tutorial-cn			『tjumyk/sdl-tutorial-cn: A Chinese translation of Lazy Foo&#39;s tutorial for SDL 1.2』		2022-04-01
@@ -566,6 +584,7 @@
 	https://github.com/iggredible/Learn-Vim			『iggredible/Learn-Vim: Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for.』		2021-07-22
 	https://sspai.com/post/43338			『Android 玩机终极指南 - 少数派』
 - -   Markdown教程   - -
+	https://www.kejiwanjia.com/jiaocheng/63759.html			『Hexo：Markdown 简明语法手册 - 科技玩家』		2022-04-19
 	https://markdown.xyz/			Markdown 指南中文版 | Markdown 中文网		2022-02-08
 	https://markdowntutorial.com/					2022-01-26
 	https://markdown.p2hp.com/basic-syntax/index.html			『Markdown基本语法 | Markdown 中文网』		2021-08-13
@@ -592,6 +611,7 @@
 
 
 +++++ +++++   工具   +++++ +++++
+	https://collinsdictionary.com/			英汉词典『Collins Online Dictionary | Definitions, Thesaurus and Translations』		2022-04-15
 	https://royqh1979.gitee.io/redpandacpp/			一个 C/C++ IDE 的官网『小熊猫C&#43;&#43;』		2022-04-05
 	https://iwin10.net/			『专注于Win10 - 更专注,才更出色』		2022-04-04
 	https://zy.xywlapi.cc/			『XApi』		2022-04-04
@@ -665,12 +685,15 @@
 	https://www.solvusoft.com/zh-cn/file-extensions/			『世界上最大的文件扩展名目录』
 	https://pan.naifei.cc/new/			百度网盘不限速下载『度云简易分享地址提取』
 	https://runine.cn/			百度网盘不限速下载『歪果不求仁』
+->-+-   PE 工具箱   -+-<-
+	https://hotpe.top/			PE 工具箱『首页 - HotPE』		2022-04-18
 ->-+-   素材下载   -+-<-
 	https://www.nipic.com/			昵图网		2022-03-13
 	https://pngbag.com/			PNGBAG素材网    矢量图片免费下载_by-FoliageForest		2022-03-09
 ->-+-   论坛   -+-<-
 	http://duzhitu.com/			不限于儿童早教『读知兔 - 儿童早教资源免费下载 - Powered by Discuz!』		2021-08-09
 ->-+-   电子书   -+-<-
+	https://github.com/EbookFoundation/free-programming-books			免费中英文电子书『EbookFoundation/free-programming-books: Freely available programming books』		2022-04-23
 	https://lorefree.com/			『LoreFree - 首个基于EOS和IPFS的去中心化知识共享社区』
 	https://sobooks.cc/			『SoBooks - 优质的电子书资源下载网站』
 	https://z-lib.org/			『Z-Library. The world's largest ebook library.』
@@ -699,6 +722,7 @@
 
 
 +++++ +++++   娱乐   +++++ +++++
+	https://github.com/The-Run-Philosophy-Organization/run			『The-Run-Philosophy-Organization/run: 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。』		2022-04-19
 	https://undertale.com/			Undertale官网		2022-01-19
 	https://sxctdlkj.com/			看电影		2021-12-05
 	https://www.agefans.vip/			『在线动画 动漫下载 - AGE动漫』		2021-08-27
@@ -728,6 +752,7 @@
 
 
 +++++ +++++   其他   +++++ +++++
+	https://runoutfor.life/			『润学<!-- --> – Nextra<!-- -->』		2022-04-19
 	https://thoughtco.com/			『ThoughtCo.com is the World&#39;s Largest Education Resource』		2022-04-10
 	https://frontiersin.org/			『Frontiers | Peer Reviewed Articles - Open Access Journals』		2022-04-06
 	https://academic.oup.com/			『Journals | Oxford Academic』		2022-04-06
