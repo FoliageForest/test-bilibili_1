@@ -1,4 +1,4 @@
-最后更新日期：2022-04-23
+最后更新日期：2022-05-29
 
 
 
@@ -6,6 +6,7 @@
 * 教育
   |* 高考志愿填报
   |* 电子教材
+  |* 英语
 * 生活
   |* 地图
 * 计算机
@@ -20,8 +21,9 @@
     |* Markdown教程
   |* Xposed & Magisk
 * 工具
+  |* 词典
   |* PE 工具箱
-  |* 素材下载
+  |* 设计师
   |* 论坛
   |* 电子书
   |* 网址导航
@@ -34,6 +36,9 @@
 
 
 +++++ +++++   教育   +++++ +++++
+	http://le.ouchn.cn/			『终身教育平台』		2022-05-24
+	https://ocw.mit.edu/			『MIT OpenCourseWare | Free Online Course Materials』		2022-05-16
+	https://zxx.edu.cn/			可下载电子教材『国家中小学智慧教育平台』		2022-05-01
 	https://bdschool.cn/			『北京数字学校-首页』		2022-04-04
 	https://khanacademy.org/			『可汗学院 | 免费在线课程, 讲解以及练习』		2022-03-29
 	https://ismart.hep.com.cn/			iSmart		2022-02-28
@@ -65,6 +70,8 @@
 	http://77ebooks.com/archives/894			高中数学人教A版电子教科书下载
 	http://dzkbw.com/			比较全的电子课本索引『电子课本-电子课本网』
 	https://mubu.com/mobile/doc/6qb36eMBSw			『【分享资料】高中课本分享』
+->-+-   英语   -+-<-
+	https://ncase.me/			『It's Nicky Case!』		2022-05-22
 
 
 
@@ -89,6 +96,21 @@
 
 
 +++++ +++++   计算机   +++++ +++++
+	https://getoutline.org/			『Outline VPN - 接入自由、开放的互联网』		2022-05-22
+	https://mermaid-js.github.io/			『mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.』		2022-05-19
+	https://ohshitgit.com/			『Oh Shit, Git!?!』		2022-05-15
+	https://developer.huawei.com/			『与开发者共建万物互联的智能世界 - 华为』		2022-05-15
+	http://gitbook.net/			『极客书-最实用的编程基础教程集合』		2022-05-12
+	http://java2s.com/			『Programming Tutorials and Source Code Examples』		2022-05-11
+	https://apiref.com/			『API Reference Document』		2022-05-10
+	https://zetcode.com/			『ZetCode - Go, C#, Python, Java, JavaScript programming』		2022-05-07
+	http://imooc.com/wiki/			『慕课教程-编程入门快速学习手册』		2022-04-27
+	https://cpux.net/			『CPU Expert』		2022-04-25
+	https://xege.org/			『Easy Graphics Engine &#8211; EGE图形库主站』		2022-04-24
+	https://resilio.com/			『Resilio File Sync Software | Unify, Control, and Accelerate Global Enterprise File Workflows』		2022-04-23
+	https://cs61a.org/			『CS 61A Spring 2022』		2022-04-23
+	https://composingprograms.com/			『Composing Programs』		2022-04-23
+	https://cygwin.com/			『Cygwin』		2022-04-23
 	https://wireshark.org/			『Wireshark · Go Deep.』		2022-04-19
 	https://www.kejiwanjia.com/			『科技玩家 - 发现科技的更多面』		2022-04-18
 	https://wahowe.github.io/Hello/			玩机资源分享		2022-04-16
@@ -312,7 +334,7 @@
 	https://www.ithome.com/			『IT之家 - 爱科技，爱这里 - 前沿科技新闻网站』		2021-08-08
 	https://quickvideosharing.github.io/QinYingNote/			『沁影的网络备忘录 | QinYingNote』		2021-08-07
 	https://github.com/programthink/			电子书清单、开源项目清单『programthink (编程随想)』		2021-08-07
-	https://program-think.blogspot.com/			可能非常重要？『编程随想的博客』		2021-08-07
+	https://program-think.blogspot.com/			多种计算机技术『编程随想的博客』		2021-08-07
 	https://sct.ftqq.com/			『Server酱·Turbo版』		2021-08-07
 	https://ipq.co/			『IPQuick: create dns records instantly』		2021-08-05
 	https://virmach.com/			『Cheap Windows VPS & Linux VPS - VirMach.com | The Best & Cheapest VPS Cloud Hosting』		2021-08-07
@@ -379,6 +401,20 @@
 	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
 	https://whatk.me/			电脑系统重装『Whatk』
 ->-+-   GitHub Repository   -+-<
+	https://github.com/GrowingGit/GitHub-Chinese-Top-Charts			『GrowingGit/GitHub-Chinese-Top-Charts: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。』		2022-05-29
+	https://github.com/miloyip/json-tutorial			『miloyip/json-tutorial: 从零开始的 JSON 库教程』		2022-05-29
+	https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES			『moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES: 《计算机网络－自顶向下方法(原书第6版)》编程作业，Wireshark实验文档的翻译和解答。』		2022-05-29
+	https://github.com/DCCXI/trust-zh-CN			『dccxi/trust-zh-CN: 一个合作博弈论的互动讲解手册 An interactive guide to the game theory of cooperation』		2022-05-22
+	https://github.com/Light-City/CPlusPlusThings			『Light-City/CPlusPlusThings: C++那些事』		2022-05-22
+	https://github.com/MatsuriDayo/Matsuri			『MatsuriDayo/Matsuri: Matsuri (茉莉) / Android proxy toolchain / 安卓代理应用 / Fork of SagerNet』		2022-05-22
+	https://github.com/mermaid-js/mermaid/			『mermaid-js/mermaid: Generation of diagram and flowchart from text in a similar manner as markdown』		2022-05-19
+	https://github.com/NickeManarin/ScreenToGif			『NickeManarin/ScreenToGif: 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.』		2022-05-19
+	https://github.com/dcloudio/uni-app			『dcloudio/uni-app: uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架』		2022-05-14
+	https://github.com/apachecn/zetcode-zh/			『apachecn/zetcode-zh: [译] Zetcode 中文系列教程』		2022-05-07
+	https://github.com/521xueweihan/OneFile			『521xueweihan/OneFile: 只有一个文件！』		2022-05-02
+	https://github.com/cgdb/cgdb/			『cgdb/cgdb: Console front-end to the GNU debugger』		2022-04-23
+	https://github.com/sumatrapdfreader/sumatrapdf			『sumatrapdfreader/sumatrapdf: SumatraPDF reader』		2022-04-23
+	https://github.com/pkuflyingpig/cs-self-learning/			『PKUFlyingPig/cs-self-learning: 计算机自学指南』		2022-04-23
 	https://github.com/Justin62628/Squirrel-RIFE			『Justin62628/Squirrel-RIFE: 效果更好的补帧软件，显存占用更小，是DAIN速度的10-25倍，包含抽帧处理，去除动漫卡顿感』		2022-04-19
 	https://github.com/blogwy/BilibiliVideoDownload			『blogwy/BilibiliVideoDownload: 跨平台下载bilibili视频桌面端软件，支持windows、macOS、Linux』		2022-04-19
 	https://github.com/gedoor/legado			『gedoor/legado: 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。』		2022-04-18
@@ -440,6 +476,7 @@
 	https://oulucloud.com/			『歐路雲 - 高防禦雲服務器|美国|加拿大|香港|新加坡|法國VPS|免費虛擬主機|海外VPS|海外服務器|VPS服務器|KVM服務器.』		2021-08-10
 	https://ypyun.top/			『斯故の月抛商店』		2021-08-10
 ->-+-   个人博客   -+-<-
+	https://cnblogs.com/flytree/			Git基础使用指南-命令详解『会飞的一棵树 - 博客园』		2022-04-25
 	https://acking-you.xyz/			『L_B__』		2022-04-04
 	https://www.utermux.dev/			『2096779623』		2022-03-27
 	https://levitate-qian.github.io/			『Levitate_ | 倘若正有一朵白云闪耀，那就望云爬坡吧。』		2022-03-18
@@ -531,6 +568,10 @@
 	https://ld246.com/			『链滴』
 	https://pediy.com/			『看雪学院-安全培训|安全招聘|www.kanxue.com』
 ->-+-   教程   -+-<-
+	https://duhouan.github.io/java/			Java 的一些教程『Java』		2022-05-01
+	https://w3cschool.cn/			『w3cschool - 编程狮，随时随地学编程』		2022-05-01
+	https://wiki.jikexueyuan.com/			『极客学院Wiki - IT 技术图文教程库』		2022-04-30
+	https://www.jikexueyuan.com/			『极客学习平台 - 中国专业的IT职业在线教育平台』		2022-04-30
 	https://csdiy.wiki/			『CS自学指南』		2022-04-23
 	https://yeasy.gitbook.io/docker_practice/			『前言 - Docker — 从入门到实践』		2022-04-17
 	https://yeasy.gitbook.io/blockchain_guide/			『前言 - 区块链技术指南』		2022-04-17
@@ -611,7 +652,9 @@
 
 
 +++++ +++++   工具   +++++ +++++
-	https://collinsdictionary.com/			英汉词典『Collins Online Dictionary | Definitions, Thesaurus and Translations』		2022-04-15
+	https://fontforge.org/			『FontForge Open Source Font Editor』		2022-05-25
+	https://screentogif.com/			『ScreenToGif』		2022-05-19
+	https://upyunso.com/			『UP云搜 - 最全云盘资源搜索神器』		2022-05-01
 	https://royqh1979.gitee.io/redpandacpp/			一个 C/C++ IDE 的官网『小熊猫C&#43;&#43;』		2022-04-05
 	https://iwin10.net/			『专注于Win10 - 更专注,才更出色』		2022-04-04
 	https://zy.xywlapi.cc/			『XApi』		2022-04-04
@@ -685,9 +728,17 @@
 	https://www.solvusoft.com/zh-cn/file-extensions/			『世界上最大的文件扩展名目录』
 	https://pan.naifei.cc/new/			百度网盘不限速下载『度云简易分享地址提取』
 	https://runine.cn/			百度网盘不限速下载『歪果不求仁』
+->-+-   词典   -+-<-
+	https://merriam-webster.com/			『Dictionary by Merriam-Webster: America's most-trusted online dictionary』		2022-04-28
+	https://collinsdictionary.com/			英汉词典『Collins Online Dictionary | Definitions, Thesaurus and Translations』		2022-04-15
 ->-+-   PE 工具箱   -+-<-
 	https://hotpe.top/			PE 工具箱『首页 - HotPE』		2022-04-18
-->-+-   素材下载   -+-<-
+->-+-   设计师   -+-<-
+	https://hellofont.cn/			『字由-让设计更有价值』		2022-05-27
+	https://www.gtn9.com/			『古田路9号-品牌创意/版权保护平台』		2022-05-27
+	https://zcool.com.cn/			『站酷 (ZCOOL) - 设计师互动平台 - 打开站酷，发现更好的设计！』		2022-05-24
+	https://dribbble.com/			『Dribbble - Discover the World’s Top Designers &amp; Creative Professionals』		2022-05-24
+	https://huaban.com/			『花瓣网 - 陪你做生活的设计师（创意灵感天堂，搜索、发现设计灵感、设计素材）』		2022-05-24
 	https://www.nipic.com/			昵图网		2022-03-13
 	https://pngbag.com/			PNGBAG素材网    矢量图片免费下载_by-FoliageForest		2022-03-09
 ->-+-   论坛   -+-<-
@@ -752,6 +803,8 @@
 
 
 +++++ +++++   其他   +++++ +++++
+	https://dccxi.com/			『Tong Wu』		2022-05-22
+	https://libgen.is/			『Library Genesis』		2022-04-23
 	https://runoutfor.life/			『润学<!-- --> – Nextra<!-- -->』		2022-04-19
 	https://thoughtco.com/			『ThoughtCo.com is the World&#39;s Largest Education Resource』		2022-04-10
 	https://frontiersin.org/			『Frontiers | Peer Reviewed Articles - Open Access Journals』		2022-04-06
