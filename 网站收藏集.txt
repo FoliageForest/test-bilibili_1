@@ -1,4 +1,4 @@
-最后更新日期：2022-06-02
+最后更新日期：2022-06-21
 
 
 
@@ -36,6 +36,7 @@
 
 
 +++++ +++++   教育   +++++ +++++
+	https://www.icourses.cn/			『爱课程』		2022-06-16
 	http://le.ouchn.cn/			『终身教育平台』		2022-05-24
 	https://ocw.mit.edu/			『MIT OpenCourseWare | Free Online Course Materials』		2022-05-16
 	https://zxx.edu.cn/			可下载电子教材『国家中小学智慧教育平台』		2022-05-01
@@ -96,6 +97,9 @@
 
 
 +++++ +++++   计算机   +++++ +++++
+	https://jyywiki.cn/			『Yanyan's Wiki』		2022-06-22
+	https://ysyx.org/			『一生一芯计划』		2022-06-21
+	https://educoder.net/			『头歌实践教学平台』		2022-06-16
 	https://sandboxie-plus.com/			『Sandboxie-Plus | Open Source sandbox-based isolation software』		2022-06-03
 	https://getoutline.org/			『Outline VPN - 接入自由、开放的互联网』		2022-05-22
 	https://mermaid-js.github.io/			『mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.』		2022-05-19
@@ -402,6 +406,8 @@
 	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
 	https://whatk.me/			电脑系统重装『Whatk』
 ->-+-   GitHub Repository   -+-<
+	https://github.com/missing-semester-cn/missing-semester-cn.github.io/			『missing-semester-cn/missing-semester-cn.github.io: the CS missing semester Chinese version』		2022-06-22
+	https://github.com/jlevy/the-art-of-command-line			『jlevy/the-art-of-command-line: Master the command line, in one page』		2022-06-21
 	https://github.com/go-gitea/gitea			『go-gitea/gitea: Git with a cup of tea, painless self-hosted git service』		2022-06-09
 	https://github.com/GrowingGit/GitHub-Chinese-Top-Charts			『GrowingGit/GitHub-Chinese-Top-Charts: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。』		2022-05-29
 	https://github.com/miloyip/json-tutorial			『miloyip/json-tutorial: 从零开始的 JSON 库教程』		2022-05-29
@@ -557,6 +563,7 @@
 	https://shadowsocks.org/			『Shadowsocks - A fast tunnel proxy that helps you bypass firewalls』		2021-07-31
 	https://doubi.us/			『逗比翻墙网 - 世界那么逗，我想翻墙看看』
 ->-+-   论坛   -+-<-
+	https://52hb.com/			『吾爱汇编论坛-防破解,反调试,反汇编,软件安全,逆向分析-52hb.com』		2022-06-17
 	https://v2ex.com/			『V2EX』		2022-04-04
 	https://wszgw.net/			亚洲卫星电视家电维修论坛		2022-01-28
 	https://community.aidlux.com/					2021-12-12
@@ -570,6 +577,8 @@
 	https://ld246.com/			『链滴』
 	https://pediy.com/			『看雪学院-安全培训|安全招聘|www.kanxue.com』
 ->-+-   教程   -+-<-
+	https://missing-semester-cn.github.io/			『计算机教育中缺失的一课 &middot; the missing semester of your cs education』		2022-06-22
+	https://missing.csail.mit.edu/			『The Missing Semester of Your CS Education &middot; the missing semester of your cs education』		2022-06-22
 	https://duhouan.github.io/java/			Java 的一些教程『Java』		2022-05-01
 	https://w3cschool.cn/			『w3cschool - 编程狮，随时随地学编程』		2022-05-01
 	https://wiki.jikexueyuan.com/			『极客学院Wiki - IT 技术图文教程库』		2022-04-30
@@ -654,6 +663,8 @@
 
 
 +++++ +++++   工具   +++++ +++++
+	https://dir.scmor.com/			『全渠道搜索_思谋上网导航』		2022-06-21
+	https://termonline.cn/			『术语在线—权威的术语知识服务平台』		2022-06-15
 	https://fontforge.org/			『FontForge Open Source Font Editor』		2022-05-25
 	https://screentogif.com/			『ScreenToGif』		2022-05-19
 	https://upyunso.com/			『UP云搜 - 最全云盘资源搜索神器』		2022-05-01
