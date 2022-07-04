@@ -1,4 +1,4 @@
-最后更新日期：2022-06-21
+最后更新日期：2022-07-04
 
 
 
@@ -97,6 +97,8 @@
 
 
 +++++ +++++   计算机   +++++ +++++
+	https://nju-projectn.github.io/ics-pa-gitbook/			南京大学 计算机科学与技术系 计算机系统基础 课程实验 (PA)		2022-07-01
+	https://linuxize.com/			『Linux Tips, Tricks and Tutorials | Linuxize』		2022-06-27
 	https://jyywiki.cn/			『Yanyan's Wiki』		2022-06-22
 	https://ysyx.org/			『一生一芯计划』		2022-06-21
 	https://educoder.net/			『头歌实践教学平台』		2022-06-16
@@ -406,6 +408,10 @@
 	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
 	https://whatk.me/			电脑系统重装『Whatk』
 ->-+-   GitHub Repository   -+-<
+	https://github.com/missing-semester/missing-semester			『missing-semester/missing-semester: The Missing Semester of Your CS Education 📚』		2022-07-04
+	https://github.com/qinjx/30min_guides			『qinjx/30min_guides: 覃健祥的学习笔记，各种几十分钟入门的文档』		2022-07-04
+	https://github.com/vooidzero/B23Downloader			『vooidzero/B23Downloader: 下载B站视频、直播、漫画（能看=能下载）。使用 Qt C++ 开发』		2022-07-02
+	https://github.com/mit-pdos/xv6-public			『mit-pdos/xv6-public: xv6 OS』		2022-07-01
 	https://github.com/missing-semester-cn/missing-semester-cn.github.io/			『missing-semester-cn/missing-semester-cn.github.io: the CS missing semester Chinese version』		2022-06-22
 	https://github.com/jlevy/the-art-of-command-line			『jlevy/the-art-of-command-line: Master the command line, in one page』		2022-06-21
 	https://github.com/go-gitea/gitea			『go-gitea/gitea: Git with a cup of tea, painless self-hosted git service』		2022-06-09
@@ -494,7 +500,7 @@
 	https://monsterhxw.github.io/					2022-02-19
 	https://iissnan.com/					2022-02-17
 	https://coolshell.cn/			酷壳 – CoolShell		2022-02-16
-	https://dlonng.com/					2022-02-16
+	https://dlonng.com/			『 登龙（DLonng）』		2022-02-16
 	https://blog.utermux.dev/			『Utermux博客』		2022-02-14
 	https://rain.baimuxym.cn/					2022-02-14
 	https://misakifx.github.io/					2022-02-11
@@ -663,6 +669,9 @@
 
 
 +++++ +++++   工具   +++++ +++++
+	https://diskgenius.cn/			『数据恢复软件,硬盘分区工具,系统备份软件 - DiskGenius官方网站』		2022-07-04
+	https://keepassxc.org/			『KeePassXC Password Manager』		2022-07-01
+	http://kuyoukkk.xyz/			网课代看代刷		2022-06-26
 	https://dir.scmor.com/			『全渠道搜索_思谋上网导航』		2022-06-21
 	https://termonline.cn/			『术语在线—权威的术语知识服务平台』		2022-06-15
 	https://fontforge.org/			『FontForge Open Source Font Editor』		2022-05-25
@@ -819,6 +828,7 @@
 
 
 +++++ +++++   其他   +++++ +++++
+	https://libera.chat/			『Libera Chat | A next-generation IRC network for FOSS projects collaboration!』		2022-07-02
 	https://dccxi.com/			『Tong Wu』		2022-05-22
 	https://libgen.is/			『Library Genesis』		2022-04-23
 	https://runoutfor.life/			『润学<!-- --> – Nextra<!-- -->』		2022-04-19
