@@ -1,4 +1,4 @@
-最后更新日期：2022-07-04
+最后更新日期：2022-07-05
 
 
 
@@ -97,6 +97,10 @@
 
 
 +++++ +++++   计算机   +++++ +++++
+	https://cs50.harvard.edu/college/2022/spring/			『CS50』		2022-07-06
+	https://conanhujinming.github.io/comments-for-awesome-courses/			『名校公开课程评价网』		2022-07-05
+	https://distrochooser.de/			『Distrochooser』这项测试会帮您选择一个适合您的发行版		2022-07-05
+	https://goalkicker.com/			『Free Programming Books &ndash; GoalKicker.com』		2022-07-05
 	https://nju-projectn.github.io/ics-pa-gitbook/			南京大学 计算机科学与技术系 计算机系统基础 课程实验 (PA)		2022-07-01
 	https://linuxize.com/			『Linux Tips, Tricks and Tutorials | Linuxize』		2022-06-27
 	https://jyywiki.cn/			『Yanyan's Wiki』		2022-06-22
@@ -408,6 +412,8 @@
 	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
 	https://whatk.me/			电脑系统重装『Whatk』
 ->-+-   GitHub Repository   -+-<
+	https://github.com/conanhujinming/comments-for-awesome-courses			『conanhujinming/comments-for-awesome-courses: 名校公开课程评价网』		2022-07-05
+	https://github.com/janmojzis/tinyssh			『janmojzis/tinyssh: TinySSH is small server (less than 100000 words of code)』		2022-07-05
 	https://github.com/missing-semester/missing-semester			『missing-semester/missing-semester: The Missing Semester of Your CS Education 📚』		2022-07-04
 	https://github.com/qinjx/30min_guides			『qinjx/30min_guides: 覃健祥的学习笔记，各种几十分钟入门的文档』		2022-07-04
 	https://github.com/vooidzero/B23Downloader			『vooidzero/B23Downloader: 下载B站视频、直播、漫画（能看=能下载）。使用 Qt C++ 开发』		2022-07-02
@@ -569,6 +575,7 @@
 	https://shadowsocks.org/			『Shadowsocks - A fast tunnel proxy that helps you bypass firewalls』		2021-07-31
 	https://doubi.us/			『逗比翻墙网 - 世界那么逗，我想翻墙看看』
 ->-+-   论坛   -+-<-
+	https://0xffff.one/			『0xFFFF』		2022-07-05
 	https://52hb.com/			『吾爱汇编论坛-防破解,反调试,反汇编,软件安全,逆向分析-52hb.com』		2022-06-17
 	https://v2ex.com/			『V2EX』		2022-04-04
 	https://wszgw.net/			亚洲卫星电视家电维修论坛		2022-01-28
