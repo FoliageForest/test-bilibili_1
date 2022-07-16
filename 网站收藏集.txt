@@ -1,4 +1,4 @@
-最后更新日期：2022-07-05
+最后更新日期：2022-07-16
 
 
 
@@ -97,6 +97,12 @@
 
 
 +++++ +++++   计算机   +++++ +++++
+	https://tinylab.org/			『泰晓科技 - 聚焦 Linux - 追本溯源，见微知著！』		2022-07-15
+	https://www.cloudflare.com/learning/			『学习中心主页 | Cloudflare』		2022-07-10
+	https://roadmap.sh/			『Developer Roadmaps』		2022-07-10
+	https://messwithdns.net/			『 mess with dns 』		2022-07-10
+	https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html			『Structure and Interpretation of Computer Programs』		2022-07-09
+	https://mitpress.mit.edu/sites/default/files/sicp/index.html			『Welcome to the SICP Web Site』		2022-07-07
 	https://cs50.harvard.edu/college/2022/spring/			『CS50』		2022-07-06
 	https://conanhujinming.github.io/comments-for-awesome-courses/			『名校公开课程评价网』		2022-07-05
 	https://distrochooser.de/			『Distrochooser』这项测试会帮您选择一个适合您的发行版		2022-07-05
@@ -412,6 +418,8 @@
 	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
 	https://whatk.me/			电脑系统重装『Whatk』
 ->-+-   GitHub Repository   -+-<
+	https://github.com/indiff/qttabbar			『indiff/qttabbar: Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.』		2022-07-11
+	https://github.com/schoeberl/chisel-book			『schoeberl/chisel-book: Digital Design with Chisel』		2022-07-07
 	https://github.com/conanhujinming/comments-for-awesome-courses			『conanhujinming/comments-for-awesome-courses: 名校公开课程评价网』		2022-07-05
 	https://github.com/janmojzis/tinyssh			『janmojzis/tinyssh: TinySSH is small server (less than 100000 words of code)』		2022-07-05
 	https://github.com/missing-semester/missing-semester			『missing-semester/missing-semester: The Missing Semester of Your CS Education 📚』		2022-07-04
@@ -676,6 +684,12 @@
 
 
 +++++ +++++   工具   +++++ +++++
+	https://crystalmark.info/			『Crystal Dew World [en] 』		2022-07-16
+	https://visual-paradigm.com/			『最强大的 UML 建模和 Agile 软件』		2022-07-15
+	https://authpass.app/			『AuthPass - Password Manager | AuthPass.app Password Manager』		2022-07-11
+	https://piazza.com/			『Piazza &#8226; Ask. Answer. Explore. Whenever.』		2022-07-10
+	https://notion.so/			『Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.』		2022-07-10
+	https://devtoolcafe.com/			『Developer's Toolkit』		2022-07-07
 	https://diskgenius.cn/			『数据恢复软件,硬盘分区工具,系统备份软件 - DiskGenius官方网站』		2022-07-04
 	https://keepassxc.org/			『KeePassXC Password Manager』		2022-07-01
 	http://kuyoukkk.xyz/			网课代看代刷		2022-06-26
