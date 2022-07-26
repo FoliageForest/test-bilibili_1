@@ -1,4 +1,4 @@
-最后更新日期：2022-07-16
+最后更新日期：2022-07-26
 
 
 
@@ -97,6 +97,21 @@
 
 
 +++++ +++++   计算机   +++++ +++++
+	https://learnxinyminutes.com/			『Learn X in Y Minutes: Scenic Programming Language Tours』		2022-07-26
+	https://cs.cmu.edu/~213/			『15-213/15-513: Introduction to Computer Systems』		2022-07-23
+	https://inst.eecs.berkeley.edu/~cs152/			『Home Page for UCB CS152/CS252A, Spring 2022』		2022-07-23
+	https://groups.seas.harvard.edu/courses/cs152/			『CS152 - Harvard University - Syllabus』		2022-07-23
+	https://nju-sicp.bitbucket.io/			『Structure and Interpretation of Computer Programs, Fall 2021』		2022-07-22
+	https://stanford.edu/class/cs106a/			『  CS106A Home』		2022-07-22
+	https://learncs.me/			『Home | Learn CS』		2022-07-22
+	https://stanford.edu/class/cs106l/			『CS 106L: Standard C++ Programming』		2022-07-22
+	http://datastructur.es/			『Main | CS 61B Spring 2019』		2022-07-22
+	https://eecs16b.org/			『EECS16B: Designing Information Devices and Systems II, Summer 2022』		2022-07-20
+	https://algorithmicthinking.github.io/			『Leetcode 101: Introduction to Algorithmic Thinking, Spring 2021』		2022-07-20
+	https://eecs189.org/			『CS 189』		2022-07-20
+	https://cs144.github.io/			『CS 144: Introduction to Computer Networking』		2022-07-20
+	http://www.zynqbook.com/			『The Zynq Book』		2022-07-19
+	https://cs61bl.org/			『CS 61BL Summer 2022 | Data Structures &amp; Programming Methodology』		2022-07-19
 	https://tinylab.org/			『泰晓科技 - 聚焦 Linux - 追本溯源，见微知著！』		2022-07-15
 	https://www.cloudflare.com/learning/			『学习中心主页 | Cloudflare』		2022-07-10
 	https://roadmap.sh/			『Developer Roadmaps』		2022-07-10
@@ -418,6 +433,7 @@
 	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
 	https://whatk.me/			电脑系统重装『Whatk』
 ->-+-   GitHub Repository   -+-<
+	https://github.com/athena-xcy/CS50-Study-Group			『athena-xcy/CS50-Study-Group: CS50 Study Group &amp; Subtitle Translation Initiative』		2022-07-26
 	https://github.com/indiff/qttabbar			『indiff/qttabbar: Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.』		2022-07-11
 	https://github.com/schoeberl/chisel-book			『schoeberl/chisel-book: Digital Design with Chisel』		2022-07-07
 	https://github.com/conanhujinming/comments-for-awesome-courses			『conanhujinming/comments-for-awesome-courses: 名校公开课程评价网』		2022-07-05
@@ -801,6 +817,7 @@
 	https://www.wangzhanchi.com/			『网站目录_分类目录_网站大全__国内外网址大全应有尽有 - 网站池』
 	https://chinag.pro/			『ChinaG.PRO - 学习网址导航』
 ->-+-   软件下载   -+-<-
+	https://benchmark.unigine.com/heaven			『UNIGINE Benchmarks』		2022-07-26
 	http://www.tbtool.cn/			『图吧工具箱 - 最纯净的硬件工具箱』		2022-04-02
 	https://sublimetext.com/			『Sublime Text - Text Editing, Done Right』		2022-03-29
 	https://gimp.org/					2022-02-22
