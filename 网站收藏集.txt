@@ -1,4 +1,4 @@
-最后更新日期：2022-07-26
+最后更新日期：2022-08-04
 
 
 
@@ -97,6 +97,14 @@
 
 
 +++++ +++++   计算机   +++++ +++++
+	https://eecs127.github.io/			『Just the Class | EECS 127/227A』		2022-08-04
+	https://playground.tensorflow.org/			『A Neural Network Playground』		2022-08-01
+	https://tensorflow.org/			『关于TensorFlow | TensorFlow中文官网』		2022-08-01
+	https://cs50.harvard.edu/x/			『CS50x 2022』		2022-07-31
+	https://cs184.eecs.berkeley.edu/			『cs184/284a』		2022-07-30
+	https://cs.brown.edu/courses/csci0300/			『CSCI 0300/1310: Fundamentals of Computer Systems』		2022-07-29
+	https://deeplearning.ai/			『DeepLearning.AI: Start or Advance Your Career in AI』		2022-07-28
+	https://hardwareluxx.de/			『Home - Hardwareluxx』		2022-07-27
 	https://learnxinyminutes.com/			『Learn X in Y Minutes: Scenic Programming Language Tours』		2022-07-26
 	https://cs.cmu.edu/~213/			『15-213/15-513: Introduction to Computer Systems』		2022-07-23
 	https://inst.eecs.berkeley.edu/~cs152/			『Home Page for UCB CS152/CS252A, Spring 2022』		2022-07-23
@@ -433,6 +441,8 @@
 	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
 	https://whatk.me/			电脑系统重装『Whatk』
 ->-+-   GitHub Repository   -+-<
+	https://github.com/jeffgerickson/algorithms			『jeffgerickson/algorithms: Bug-tracking for Jeff&#39;s algorithms book, notes, etc.』		2022-07-28
+	https://github.com/SWPFlow/C-Project-Based-Tutorials			『SWPFlow/C-Project-Based-Tutorials: A curated list of project-based tutorials in C』		2022-07-27
 	https://github.com/athena-xcy/CS50-Study-Group			『athena-xcy/CS50-Study-Group: CS50 Study Group &amp; Subtitle Translation Initiative』		2022-07-26
 	https://github.com/indiff/qttabbar			『indiff/qttabbar: Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.』		2022-07-11
 	https://github.com/schoeberl/chisel-book			『schoeberl/chisel-book: Digital Design with Chisel』		2022-07-07
@@ -508,6 +518,7 @@
 	https://github.com/theatergong/FFmpegTools					2021-12-12
 	https://github.com/microsoft/calculator					2021-12-10
 ->-+-   商家、市场   -+-<-
+	https://akkocloud.com/			『门户首页 - AkkoCloud』		2022-08-03
 	https://freewebhostforyou.ml/			『Professional Free Hosting』		2021-08-27
 	https://www.zhujiceping.com/			『国外主机测评 - 国外VPS，国外服务器，国外主机，测评及优惠码』		2021-08-24
 	https://cloudcone.com/			『Managed Cloud Hosting, Dedicated Servers, Cloud Services - CloudCone』		2021-08-23
@@ -700,6 +711,8 @@
 
 
 +++++ +++++   工具   +++++ +++++
+	https://pt.btschool.club/			『BTSCHOOL :: 首页 比特校园PT小乐园 - Powered by NexusPHP』		2022-07-31
+	https://mirrors.sjtug.sjtu.edu.cn/			『上海交通大学 Linux 用户组 软件源镜像服务』		2022-07-30
 	https://crystalmark.info/			『Crystal Dew World [en] 』		2022-07-16
 	https://visual-paradigm.com/			『最强大的 UML 建模和 Agile 软件』		2022-07-15
 	https://authpass.app/			『AuthPass - Password Manager | AuthPass.app Password Manager』		2022-07-11
