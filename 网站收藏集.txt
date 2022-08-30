@@ -1,4 +1,4 @@
-最后更新日期：2022-08-19
+最后更新日期：2022-08-30
 
 
 
@@ -37,6 +37,7 @@
 
 
 +++++ +++++   教育   +++++ +++++
+	https://survivesjtu.gitbook.io/			『README - SurviveSJTUManual』		2022-08-28
 	https://xuetangx.com/			『学堂在线 - 精品在线课程学习平台』		2022-08-18
 	https://coursera.org/			『Coursera | Online Courses &amp; Credentials From Top Educators. Join for Free』		2022-08-08
 	https://www.icourses.cn/			『爱课程』		2022-06-16
@@ -100,6 +101,16 @@
 
 
 +++++ +++++   计算机   +++++ +++++
+	http://redbook.io/			『Readings in Database Systems, 5th Edition』		2022-08-30
+	https://ipads.se.sjtu.edu.cn/			『Research Statement [IPADS]』		2022-08-30
+	http://scpc.fun/			『SCPC OnlineJudge』		2022-08-29
+	https://ocf.berkeley.edu/			『Open Computing Facility at UC Berkeley』		2022-08-27
+	https://xiangshan-doc.readthedocs.io/			『香山项目总体介绍 - XiangShan 官方文档』		2022-08-25
+	https://www.elecfans.com/			『电子发烧友网：领先的电子工程师技术社区，为工程师创造价值』		2022-08-25
+	https://c-faq.com/			『comp.lang.c Frequently Asked Questions』		2022-08-24
+	https://introtodeeplearning.com/			『MIT Deep Learning 6.S191』		2022-08-24
+	https://w3.org/			『World Wide Web Consortium (W3C)』		2022-08-21
+	https://winlibs.com/			『WinLibs - GCC+MinGW-w64 compiler for Windows』		2022-08-21
 	https://thenounproject.com/			『Noun Project: Free Icons &amp; Stock Photos for Everything』		2022-08-18
 	https://pdai.tech/			『Java 全栈知识体系』		2022-08-18
 	https://lianglianglee.com/			『note-submit』		2022-08-17
@@ -444,7 +455,7 @@
 	https://yunliyunwai.cn/			云里云外开源社区
 	https://runoob.com/			『菜鸟教程 - 学的不仅是技术，更是梦想！』
 	https://cppreference.com/			C/C++参考网站
-	https://learncpp.com/			『Learn C++』
+	https://learncpp.com/			『Learn C++』		2022-08-30
 	https://cplusplus.com/			『cplusplus.com - The C++ Resources Network』
 	https://tutorialspoint.com/			关于计算机的教程(划到网页后半部分)『RxJS, ggplot2, Python Data Persistence, Caffe2, PyBrain, Python Data Access, H2O, Colab, Theano, Flutter, KNime, Mean.js, Weka, Solidity』
 	https://github.com/fffaraz/awesome-cpp			『fffaraz/awesome-cpp: A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.』
@@ -452,6 +463,15 @@
 	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
 	https://whatk.me/			电脑系统重装『Whatk』
 ->-+-   计算机公开课   -+-<
+	https://pdos.csail.mit.edu/6.828/			『6.1810 / Fall 2022』		2022-08-30
+	https://pdos.csail.mit.edu/6.S081/			『6.1810 / Fall 2022』		2022-08-30
+	https://pdos.csail.mit.edu/			『MIT CSAIL Parallel and Distributed Operating Systems Group』		2022-08-30
+	https://cs231n.github.io/			『CS231n Convolutional Neural Networks for Visual Recognition』		2022-08-29
+	https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/			『Stanford CS 224N | Natural Language Processing with Deep Learning』		2022-08-28
+	https://decal.ocf.berkeley.edu/			『Home | Sysadmin DeCal』		2022-08-27
+	http://db.lcs.mit.edu/6.5830/			『6.5830/6.5831: Database Systems (formerly 6.814/6.830)』		2022-08-24
+	http://persson.berkeley.edu/math124/			『Math 124 Syllabus』		2022-08-24
+	https://imt-decal.org/			『IMT DeCal, Spring 2019』		2022-08-20
 	https://safari.ethz.ch/digitaltechnik/			『start [Digital Design and Computer Architecture - Spring 2022]』		2022-08-19
 	https://www.eecs70.org/			『 CS 70 』		2022-08-19
 	https://cs10.org/			『Home | CS10 Fall 2022』		2022-08-19
@@ -482,6 +502,10 @@
 	https://mitpress.mit.edu/sites/default/files/sicp/index.html			『Welcome to the SICP Web Site』		2022-07-07
 	https://cs50.harvard.edu/college/2022/spring/			『CS50』		2022-07-06
 ->-+-   GitHub Repository   -+-<
+	https://github.com/Trinkle23897/oi_slides			『Trinkle23897/oi_slides: 我的 OI 课件』		2022-08-28
+	https://github.com/sanbuphy/my-awesome-cs			『sanbuphy/my-awesome-cs: 自收集的有关各类计算机相关教学网站、小工具的合集』		2022-08-27
+	https://github.com/WolleafLee/cs61ALearning/			『WolleafLee/CS61ALearning: CS61A Summer 2022』		2022-08-24
+	https://github.com/duguosheng/6.S081-All-in-one			『duguosheng/6.S081-All-in-one: 6.S081课程全记录，包括课程使用的书籍、论文、实验要求的中文翻译，以及实验过程记录』		2022-08-24
 	https://github.com/64bitpandas/cs61b-notes			『64bitpandas/cs61b-notes: Guidebook for CS61B.』		2022-08-10
 	https://github.com/mommytalkltd/LaTeXLive			『mommytalkltd/LaTeXLive: LateX公式编辑器-妈叔出品』		2022-08-09
 	https://github.com/jeffgerickson/algorithms			『jeffgerickson/algorithms: Bug-tracking for Jeff&#39;s algorithms book, notes, etc.』		2022-07-28
@@ -574,6 +598,8 @@
 	https://oulucloud.com/			『歐路雲 - 高防禦雲服務器|美国|加拿大|香港|新加坡|法國VPS|免費虛擬主機|海外VPS|海外服務器|VPS服務器|KVM服務器.』		2021-08-10
 	https://ypyun.top/			『斯故の月抛商店』		2021-08-10
 ->-+-   个人博客   -+-<-
+	https://dxkite.cn/			『dxkite的网站』		2022-08-29
+	https://trinkle23897.github.io/			『n+e's blog | n+e's blog』		2022-08-28
 	https://cnblogs.com/flytree/			Git基础使用指南-命令详解『会飞的一棵树 - 博客园』		2022-04-25
 	https://acking-you.xyz/			『L_B__』		2022-04-04
 	https://www.utermux.dev/			『2096779623』		2022-03-27
@@ -754,6 +780,8 @@
 
 
 +++++ +++++   工具   +++++ +++++
+	https://convertio.co/			『Convertio — 文件转换器』		2022-08-29
+	https://renminshangjin.com/			『 人民赏金 - 全国通缉悬赏在逃信息收录平台』		2022-08-25
 	https://jiumodiary.com/			『Jiumo Search 鸠摩搜索 - 文档搜索引擎』		2022-08-13
 	https://freecomputerbooks.com/			『Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials』		2022-08-13
 	https://gutenberg.org/			『Free eBooks | Project Gutenberg』		2022-08-13
@@ -879,6 +907,7 @@
 	https://pdfstop.com/			『PDF Stop - Books PDF, Epub And Mobi Free Download』
 	https://bkfeng.top/ebook			『电子书查找方法大合集 | 本卡风』
 ->-+-   网址导航   -+-<-
+	https://myhomeabc.com/			『MyHomeABC我的个人主页导航』		2022-08-28
 	http://www.silisili.cc/			『嘶哩嘶哩-萌导航_silisili.cc | 您的私人二次元导航姬』		2021-07-18
 	https://www.wangzhanchi.com/			『网站目录_分类目录_网站大全__国内外网址大全应有尽有 - 网站池』
 	https://chinag.pro/			『ChinaG.PRO - 学习网址导航』
@@ -933,6 +962,7 @@
 
 
 +++++ +++++   其他   +++++ +++++
+	https://techinterviewhandbook.org/			『Technical Interview Guide for Busy Engineers | Tech Interview Handbook』		2022-08-20
 	https://libera.chat/			『Libera Chat | A next-generation IRC network for FOSS projects collaboration!』		2022-07-02
 	https://dccxi.com/			『Tong Wu』		2022-05-22
 	https://libgen.is/			『Library Genesis』		2022-04-23
