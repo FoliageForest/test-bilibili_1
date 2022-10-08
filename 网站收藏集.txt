@@ -1,9 +1,10 @@
-最后更新日期：2022-08-30
+最后更新日期：2022-10-08
 
 
 
 目录：
 * 教育
+  |* 公开课
   |* 高考志愿填报
   |* 电子教材
   |* 英语
@@ -18,7 +19,7 @@
     |* 命令查询
   |* 翻墙
   |* 论坛
-  |* 教程
+  |* 计算机-教程
     |* Markdown教程
   |* Xposed & Magisk
 * 工具
@@ -69,6 +70,8 @@
 	https://www.linkresearcher.com/			『领研网 - 专注学术传播与科研招聘【唯一官方网站】』
 	http://www.shuren100.com/Home/News/index/id/4.html			中学生数理化杂志在线看『新闻列表 - 河南教育宣传网』
 	https://www.esl-lab.com/			英语学习『Randall's ESL Cyber Listening Lab - English Listening』
+->-+-   公开课   -+-<-
+	https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/			『Single Variable Calculus | Mathematics | MIT OpenCourseWare』		2022-09-11
 ->-+-   高考志愿填报   -+-<-
 	https://mp.weixin.qq.com/s/CpzV1K2BKi7wASAjNBVixw			微信公众号『攀枝花七中』于 2020-07-27 22:00 发布文章『这样解释平行志愿，我瞬间懂了！』
 ->-+-   电子教材   -+-<-
@@ -76,6 +79,7 @@
 	http://dzkbw.com/			比较全的电子课本索引『电子课本-电子课本网』
 	https://mubu.com/mobile/doc/6qb36eMBSw			『【分享资料】高中课本分享』
 ->-+-   英语   -+-<-
+	https://thisamericanlife.org/			『This American Life』		2022-09-28
 	https://ncase.me/			『It's Nicky Case!』		2022-05-22
 
 
@@ -101,6 +105,21 @@
 
 
 +++++ +++++   计算机   +++++ +++++
+	https://dsa.cs.tsinghua.edu.cn/~deng/			『邓俊辉 - Junhui Deng』		2022-09-28
+	https://g4560.cn/			『图拉丁之家-为电脑爱好者提供交流学习平台。 请记准G4560.CN / Tulading.tk』		2022-09-28
+	https://tulading.tk/			『图拉丁之家-为电脑爱好者提供交流学习平台。 请记准G4560.CN / Tulading.tk』		2022-09-28
+	https://fourmilab.ch/			『Fourmilab』		2022-09-09
+	https://pcjs.org/			『PCjs Machines』		2022-09-06
+	https://toast-lab.sist.shanghaitech.edu.cn/			『Welcome to Toast Lab』		2022-09-06
+	https://theodinproject.com/			『Your Career in Web Development Starts Here | The Odin Project』		2022-09-05
+	https://dcloud.io/			『DCloud - HBuilder、HBuilderX、uni-app、uniapp、5+、5plus、mui、wap2app、流应用、HTML5、小程序开发、跨平台App、多端框架』		2022-09-05
+	https://socoding.cn/			『SCNU SoCoding』		2022-09-05
+	https://fullstackdecal.com/			『Full Stack Decal | Full Stack Decal』		2022-09-04
+	https://github.com/izackwu/TeachYourselfCS-CN			『izackwu/TeachYourselfCS-CN: TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS』		2022-09-02
+	https://github.com/ossu/computer-science			『ossu/computer-science: Path to a free self-taught education in Computer Science!』		2022-09-02
+	https://games-cn.org/			『计算机图形学与混合现实在线平台 &#8211; GAMES: Graphics And Mixed Environment Symposium』		2022-09-01
+	https://www.acwing.com/			『AcWing』		2022-08-30
+	https://cakebytheoceanluo.github.io/			『关于数据库的一切 - 罗济高的博客』		2022-08-30
 	http://redbook.io/			『Readings in Database Systems, 5th Edition』		2022-08-30
 	https://ipads.se.sjtu.edu.cn/			『Research Statement [IPADS]』		2022-08-30
 	http://scpc.fun/			『SCPC OnlineJudge』		2022-08-29
@@ -447,7 +466,7 @@
 	https://github.com/QSCTech/zju-icicles			『QSCTech/zju-icicles: 浙江大学课程攻略共享计划』
 	https://github.com/PKUanonym/REKCARC-TSC-UHT			『PKUanonym/REKCARC-TSC-UHT: 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University』
 	https://github.com/tongtzeho
-	https://github.com/lib-pku
+	https://github.com/lib-pku/libpku			『lib-pku/libpku: 贵校课程资料民间整理』		2022-09-02
 	http://hacpai.com/			黑客派
 	http://it-ebooks.flygon.net/			『布客新知』
 	http://apachecn.org/
@@ -463,6 +482,11 @@
 	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
 	https://whatk.me/			电脑系统重装『Whatk』
 ->-+-   计算机公开课   -+-<
+	https://cs186.gitbook.io/			『Overview - CS186 Projects』		2022-09-13
+	https://cs186berkeley.net/			『Home - CS 186』		2022-09-10
+	https://cs61c.org/			『Home | CS 61C Fall 2022』		2022-09-06
+	https://mit-public-courses-cn-translatio.gitbook.io/			『简介 - MIT6.S081』		2022-09-03
+	https://15445.courses.cs.cmu.edu/fall2022/			『CMU 15-445/645 :: Intro to Database Systems (Fall 2022) 』		2022-08-30
 	https://pdos.csail.mit.edu/6.828/			『6.1810 / Fall 2022』		2022-08-30
 	https://pdos.csail.mit.edu/6.S081/			『6.1810 / Fall 2022』		2022-08-30
 	https://pdos.csail.mit.edu/			『MIT CSAIL Parallel and Distributed Operating Systems Group』		2022-08-30
@@ -502,6 +526,10 @@
 	https://mitpress.mit.edu/sites/default/files/sicp/index.html			『Welcome to the SICP Web Site』		2022-07-07
 	https://cs50.harvard.edu/college/2022/spring/			『CS50』		2022-07-06
 ->-+-   GitHub Repository   -+-<
+	https://github.com/getActivity/AndroidIndex			『getActivity/AndroidIndex: Android 资源大汇总』		2022-10-08
+	https://github.com/wangdoc/javascript-tutorial			『wangdoc/javascript-tutorial: JavaScript 教程 https://wangdoc.com/javascript』		2022-09-23
+	https://github.com/SSHeRun/CS-Xmind-Note			『SSHeRun/CS-Xmind-Note: 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）』		2022-09-02
+	https://github.com/prakhar1989/awesome-courses			『prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!』		2022-09-02
 	https://github.com/Trinkle23897/oi_slides			『Trinkle23897/oi_slides: 我的 OI 课件』		2022-08-28
 	https://github.com/sanbuphy/my-awesome-cs			『sanbuphy/my-awesome-cs: 自收集的有关各类计算机相关教学网站、小工具的合集』		2022-08-27
 	https://github.com/WolleafLee/cs61ALearning/			『WolleafLee/CS61ALearning: CS61A Summer 2022』		2022-08-24
@@ -598,6 +626,11 @@
 	https://oulucloud.com/			『歐路雲 - 高防禦雲服務器|美国|加拿大|香港|新加坡|法國VPS|免費虛擬主機|海外VPS|海外服務器|VPS服務器|KVM服務器.』		2021-08-10
 	https://ypyun.top/			『斯故の月抛商店』		2021-08-10
 ->-+-   个人博客   -+-<-
+	https://louiszhai.github.io/			『louis blog』		2022-09-28
+	https://sashimi-yzh.github.io/			『Zihao Yu | Sashimi-yzh.GitHub.com』		2022-09-09
+	https://earthaa.github.io/			『Yi's Blog』		2022-09-07
+	https://www.stickmind.com/			『StickMind』		2022-09-01
+	https://www.qtmuniao.com/			『木鸟杂记 - 分布式系统，数据库，存储』		2022-08-30
 	https://dxkite.cn/			『dxkite的网站』		2022-08-29
 	https://trinkle23897.github.io/			『n+e's blog | n+e's blog』		2022-08-28
 	https://cnblogs.com/flytree/			Git基础使用指南-命令详解『会飞的一棵树 - 博客园』		2022-04-25
@@ -662,7 +695,7 @@
 	https://man.linuxde.net/			『Linux命令大全』		2021-08-17
 	https://www.archlinuxcn.org/			『Arch Linux』		2021-08-14
 	http://linux.51yip.com/			Linux命令『linux 命令 在线中文手册』		2021-08-17
-	https://linuxtools-rst.readthedocs.io/zh_CN/latest/			Linux参考『Linux工具快速教程 — Linux Tools Quick Tutorial』		2021-08-03
+	https://linuxtools-rst.readthedocs.io/			Linux参考『Linux工具快速教程 — Linux Tools Quick Tutorial』		2021-08-03
 	https://linux.vbird.org/			『鳥哥私房菜 - 鳥哥的首頁』		2021-08-03
 	http://cn.linux.vbird.org/			Linux自学材料『鸟哥的Linux私房菜简体首页』		2021-08-03
 	https://archlinux.org/			『Arch Linux』  FoliageForest：该网站的wiki有参考价值		2021-07-23
@@ -672,6 +705,7 @@
 	https://manpages.debian.org/buster/manpages-zh/index.html			Linux命令『Manpages of manpages-zh in Debian buster — Debian Manpages』		2021-08-18
 	https://man.zlon.org/buster/manpages-zh/index.html			Linux命令『Manpages of manpages-zh in Debian buster — Debian Manpages』		2021-08-18
 ->-+-   翻墙   -+-<-
+	https://docs.reiz.link/			『目录』		2022-09-08
 	https://haoel.github.io/			科学上网教程		2022-02-16
 	https://merlinblog.xyz/wiki/cfa.html			『Clash for Android教程 | 东半球第二好用的安卓翻墙工具 - Sabrina的万事屋』		2021-08-21
 	https://congcong0806.github.io/2018/04/20/SS/			『SS/SSR/V2Ray/Clash 简介和客户端软件下载 - 聪聪 Blog』		2021-08-21
@@ -693,7 +727,13 @@
 	https://bbs.binmt.cc/			『MT论坛 - MT官网_MT管理器论坛_MT管理器_MT管理器教程_MT最新版本』		2021-07-22
 	https://ld246.com/			『链滴』
 	https://pediy.com/			『看雪学院-安全培训|安全招聘|www.kanxue.com』
-->-+-   教程   -+-<-
+->-+-   计算机-教程   -+-<-
+	http://staff.ustc.edu.cn/~guoyan/os12/LinuxC.pdf			PDF书籍：Linux C编程一站式学习		2022-09-25
+	https://javatpoint.com/			『Tutorials List - Javatpoint』		2022-09-18
+	https://wangdoc.com/			『网道 - 互联网开发文档』		2022-09-14
+	https://functionalcs.github.io/curriculum/			『A Self-Learning, Modern Computer Science Curriculum』		2022-09-13
+	https://sjkjc.com/			『数据库教程 - 根据实例学习数据库』		2022-09-09
+	https://hongxingwz.gitbooks.io/git/			目前尚未完善『Introduction &#xB7; git』		2022-09-03
 	https://missing-semester-cn.github.io/			『计算机教育中缺失的一课 &middot; the missing semester of your cs education』		2022-06-22
 	https://missing.csail.mit.edu/			『The Missing Semester of Your CS Education &middot; the missing semester of your cs education』		2022-06-22
 	https://duhouan.github.io/java/			Java 的一些教程『Java』		2022-05-01
@@ -780,6 +820,11 @@
 
 
 +++++ +++++   工具   +++++ +++++
+	https://github.com/yzctzl/NC			『yzctzl/NC』		2022-09-19
+	https://hypothes.is/			『Home : Hypothesis』		2022-09-13
+	http://www.diannaodian.com/			『u盘启动盘制作工具_电脑店u盘pe』		2022-09-08
+	https://limfx.pro/			『Limfx-专业的科研工作者内容发布平台』		2022-09-07
+	https://glados.network/			『glados.network』		2022-08-30
 	https://convertio.co/			『Convertio — 文件转换器』		2022-08-29
 	https://renminshangjin.com/			『 人民赏金 - 全国通缉悬赏在逃信息收录平台』		2022-08-25
 	https://jiumodiary.com/			『Jiumo Search 鸠摩搜索 - 文档搜索引擎』		2022-08-13
@@ -835,7 +880,7 @@
 	https://paste.ubuntu.com					2022-02-12
 	https://grammarly.com					2022-02-10
 	http://xiaoshujiang.com/					2022-01-25
-	https://mirrors.bfsu.edu.cn/			北京外国语大学开源软件镜像站		2021-12-24
+	https://mirrors.bfsu.edu.cn/			『北京外国语大学开源软件镜像站 | BFSU Open Source Mirror』		2022-09-04
 	https://zhutix.com/			『致美化 - 最专业的桌面美化交流平台 - 漫锋网』		2021-10-23
 	https://www.geogebra.org/			『GeoGebra - 风靡世界, 过亿师生沉迷使用的免费数学软件』		2021-10-22
 	http://www.xitie.com/			『西贴 - 历史价格查询|网上商城价格走势图』		2021-10-06
@@ -887,6 +932,11 @@
 ->-+-   PE 工具箱   -+-<-
 	https://hotpe.top/			PE 工具箱『首页 - HotPE』		2022-04-18
 ->-+-   设计师   -+-<-
+	https://materialpalette.com/			『Material Design Color Palette Generator - Material Palette』		2022-09-15
+	https://uigradients.com/			『uiGradients - Beautiful colored gradients』		2022-09-15
+	https://color.koya.io/			『Simple Flat Colour Selector』		2022-09-15
+	https://colourlovers.com/			『Color Trends + Palettes :: COLOURlovers』		2022-09-15
+	https://paletton.com/			『Paletton - The Color Scheme Designer』		2022-09-15
 	https://officeplus.cn/			『OfficePLUS_微软官方Office模板服务平台_ppt模板_会员免费_工作总结_求职简历』		2022-06-02
 	https://91sotu.com/			『搜图导航-一款强大且智能的设计师导航』		2022-05-31
 	https://iconfont.cn/			『iconfont-阿里巴巴矢量图标库』		2022-05-31
@@ -912,6 +962,8 @@
 	https://www.wangzhanchi.com/			『网站目录_分类目录_网站大全__国内外网址大全应有尽有 - 网站池』
 	https://chinag.pro/			『ChinaG.PRO - 学习网址导航』
 ->-+-   软件下载   -+-<-
+	https://ifengsoft.com/			『风软资源站 - 软件分享,如沐春风!』		2022-09-05
+	https://winwk.com/			『WinWk - 精品windows软件下载』		2022-09-05
 	https://sysceo.com/			『系统封装_封装系统_Windows系统封装工具_封装软件推广联盟-系统总裁』		2022-08-17
 	https://benchmark.unigine.com/heaven			『UNIGINE Benchmarks』		2022-07-26
 	http://www.tbtool.cn/			『图吧工具箱 - 最纯净的硬件工具箱』		2022-04-02
@@ -932,6 +984,8 @@
 
 
 +++++ +++++   娱乐   +++++ +++++
+	http://100fyy2.com/			『免费电影_免费电视剧_免费动画片在线观看 - 100分影院』		2022-09-16
+	https://omofun.tv/			『OmoFun动漫视频网 - (￣﹃￣)~omO』		2022-09-16
 	https://github.com/The-Run-Philosophy-Organization/run			『The-Run-Philosophy-Organization/run: 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。』		2022-04-19
 	https://undertale.com/			Undertale官网		2022-01-19
 	https://sxctdlkj.com/			看电影		2021-12-05
@@ -962,6 +1016,10 @@
 
 
 +++++ +++++   其他   +++++ +++++
+	http://keygenmusic.net			『KEYGENMUSiC - Music from keygens, crack, etc / Музыка из кейгенов, кряков, и т. д.』		2022-09-18
+	https://seedao.xyz/			『seedao-website』		2022-09-15
+	https://npr.org/			『NPR - Breaking News, Analysis, Music, Arts &amp; Podcasts : NPR』		2022-09-08
+	https://jifen.2345.com/			『2345装机联盟_王牌技术员联盟_电脑维修赚积分_装机必备软件』		2022-09-06
 	https://techinterviewhandbook.org/			『Technical Interview Guide for Busy Engineers | Tech Interview Handbook』		2022-08-20
 	https://libera.chat/			『Libera Chat | A next-generation IRC network for FOSS projects collaboration!』		2022-07-02
 	https://dccxi.com/			『Tong Wu』		2022-05-22

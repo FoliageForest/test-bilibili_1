@@ -1,0 +1,43 @@
+Java Swing 中文教程：
+	英语文章的中文翻译: https://github.com/apachecn/zetcode-zh/blob/master/docs/gui/59.md
+
+中文 Java 教程：
+	Java 面向对象编程视频：https://developer.aliyun.com/learning/course/19
+	Java 中文教程(中等质量)：https://iowiki.com/
+	Java 中文教程: https://wiki.jikexueyuan.com/
+	Java 中文教程：https://www.wenjiangs.com/docs/java-docs
+
+
+英文 Java 教程：
+	https://www.tutorialspoint.com/java/java_inheritance.htm
+
+
+Markdown 数学公式：
+	https://en.wikibooks.org/wiki/LaTeX/Mathematics
+	LATEX Mathematical Symbols: https://www.caam.rice.edu/~heinken/latex/symbols.pdf
+	一个 LaTex 教程：https://www.mohu.org/info/lshort-cn.pdf
+
+Markdown 教程：
+	https://www.kejiwanjia.com/jiaocheng/63759.html
+
+	英语练习：https://github.com/kaiyiwing/qwerty-learner
+
+
+一个小目标：
+用 git 管理我的 网站收藏集.txt
+
+Git 使用教程：
+	https://juejin.cn/post/6895246702614806542
+	来自B站的教程：https://www.bilibili.com/video/BV1i34y1i75m?p=8
+	一个学习Git Branch的小游戏：https://learngitbranching.js.org/
+	Git Community Book 中文版：http://gitbook.liuhui998.com/
+	一份Git笔记：https://blog.csdn.net/u011863024/article/details/118562748
+	一个 Git 教程：https://www.liaoxuefeng.com/wiki/896043488029600/
+	一个 Git 教程（讲得过于全面，导致有一些复杂，看不懂）：https://www.worldhello.net/gotgit/index.html
+	Git飞行规则(Flight Rules)：https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md
+	一份 Git 视频教程：https://www.bilibili.com/video/BV1fv411B73p
+	Git 教程：https://iissnan.com/progit/
+	Git基础使用指南-命令详解: https://www.cnblogs.com/flytree/p/14706928.html
+
+翻墙小教程：
+	YouTube@电丸科技AK 硬核翻墙/科学上网科普教程：https://www.youtube.com/watch?v=S_qo6qu4wm0&list=PLqybz7NWybwUgR-S6m78tfd-lV4sBvGFG
