@@ -1,4 +1,4 @@
-最后更新日期：2022-10-08
+最后更新日期：2022-11-14
 
 
 
@@ -18,15 +18,16 @@
   |* Linux
     |* 命令查询
   |* 翻墙
-  |* 论坛
+  |* 计算机-论坛
   |* 计算机-教程
     |* Markdown教程
+  |* 刷机
   |* Xposed & Magisk
 * 工具
   |* 词典
   |* PE 工具箱
   |* 设计师
-  |* 论坛
+  |* 工具-论坛
   |* 电子书
   |* 网址导航
   |* 软件下载
@@ -79,6 +80,7 @@
 	http://dzkbw.com/			比较全的电子课本索引『电子课本-电子课本网』
 	https://mubu.com/mobile/doc/6qb36eMBSw			『【分享资料】高中课本分享』
 ->-+-   英语   -+-<-
+	https://littlefox.com/			『Little Fox-英语线上动画图书馆』		2022-11-08
 	https://thisamericanlife.org/			『This American Life』		2022-09-28
 	https://ncase.me/			『It's Nicky Case!』		2022-05-22
 
@@ -105,6 +107,12 @@
 
 
 +++++ +++++   计算机   +++++ +++++
+	https://hackway.org/			『计算机专业学习路线 | hackway.org』		2022-11-14
+	https://hansimov.gitbook.io/			『书籍列表 - 计算机经典书籍电子化计划』		2022-11-05
+	https://www.pikespeak.edu/mcs/computer-networking-technology/			『Computer Networking Technology Master Course Syllabi』		2022-11-01
+	https://itmasters.edu.au/free-short-course-computer-network-fundamentals/			『Free Short Course: Computer Network Fundamentals | IT Masters』		2022-11-01
+	https://megrp.com/			『MEGRP | 』		2022-10-16
+	https://getbootstrap.com/			『Bootstrap · The most popular HTML, CSS, and JS library in the world.』		2022-10-15
 	https://dsa.cs.tsinghua.edu.cn/~deng/			『邓俊辉 - Junhui Deng』		2022-09-28
 	https://g4560.cn/			『图拉丁之家-为电脑爱好者提供交流学习平台。 请记准G4560.CN / Tulading.tk』		2022-09-28
 	https://tulading.tk/			『图拉丁之家-为电脑爱好者提供交流学习平台。 请记准G4560.CN / Tulading.tk』		2022-09-28
@@ -200,7 +208,7 @@
 	https://arxiv.org/			『arXiv.org e-Print archive』		2022-04-15
 	https://joaoapps.com/			『Tasker and Join &#8211; Automate Your Life』		2022-04-12
 	https://code.visualstudio.com/			『Visual Studio Code - Code Editing. Redefined』		2022-04-09
-	https://godotengine.org/			『Godot Engine - Free and open source 2D and 3D game engine』		2022-04-09
+ 	https://godotengine.org/			『Godot Engine - Free and open source 2D and 3D game engine』		2022-04-09
 	https://visualstudio.microsoft.com/			『Visual Studio: 面向软件开发人员和 Teams 的 IDE 和代码编辑器』		2022-04-09
 	https://netbeans.apache.org/			『Welcome to Apache NetBeans』		2022-04-09
 	https://tonymacx86.com/			『Home | tonymacx86.com』		2022-04-08
@@ -455,7 +463,6 @@
 	https://aicp-rom.com/			『AICP | Android Ice Cold Project』
 	https://resurrectionremix.com/			『Resurrection Remix OS | Get Resurrected』
 	https://bbs.mokeedev.com/			『MoKee Open Source Community』
-	https://download.mokeedev.com/			『魔趣下载』
 	https://download.lineageos.org.cn/			『LineageOS镜像下载』		2021-07-18
 	https://lineageos.org/			『LineageOS – LineageOS Android Distribution』
 	https://www.lineageos.org.cn/			『LineageOS中文论坛 - 手机版 - Powered by Discuz!』
@@ -482,6 +489,12 @@
 	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
 	https://whatk.me/			电脑系统重装『Whatk』
 ->-+-   计算机公开课   -+-<
+	https://pku-os.github.io/			『Home - PKUOS』		2022-11-04
+	https://ucsd-cse100-s20.github.io/			『UCSD CSE100 – Advanced Data Structures』		2022-11-01
+	https://dlsyscourse.org/			『Deep Learning Systems』		2022-10-30
+	https://lab.cs.tsinghua.edu.cn/rust/			『程序设计训练（Rust）』		2022-10-29
+	https://web.stanford.edu/class/cs224w/			『CS224W | Home』		2022-10-25
+	https://cs1230.graphics/			『Home | CSCI 1230』		2022-10-15
 	https://cs186.gitbook.io/			『Overview - CS186 Projects』		2022-09-13
 	https://cs186berkeley.net/			『Home - CS 186』		2022-09-10
 	https://cs61c.org/			『Home | CS 61C Fall 2022』		2022-09-06
@@ -526,6 +539,16 @@
 	https://mitpress.mit.edu/sites/default/files/sicp/index.html			『Welcome to the SICP Web Site』		2022-07-07
 	https://cs50.harvard.edu/college/2022/spring/			『CS50』		2022-07-06
 ->-+-   GitHub Repository   -+-<
+	https://github.com/ruanyf/document-style-guide			『ruanyf/document-style-guide: 中文技术文档的写作规范』		2022-11-10
+	https://github.com/spring2go/cs_study_plan			『spring2go/cs_study_plan: 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向』		2022-11-04
+	https://github.com/ryan4yin/video2ascii-rs			『ryan4yin/video2ascii-rs: yet another video2chars in rust』		2022-10-29
+	https://github.com/Bypass007/Emergency-Response-Notes			『Bypass007/Emergency-Response-Notes: 应急响应实战笔记，一个安全工程师的自我修养。』		2022-10-27
+	https://github.com/MoSunDay/rdb			『MoSunDay/rdb: Compatible with Redis Cluster protocol and use Raft protocol to synchronize Slots and support persistent database』		2022-10-27
+	https://github.com/sxcool1024/freedom			『sxcool1024/freedom: 一个小白对于科学上网的一些切身感受的整理，自己捋思路，同时也为方便他人。发现错误的地方欢迎斧正。顺便也会不断整理一些实用资源及工具。』		2022-10-25
+	https://github.com/Xmader/aria-ng-gui			『Xmader/aria-ng-gui: 一个 Aria2 图形界面客户端 | An Aria2 GUI for Windows &amp; Linux &amp; MacOS』		2022-10-25
+	https://github.com/ankitects/anki			『ankitects/anki: Anki for desktop computers』		2022-10-16
+	https://github.com/Botspot/pi-apps			『Botspot/pi-apps: Raspberry Pi App Store for Open Source Projects』		2022-10-16
+	https://github.com/jaywcjlove/mysql-tutorial			『jaywcjlove/mysql-tutorial: MySQL入门教程（MySQL tutorial book）』		2022-10-11
 	https://github.com/getActivity/AndroidIndex			『getActivity/AndroidIndex: Android 资源大汇总』		2022-10-08
 	https://github.com/wangdoc/javascript-tutorial			『wangdoc/javascript-tutorial: JavaScript 教程 https://wangdoc.com/javascript』		2022-09-23
 	https://github.com/SSHeRun/CS-Xmind-Note			『SSHeRun/CS-Xmind-Note: 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹）』		2022-09-02
@@ -626,6 +649,9 @@
 	https://oulucloud.com/			『歐路雲 - 高防禦雲服務器|美国|加拿大|香港|新加坡|法國VPS|免費虛擬主機|海外VPS|海外服務器|VPS服務器|KVM服務器.』		2021-08-10
 	https://ypyun.top/			『斯故の月抛商店』		2021-08-10
 ->-+-   个人博客   -+-<-
+	https://criwits.top/			『主页 · Criwits』		2022-11-02
+	https://shao.fun/			『烧风 | HK-SHAO』		2022-10-29
+	https://linmi.cc/			『Linmi - 探索未知，沉淀新知，迭代认知。』		2022-10-09
 	https://louiszhai.github.io/			『louis blog』		2022-09-28
 	https://sashimi-yzh.github.io/			『Zihao Yu | Sashimi-yzh.GitHub.com』		2022-09-09
 	https://earthaa.github.io/			『Yi's Blog』		2022-09-07
@@ -690,6 +716,7 @@
 	https://linuxstudy.cn/			『Linux Study』
 	https://blog.lvcshu.com/			『johnpoint's blog』
 ->-+-   Linux   -+-<-
+	https://linuxhint.com/			『Linux Hint』		2022-11-11
 	https://shellscript.readthedocs.io/			Shell编程		2022-02-21
 	https://codetoolchains.readthedocs.io/			CodeToolchains’s documentation    FoliageForest:Git、Linux、Shell等		2022-02-21
 	https://man.linuxde.net/			『Linux命令大全』		2021-08-17
@@ -712,7 +739,8 @@
 	https://v2raytech.com/differences-between-individuals/			与翻墙相关的很多内容『理解人与人之间的差距 - V2ray科技』		2021-07-31
 	https://shadowsocks.org/			『Shadowsocks - A fast tunnel proxy that helps you bypass firewalls』		2021-07-31
 	https://doubi.us/			『逗比翻墙网 - 世界那么逗，我想翻墙看看』
-->-+-   论坛   -+-<-
+->-+-   计算机-论坛   -+-<-
+	https://termbbs.ixcm.org/			『Termux-Zero技术社区』		2022-10-31
 	https://0xffff.one/			『0xFFFF』		2022-07-05
 	https://52hb.com/			『吾爱汇编论坛-防破解,反调试,反汇编,软件安全,逆向分析-52hb.com』		2022-06-17
 	https://v2ex.com/			『V2EX』		2022-04-04
@@ -728,6 +756,9 @@
 	https://ld246.com/			『链滴』
 	https://pediy.com/			『看雪学院-安全培训|安全招聘|www.kanxue.com』
 ->-+-   计算机-教程   -+-<-
+	https://javascripttutorial.net/			『JavaScript Tutorial』		2022-11-10
+	https://arch.icekylin.online/			『archlinux 简明指南 — Arch Linux 安装使用教程』		2022-11-03
+	https://criwits.top/missing/			『首页 · 你缺失的那门计算机课』		2022-11-02
 	http://staff.ustc.edu.cn/~guoyan/os12/LinuxC.pdf			PDF书籍：Linux C编程一站式学习		2022-09-25
 	https://javatpoint.com/			『Tutorials List - Javatpoint』		2022-09-18
 	https://wangdoc.com/			『网道 - 互联网开发文档』		2022-09-14
@@ -807,6 +838,8 @@
 	https://github.com/younghz/Markdown			『younghz/Markdown: Markdown 基本语法。』		2021-08-12
 	https://younghz.github.io/Markdown/			『Markdown』		2021-08-12
 	https://yuhongjun.github.io/tech/2017/05/02/Markdown-%E8%AF%AD%E6%B3%95%E6%89%8B%E5%86%8C-%E5%AE%8C%E6%95%B4%E6%95%B4%E7%90%86%E7%89%88.html			『Markdown 语法手册 （完整整理版）』		2021-08-12
+->-+-   刷机   -+-<-
+	https://mokeedev.com/			『魔趣 ROM』		2022-11-11
 ->-+-   Xposed & Magisk   -+-<-
 	https://github.com/topjohnwu/Magisk			Magisk官方GitHub『topjohnwu/Magisk: The Magic Mask for Android』		2021-08-15
 	https://github.com/taichi-framework/TaiChi			『taichi-framework/TaiChi: A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 11.』		2021-07-28
@@ -820,6 +853,15 @@
 
 
 +++++ +++++   工具   +++++ +++++
+	http://gitap.cn/			『小飞机免费开放的资源网站』		2022-11-12
+	https://revealjs.com/			『The HTML presentation framework | reveal.js』		2022-11-12
+	https://hellotalk.com/			『HelloTalk | Free Language Exchange | Language Partners』		2022-11-08
+	https://www.mydevice.io/			『mydevice.io : web devices capabilities』		2022-11-06
+	https://logseq.com/			『Logseq: A privacy-first, open-source knowledge base』		2022-10-29
+	https://mathcha.io/			『Mathcha - Online Math Editor』		2022-10-27
+	https://sli.dev/			『Slidev』		2022-10-27
+	https://apps.ankiweb.net/			『Anki - powerful, intelligent flashcards』		2022-10-16
+	https://cppinsights.io/			『C++ Insights』		2022-10-15
 	https://github.com/yzctzl/NC			『yzctzl/NC』		2022-09-19
 	https://hypothes.is/			『Home : Hypothesis』		2022-09-13
 	http://www.diannaodian.com/			『u盘启动盘制作工具_电脑店u盘pe』		2022-09-08
@@ -930,6 +972,8 @@
 	https://merriam-webster.com/			『Dictionary by Merriam-Webster: America's most-trusted online dictionary』		2022-04-28
 	https://collinsdictionary.com/			英汉词典『Collins Online Dictionary | Definitions, Thesaurus and Translations』		2022-04-15
 ->-+-   PE 工具箱   -+-<-
+	https://12xzzx.com/			『十二星座工作室 &#8211; 《十二星座在线》《十二星座论坛》Www.12XzzX.CoM』		2022-11-10
+	http://pexitong.com/			『优启动U盘工具箱_U启动装机大师』		2022-11-10
 	https://hotpe.top/			PE 工具箱『首页 - HotPE』		2022-04-18
 ->-+-   设计师   -+-<-
 	https://materialpalette.com/			『Material Design Color Palette Generator - Material Palette』		2022-09-15
@@ -947,7 +991,8 @@
 	https://huaban.com/			『花瓣网 - 陪你做生活的设计师（创意灵感天堂，搜索、发现设计灵感、设计素材）』		2022-05-24
 	https://www.nipic.com/			昵图网		2022-03-13
 	https://pngbag.com/			PNGBAG素材网    矢量图片免费下载_by-FoliageForest		2022-03-09
-->-+-   论坛   -+-<-
+->-+-   工具-论坛   -+-<-
+	http://bbs.wuyou.net/			『论坛 -  无忧启动论坛 -  Powered by Discuz!』		2022-11-10
 	http://duzhitu.com/			不限于儿童早教『读知兔 - 儿童早教资源免费下载 - Powered by Discuz!』		2021-08-09
 ->-+-   电子书   -+-<-
 	https://github.com/EbookFoundation/free-programming-books			免费中英文电子书『EbookFoundation/free-programming-books: Freely available programming books』		2022-04-23
@@ -962,6 +1007,10 @@
 	https://www.wangzhanchi.com/			『网站目录_分类目录_网站大全__国内外网址大全应有尽有 - 网站池』
 	https://chinag.pro/			『ChinaG.PRO - 学习网址导航』
 ->-+-   软件下载   -+-<-
+	https://www.pc9.com/			『软件下载_手机应用下载_游戏下载_安全绿色的下载站-PC9软件园』		2022-11-10
+	https://apowersoft.cn/			『Apowersoft - 为您提供专业的商务办公及日常生活的桌面软件和在线应用』		2022-11-10
+	https://weidown.com/			『微当下载』		2022-11-10
+	https://coolexe.com/			『阿酷杂货铺 - 优质互联网资源分享』		2022-11-09
 	https://ifengsoft.com/			『风软资源站 - 软件分享,如沐春风!』		2022-09-05
 	https://winwk.com/			『WinWk - 精品windows软件下载』		2022-09-05
 	https://sysceo.com/			『系统封装_封装系统_Windows系统封装工具_封装软件推广联盟-系统总裁』		2022-08-17
@@ -1016,6 +1065,9 @@
 
 
 +++++ +++++   其他   +++++ +++++
+	https://ohzi.io/			『OHZI Interactive』		2022-11-14
+	https://imweb.io/			『腾讯 IMWeb 前端团队』		2022-11-14
+	https://pcpartpicker.com/			『Pick parts. Build your PC. Compare and share. - PCPartPicker』		2022-10-08
 	http://keygenmusic.net			『KEYGENMUSiC - Music from keygens, crack, etc / Музыка из кейгенов, кряков, и т. д.』		2022-09-18
 	https://seedao.xyz/			『seedao-website』		2022-09-15
 	https://npr.org/			『NPR - Breaking News, Analysis, Music, Arts &amp; Podcasts : NPR』		2022-09-08
