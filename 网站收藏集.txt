@@ -1,4 +1,4 @@
-最后更新日期：2022-11-14
+最后更新日期：2022-12-04
 
 
 
@@ -13,8 +13,9 @@
 * 计算机
   |* 计算机公开课
   |* GitHub Repository
+    |* Go 语言
   |* 商家、市场
-  |* 个人博客
+  |* 计算机-个人博客
   |* Linux
     |* 命令查询
   |* 翻墙
@@ -34,6 +35,8 @@
 * 娱乐
   |* 漫画
 * 其他
+  |* 其他-经济
+    |* 其他-经济-论坛
   |* 论坛
 
 
@@ -107,6 +110,14 @@
 
 
 +++++ +++++   计算机   +++++ +++++
+	https://go-zh.org/			『The Go Programming Language』		2022-11-29
+	https://topgoer.com/			『前景 · Go语言中文文档』		2022-11-29
+	https://topgoer.cn/			『地鼠文档』		2022-11-29
+	https://linmagit.github.io/			『Lin Ma』		2022-11-22
+	https://www.simtoco.com/			『simviso-开源分享，传播知识』		2022-11-20
+	https://git-man.tanghaojin.site/			『Git 使用规范手册 · GitBook』		2022-11-17
+	https://ics.tanghaojin.site/			『南京大学 计算机科学与技术系 计算机系统基础 课程实验 (PA)』		2022-11-17
+	https://ksco.cc/rvld/			『从零开始实现链接器』		2022-11-15
 	https://hackway.org/			『计算机专业学习路线 | hackway.org』		2022-11-14
 	https://hansimov.gitbook.io/			『书籍列表 - 计算机经典书籍电子化计划』		2022-11-05
 	https://www.pikespeak.edu/mcs/computer-networking-technology/			『Computer Networking Technology Master Course Syllabi』		2022-11-01
@@ -489,6 +500,7 @@
 	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
 	https://whatk.me/			电脑系统重装『Whatk』
 ->-+-   计算机公开课   -+-<
+	https://acm.sjtu.edu.cn/			『上海交通大学ACM班 - 课程中心』		2022-11-20
 	https://pku-os.github.io/			『Home - PKUOS』		2022-11-04
 	https://ucsd-cse100-s20.github.io/			『UCSD CSE100 – Advanced Data Structures』		2022-11-01
 	https://dlsyscourse.org/			『Deep Learning Systems』		2022-10-30
@@ -539,6 +551,19 @@
 	https://mitpress.mit.edu/sites/default/files/sicp/index.html			『Welcome to the SICP Web Site』		2022-07-07
 	https://cs50.harvard.edu/college/2022/spring/			『CS50』		2022-07-06
 ->-+-   GitHub Repository   -+-<
+	https://github.com/arsenetar/dupeguru			『arsenetar/dupeguru: Find duplicate files』		2022-12-01
+	https://github.com/wizardforcel/sicp-py-zh			『wizardforcel/sicp-py-zh: 【译】UCB CS61a SICP Python』		2022-11-30
+	https://github.com/zu1k/zlib-searcher			『zu1k/zlib-searcher: search zlib/libgen index to get ipfs_cid. We don&#39;t save and provide files, we provide search. I hope everyone have a copy of the index locally, so that no need to rely on any centralized service.』		2022-11-29
+	https://github.com/jobbole/awesome-go-cn			『jobbole/awesome-go-cn: Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。由「开源前哨」和「Go开发大全」微信团队维护。』		2022-11-29
+	https://github.com/rcore-os/rCore-Tutorial-Book-v3			『rcore-os/rCore-Tutorial-Book-v3: v3.6 https://rcore-os.github.io/rCore-Tutorial-Book-v3/』		2022-11-24
+	https://github.com/rcore-os/rCore-Tutorial-v3			『rcore-os/rCore-Tutorial-v3: Let&#39;s write an OS which can run on RISC-V in Rust from scratch!』		2022-11-24
+	https://github.com/gildas-lormeau/SingleFile			『gildas-lormeau/SingleFile: Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file』		2022-11-24
+	https://github.com/python/mypy			『python/mypy: Optional static typing for Python』		2022-11-20
+	https://github.com/macrozheng/mall-learning			『macrozheng/mall-learning: mall学习教程，架构、业务、技术要点全方位解析。mall项目（50k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot 2.3.0、MyBatis 3.4.6、Elasticsearch 7.6.2、RabbitMQ 3.7.15、Redis 5.0、MongoDB 4.2.5、Mysql5.7等技术，采用Docker容器化部署。』		2022-11-20
+	https://github.com/qinguoyi/TinyWebServer			『qinguoyi/TinyWebServer: Linux下C++轻量级Web服务器学习』		2022-11-20
+	https://github.com/yemingfeng/sdb			『yemingfeng/sdb: SDB ：纯 Go 开发、数据结构丰富、持久化、简单易用的 NoSQL 数据库』		2022-11-20
+	https://github.com/Awesome-Windows/Awesome			『Awesome-Windows/Awesome: 🎉 An awesome &amp; curated list of best applications and tools for Windows.』		2022-11-20
+	https://github.com/ksco/rvld			『ksco/rvld: A minimum RV64GC linker for educational purposes.』		2022-11-15
 	https://github.com/ruanyf/document-style-guide			『ruanyf/document-style-guide: 中文技术文档的写作规范』		2022-11-10
 	https://github.com/spring2go/cs_study_plan			『spring2go/cs_study_plan: 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向』		2022-11-04
 	https://github.com/ryan4yin/video2ascii-rs			『ryan4yin/video2ascii-rs: yet another video2chars in rust』		2022-10-29
@@ -635,6 +660,7 @@
 	https://github.com/marktext/marktext					2022-01-24
 	https://github.com/theatergong/FFmpegTools					2021-12-12
 	https://github.com/microsoft/calculator					2021-12-10
+- -   Go 语言   - -
 ->-+-   商家、市场   -+-<-
 	https://akkocloud.com/			『门户首页 - AkkoCloud』		2022-08-03
 	https://freewebhostforyou.ml/			『Professional Free Hosting』		2021-08-27
@@ -648,7 +674,11 @@
 	https://www.freetrial.store/			『Freetrial.Store』		2021-08-11
 	https://oulucloud.com/			『歐路雲 - 高防禦雲服務器|美国|加拿大|香港|新加坡|法國VPS|免費虛擬主機|海外VPS|海外服務器|VPS服務器|KVM服務器.』		2021-08-10
 	https://ypyun.top/			『斯故の月抛商店』		2021-08-10
-->-+-   个人博客   -+-<-
+->-+-   计算机-个人博客   -+-<-
+	https://nancimua.github.io/			『南辞的家』		2022-11-29
+	https://huobingnan.github.io/			『Huo同学在这里』		2022-11-27
+	https://gaozhiyuan.net/			『高志远的个人主页 | Zhi-Yuan Gao&#039;s HomePage』		2022-11-20
+	https://cangshui.net/			KMS 激活软件下载 『沧水的博客 &#8211; 网页制作|运维开发|游戏娱乐|资源分享|生活随写』		2022-11-02
 	https://criwits.top/			『主页 · Criwits』		2022-11-02
 	https://shao.fun/			『烧风 | HK-SHAO』		2022-10-29
 	https://linmi.cc/			『Linmi - 探索未知，沉淀新知，迭代认知。』		2022-10-09
@@ -756,6 +786,10 @@
 	https://ld246.com/			『链滴』
 	https://pediy.com/			『看雪学院-安全培训|安全招聘|www.kanxue.com』
 ->-+-   计算机-教程   -+-<-
+	http://ourjs.com/			『OurJS 爱我技术 我们的技术-IT文摘 JavaScript社区 Node.JS社区 前端社区 全端论坛 MongoDB html5 CSS3 开源社区 | OurJS』		2022-12-01
+	https://shenjun7792.github.io/			『简介 · 博军一笑的个人主页』		2022-11-17
+	https://shenjun4cplusplus.github.io/cplusplushtml/			『简介 · C++ Primer Plus』		2022-11-17
+	https://begtut.com/			『新手教程 - 轻松上手，快乐学习!』		2022-11-17
 	https://javascripttutorial.net/			『JavaScript Tutorial』		2022-11-10
 	https://arch.icekylin.online/			『archlinux 简明指南 — Arch Linux 安装使用教程』		2022-11-03
 	https://criwits.top/missing/			『首页 · 你缺失的那门计算机课』		2022-11-02
@@ -853,6 +887,16 @@
 
 
 +++++ +++++   工具   +++++ +++++
+	https://landiannews.com			office tool plus 入口『蓝点网 - 给你感兴趣的内容』		2022-12-01
+	https://dupeguru.voltaicideas.net/			『dupeGuru |&nbsp;finds duplicate files』		2022-12-01
+	https://yibook.org/			『YiBook Project 易书计划』		2022-11-30
+	https://command-not-found.com/			『command-not-found.com』		2022-11-24
+	https://whatismyip.com/			『What Is My IP? Shows Your Public IP Address - IPv4 - IPv6』		2022-11-24
+	https://github.com/ritwickdey/vscode-live-server			『ritwickdey/vscode-live-server: Launch a development local Server with live reload feature for static &amp; dynamic pages.』		2022-11-23
+	https://zlib.pro/			『Zlibrary 地址 | Zlib 检测』		2022-11-20
+	https://xitongku.com/			『MSDN系统库－致力于原版windows生态服务』		2022-11-20
+	https://archive.fo/			『Webpage archive』		2022-11-15
+	https://archive.is/			『Webpage archive』		2022-11-15
 	http://gitap.cn/			『小飞机免费开放的资源网站』		2022-11-12
 	https://revealjs.com/			『The HTML presentation framework | reveal.js』		2022-11-12
 	https://hellotalk.com/			『HelloTalk | Free Language Exchange | Language Partners』		2022-11-08
@@ -992,9 +1036,15 @@
 	https://www.nipic.com/			昵图网		2022-03-13
 	https://pngbag.com/			PNGBAG素材网    矢量图片免费下载_by-FoliageForest		2022-03-09
 ->-+-   工具-论坛   -+-<-
+	https://bbs.yibook.org/			『易书论坛』		2022-11-30
 	http://bbs.wuyou.net/			『论坛 -  无忧启动论坛 -  Powered by Discuz!』		2022-11-10
 	http://duzhitu.com/			不限于儿童早教『读知兔 - 儿童早教资源免费下载 - Powered by Discuz!』		2021-08-09
 ->-+-   电子书   -+-<-
+	https://zlib.knat.network/			『zlib searcher』		2022-12-01
+	https://ssdown.org/			『SSDOWN』		2022-11-30
+	https://github.com/itdevbooks/pdf			『itdevbooks/pdf: 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类』		2022-11-30
+	https://annas-archive.org/			『Anna’s Archive』		2022-11-25
+	http://pilimi.org/			『Pirate Library Mirror』		2022-11-20
 	https://github.com/EbookFoundation/free-programming-books			免费中英文电子书『EbookFoundation/free-programming-books: Freely available programming books』		2022-04-23
 	https://lorefree.com/			『LoreFree - 首个基于EOS和IPFS的去中心化知识共享社区』
 	https://sobooks.cc/			『SoBooks - 优质的电子书资源下载网站』
@@ -1007,6 +1057,8 @@
 	https://www.wangzhanchi.com/			『网站目录_分类目录_网站大全__国内外网址大全应有尽有 - 网站池』
 	https://chinag.pro/			『ChinaG.PRO - 学习网址导航』
 ->-+-   软件下载   -+-<-
+	https://www.yyej.com/			『小冯的小站』		2022-11-18
+	https://423down.com/			vmware 激活密钥 『423Down』		2022-11-18
 	https://www.pc9.com/			『软件下载_手机应用下载_游戏下载_安全绿色的下载站-PC9软件园』		2022-11-10
 	https://apowersoft.cn/			『Apowersoft - 为您提供专业的商务办公及日常生活的桌面软件和在线应用』		2022-11-10
 	https://weidown.com/			『微当下载』		2022-11-10
@@ -1065,6 +1117,14 @@
 
 
 +++++ +++++   其他   +++++ +++++
+	https://biorxiv.org/			『bioRxiv.org - the preprint server for Biology』		2022-12-05
+	https://engraved.blog/			『Engraved』		2022-12-04
+	https://mariadb.com/			『MariaDB Enterprise Open Source Database &#038; SkySQL MariaDB Cloud | MariaDB』		2022-12-03
+	https://sciencereading.cn/			『科学在线』		2022-11-30
+	https://codewars.com/			『Codewars - Achieve mastery through coding practice and developer mentorship』		2022-11-28
+	https://libgen.rs/			『Library Genesis』		2022-11-27
+	https://wokwi.com/			『Wokwi - Online Arduino and ESP32 Simulator』		2022-11-27
+	https://zhheo.com/			『张洪Heo - 用设计赋能程序』		2022-11-20
 	https://ohzi.io/			『OHZI Interactive』		2022-11-14
 	https://imweb.io/			『腾讯 IMWeb 前端团队』		2022-11-14
 	https://pcpartpicker.com/			『Pick parts. Build your PC. Compare and share. - PCPartPicker』		2022-10-08
@@ -1098,6 +1158,9 @@
 	http://chinesetest.cn/			『首页--汉语考试服务网』
 	https://econ.wiki/			『SHU's Wiki』
 	https://www.sitstars.com/			『Shu's Garden - 坐于群星之上』
+->-+-   其他-经济   -+-<-
+- -   其他-经济-论坛   - -
+	https://bbs.pinggu.org/			『经管之家(原经济论坛)-国内活跃的经济、管理、金融、统计在线教育和咨询网站』		2022-12-04
 ->-+-   论坛   -+-<-
 	https://1point3acres.com/			『一亩三分地社区: 留学|申请|求职|移民|生活 - 高信噪比 + 纯干货』		2022-08-19
 	https://klpbbs.com/			『Minecraft(我的世界)苦力怕论坛——我的世界下载站，我的世界资源网，我的世界玩家论坛 - Minecraft(我的世界)苦力怕论坛』
