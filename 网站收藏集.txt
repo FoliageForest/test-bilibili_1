@@ -1,9 +1,10 @@
-最后更新日期：2023-03-03
+最后更新日期：2023-05-16
 
 
 
 目录：
 * 教育
+  |* 古文
   |* 公开课
   |* 高考志愿填报
   |* 电子教材
@@ -25,8 +26,10 @@
   |* 刷机
   |* Xposed & Magisk
 * 工具
+  |* ChatGPT
+  |* 系统维护
+    |* PE 工具箱
   |* 词典
-  |* PE 工具箱
   |* 设计师
   |* 工具-论坛
   |* 电子书
@@ -35,6 +38,7 @@
 * 娱乐
   |* 漫画
 * 其他
+  |* 润学
   |* 其他-经济
     |* 其他-经济-论坛
   |* 论坛
@@ -76,6 +80,11 @@
 	https://www.linkresearcher.com/			『领研网 - 专注学术传播与科研招聘【唯一官方网站】』
 	http://www.shuren100.com/Home/News/index/id/4.html			中学生数理化杂志在线看『新闻列表 - 河南教育宣传网』
 	https://www.esl-lab.com/			英语学习『Randall's ESL Cyber Listening Lab - English Listening』
+->-+-   古文   -+-<-
+	https://ctext.org/			<标签>#古文 </标签>
+	https://wyw.hwxnet.com/			<标签>#古文 </标签>
+	https://zdic.net/			<标签>#古文 </标签>
+	https://www.gushiwen.cn/			<标签>#古文 </标签>
 ->-+-   公开课   -+-<-
 	https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/			『Single Variable Calculus | Mathematics | MIT OpenCourseWare』		2022-09-11
 ->-+-   高考志愿填报   -+-<-
@@ -113,6 +122,20 @@
 
 
 +++++ +++++   计算机   +++++ +++++
+	https://drtsrc.com/
+	https://vicuna.lmsys.org/
+	https://chat.lmsys.org/
+	https://github.com/15-440
+	https://brew.idayer.com/
+	https://regex101.com/
+	https://systemsapproach.org/
+	https://zh.d2l.ai/			『《动手学深度学习》 &#8212; 动手学深度学习 2.0.0 documentation』		2023-03-13
+	https://d2l.ai/			『Dive into Deep Learning &#8212; Dive into Deep Learning 1.0.0-beta0 documentation』		2023-03-13
+	https://datatable.online/
+	https://thenewstack.io/
+	https://www.noi.cn/
+	https://csrankings.org/
+	https://sqlpassion.at/
 	https://mirrors.cernet.edu.cn/			<标签>#镜像站 </标签>『校园网联合镜像站』		2023-03-01
 	https://docschina.org/			『印记中文 - 深入挖掘国外前端新领域，为国内 Web 前端开发人员提供优质文档！』		2023-02-28
 	https://graphics.stanford.edu/			『Computer Graphics at Stanford University』		2023-02-26
@@ -327,7 +350,6 @@
 	https://github.com/liuhui998/gitbook					2022-02-08
 	https://translationproject.org/			the Translation Project		2022-02-08
 	https://github.com/WinMerge/winmerge		WinMerge 官方GitHub Repository		2022-02-07
-	https://yibai.com/					2022-02-06
 	https://fsf.org/			Free Software Foundation		2022-02-07
 	https://gnu.org/			GNU 操作系统		2022-02-07
 	https://github.com/pcottle/learnGitBranching			Learn Git Branching 官方 GitHub Repository		2022-02-07
@@ -526,9 +548,15 @@
 	https://tutorialspoint.com/			关于计算机的教程(划到网页后半部分)『RxJS, ggplot2, Python Data Persistence, Caffe2, PyBrain, Python Data Access, H2O, Colab, Theano, Flutter, KNime, Mean.js, Weka, Solidity』
 	https://github.com/fffaraz/awesome-cpp			『fffaraz/awesome-cpp: A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.』
 	https://calibre-ebook.com/			软件『calibre - 电子书管理』
-	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
-	https://whatk.me/			电脑系统重装『Whatk』
 ->-+-   计算机公开课   -+-<-
+	https://pwn.college/
+	https://github.com/PKU-TANGENT/nlp-tutorial
+	https://web.stanford.edu/class/cs197/
+	https://web.stanford.edu/class/cs106b/
+	https://www.cs.princeton.edu/courses/archive/spring23/cos226/
+	https://dlsys.cs.washington.edu/
+	http://lib.nbt.edu.cn/subject/			国内与国外公开课与 MOOCs 平台『境外开放课程导航---浙大学宁波理工学院图书馆』
+	https://ipads.se.sjtu.edu.cn/courses/cse/
 	https://wiki.illinois.edu/wiki/display/ECE408/			『ECE408 Home - ECE408 - Illinois Wiki』		2023-02-25
 	https://cs0320.github.io/			『cs0320 | Brown University』		2023-02-03
 	https://cs0330-fall2022.github.io/			『CS0330 | Brown University』		2023-01-29
@@ -593,6 +621,20 @@
 	https://mitpress.mit.edu/sites/default/files/sicp/index.html			『Welcome to the SICP Web Site』		2022-07-07
 	https://cs50.harvard.edu/college/2022/spring/			『CS50』		2022-07-06
 ->-+-   GitHub Repository   -+-<-
+	https://github.com/Alvin9999/new-pac/			自建翻墙服务器教程
+	https://github.com/Torantulino/Auto-GPT
+	https://github.com/tcheng0407/InfoToolkit
+	https://github.com/Yidadaa/ChatGPT-Next-Web
+	https://github.com/lm-sys/FastChat
+	https://github.com/SystemsApproach/book
+	https://github.com/tapio/live-server
+	https://github.com/d2l-ai/d2l-zh
+	https://github.com/d2l-ai/d2l-en
+	https://github.com/Wind4/vlmcsd
+	https://github.com/changkun/modern-cpp-tutorial
+	https://github.com/jwcesign/kubespider
+	https://github.com/changgyhub/leetcode_101
+	https://github.com/Anilople/javajvm
 	https://github.com/httaotao/glusterfs-book
 	https://github.com/codecrafters-io/build-your-own-x
 	https://github.com/ibraheemdev/modern-unix
@@ -746,6 +788,8 @@
 	https://github.com/halfrost/LeetCode-Go			『halfrost/LeetCode-Go: ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解』		2023-02-14
 	https://github.com/Alikhll/golang-developer-roadmap			『Alikhll/golang-developer-roadmap: Roadmap to becoming a Go developer in 2020』		2022-12-22
 ->-+-   计算机-商家、市场   -+-<-
+	https://5sim.net/			虚拟手机号接码平台
+	https://stackblitz.com/
 	https://justhost.ru/			『网站托管 |以 ¥7.87 的价格购买共享主机 |便宜的托管 | JustHost』		2023-01-13
 	https://fly.io/			『Deploy app servers close to your users · Fly』		2023-01-01
 	https://akkocloud.com/			『门户首页 - AkkoCloud』		2022-08-03
@@ -761,12 +805,15 @@
 	https://oulucloud.com/			『歐路雲 - 高防禦雲服務器|美国|加拿大|香港|新加坡|法國VPS|免費虛擬主機|海外VPS|海外服務器|VPS服務器|KVM服務器.』		2021-08-10
 	https://ypyun.top/			『斯故の月抛商店』		2021-08-10
 ->-+-   计算机-个人博客   -+-<-
+	https://www.asukatea.cc/
+	https://hwchiu.com/
+	https://www.changgy.com/
 	https://luomuxiaoxiao.com/			『落木萧萧的博客 &#8211; 不忘初心，方得始终。』		2023-02-26
 	https://sanbuphy.github.io/			『散步的小屋』		2023-01-23
 	https://weishu.me/			『 Weishu's Notes - 为数不多的维术 』		2023-01-22
 	https://misaka-9982.com/			『Misaka's blog』		2023-01-22
 	https://ethereal14.github.io/			『MiengGiet Blog』		2023-01-22
-	https://wszqkzqk.github.io/			『星外之神的博客 | wszqkzqk Blog』		2023-01-19
+	https://wszqkzqk.github.io/			使用Ventoy直接引导本地安装的Linux『星外之神的博客 | wszqkzqk Blog』		2023-01-19
 	https://zgq.ink/			『gq&#x27;s blog』		2023-01-08
 	https://mindhacks.cn/			『刘未鹏 | Mind Hacks &#8211; 思维改变生活』		2022-12-26
 	https://lifeee.top/			『热夏的博客』		2022-12-20
@@ -856,8 +903,8 @@
 	http://billie66.github.io/TLCL/			Linux自学材料『TLCL』
 	https://linuxcommand.org/			『LinuxCommand.org: Learn The Linux Command Line. Write Shell Scripts.』
 - -   命令查询   - -
-	https://wangchujiang.com/			<标签>#Linux命令</标签>计算机，包括Linux命令『小弟调调™ - (͡·̮̃·̃) 撸码的乐趣 💯 ，“人没了，™代码还在”』		2021-08-04
-	https://github.com/jaywcjlove/linux-command			<标签>#Linux命令</标签>『GitHub - jaywcjlove/linux-command: Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux』		2021-08-04
+	https://wangchujiang.com/			<标签>#Linux命令 </标签>计算机，包括Linux命令『小弟调调™ - (͡·̮̃·̃) 撸码的乐趣 💯 ，“人没了，™代码还在”』		2021-08-04
+	https://github.com/jaywcjlove/linux-command			<标签>#Linux命令 </标签>『GitHub - jaywcjlove/linux-command: Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux』		2021-08-04
 	https://manpages.debian.org/buster/manpages-zh/index.html			Linux命令『Manpages of manpages-zh in Debian buster — Debian Manpages』		2021-08-18
 	https://man.zlon.org/buster/manpages-zh/index.html			Linux命令『Manpages of manpages-zh in Debian buster — Debian Manpages』		2021-08-18
 ->-+-   翻墙   -+-<-
@@ -891,6 +938,11 @@
 	https://ld246.com/			『链滴』
 	https://pediy.com/			『看雪学院-安全培训|安全招聘|www.kanxue.com』
 ->-+-   计算机-教程   -+-<-
+	https://rustwiki.org/			rust 中文教程
+	https://beej.us/			Beej's Quick Guide to GDB
+	https://yiibai.com/					2022-02-06
+	https://thecrashcourse.com/			Crash Course Computer Science -- cs61abc 群群友推荐
+	https://jotai.org/
 	https://homeandlearn.co.uk/
 	https://foxsen.github.io/archbase/			『计算机体系结构基础』		2023-03-01
 	https://github.com/foxsen/archbase			『foxsen/archbase: 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本』		2023-03-01
@@ -1014,15 +1066,20 @@
 
 
 +++++ +++++   工具   +++++ +++++
+	https://qixintong.cn/
+	https://pdfpai.com/			<标签>#格式转换 </标签>
+	https://exception.site/			<标签>#破解激活 </标签>JetBrains 全家桶破解激活
+	https://listary.com/
+	https://www.coolhub.top
 	https://github.com/jesseduffield/lazygit			git 辅助小工具『jesseduffield/lazygit: simple terminal UI for git commands』		2023-02-15
-	https://tooldiy.ry.rs/			『前言 - ToolDiy』		2023-02-04
+	https://tooldiy.ry.rs/			中英混排规范, Markdown 简单基础语法, LaTeX 符号查阅『前言 - ToolDiy』		2023-02-04
 	https://github.com/cargo-youth/ToolDiy			『cargo-youth/ToolDiy: 一本工具指南，旨在让大家选用和上手合适的工具。』		2023-02-04
 	https://localsend.org/			局域网传输『LocalSend』		2023-01-30
 	https://github.com/localsend/localsend			局域网传输『localsend/localsend: An open source cross-platform alternative to AirDrop』		2023-01-30
 	https://html22.com/			『网页转换助手』		2023-01-22
 	https://otp.landian.vip/			『Office Tool Plus 官方网站 - 一键部署 Office』		2023-01-18
 	https://github.com/YerongAI/Office-Tool			『YerongAI/Office-Tool: Office Tool Plus localization projects.』		2023-01-18
-	https://singlelogin.me/			『Z-Library 登录』		2023-01-15
+	https://singlelogin.me/			<标签>#电子书下载 </标签>『Z-Library 登录』		2023-01-15
 	https://pywebio.readthedocs.io/			『PyWebIO &mdash; PyWebIO 1.7.0 documentation』		2023-01-14
 	https://zxxgj.net/			『在线小工具 - 好用的在线工具都在这里！』		2023-01-13
 	https://audacityteam.org/			『Audacity ® | Free, open source, cross-platform audio software for multi-track recording and editing.』		2023-01-09
@@ -1037,7 +1094,6 @@
 	https://bookstack.cn/			cs61a SICP 教材中译本『书栈网 · BookStack_程序员IT互联网开源编程书籍免费阅读，助您【码】力十足！』		2022-12-22
 	https://sagemath.org/			『SageMath - Open-Source Mathematical Software System』		2022-12-22
 	https://zybuluo.com/			『Cmd Markdown 编辑阅读器 - 作业部落出品』		2022-12-21
-	https://msdn.itellyou.cn/			『MSDN, 我告诉你 - 做一个安静的工具站』		2022-12-20
 	https://github.com/nilaoda/BBDown			『nilaoda/BBDown: Bilibili Downloader. 一款命令行式哔哩哔哩下载器.』		2022-12-07
 	https://landiannews.com			office tool plus 入口『蓝点网 - 给你感兴趣的内容』		2022-12-01
 	https://dupeguru.voltaicideas.net/			『dupeGuru |&nbsp;finds duplicate files』		2022-12-01
@@ -1154,7 +1210,6 @@
 	https://www.yxssp.com/			破解软件下载『异星软件空间 | 感受不一样的精彩体验！』		2021-07-18
 	https://mdict.org/			『Mdict』		2021-07-18
 	http://tool.liumingye.cn/			『刘明野的工具箱 | 刘明野的工具箱提供好用、易用的工具，还在不断添加中，欢迎访问！』
-	https://www.zdic.net/			『漢典』
 	https://freemdict.com/			论坛_『FreeMdict-在您的电脑和手机上免费离线查询数千本各语种、各领域的优秀词典。』
 	https://forum.freemdict.com/			有许多字典资源、学习外语的好地方『FreeMdict 论坛 - 自由 无门槛 免费』
 	http://openstd.samr.gov.cn/bzgk/gb/			『国家标准全文公开』
@@ -1164,13 +1219,32 @@
 	https://www.solvusoft.com/zh-cn/file-extensions/			『世界上最大的文件扩展名目录』
 	https://pan.naifei.cc/new/			百度网盘不限速下载『度云简易分享地址提取』
 	https://runine.cn/			百度网盘不限速下载『歪果不求仁』
-->-+-   词典   -+-<-
-	https://merriam-webster.com/			『Dictionary by Merriam-Webster: America's most-trusted online dictionary』		2022-04-28
-	https://collinsdictionary.com/			英汉词典『Collins Online Dictionary | Definitions, Thesaurus and Translations』		2022-04-15
-->-+-   PE 工具箱   -+-<-
+->-+-   ChatGPT   -+-<-
+	https://github.com/LiLittleCat/awesome-free-chatgpt
+	https://chat.rclilong.tk/
+	https://app.copilothub.co/
+	https://lunabot.ai/			<标签>#ChatGPT </标签>免费使用 ChatGPT 的插件
+	https://fastgpt.app/			免费使用 ChatGPT
+	https://freegpt.one/			免费使用 ChatGPT
+->-+-   系统维护   -+-<-
+	https://www.myoxygen.com.cn/
+	https://next.itellyou.cn/
+	https://latest10.win/
+	https://windsys.win/
+	https://disktool.cn/
+	https://ventoy.net/
+	https://firpe.cn/			电脑系统重装『FirPE Project – 也许是最好用的维护系统』
+	https://whatk.me/			电脑系统重装『Whatk』
+	https://msdn.itellyou.cn/			『MSDN, 我告诉你 - 做一个安静的工具站』		2022-12-20
+- -   PE 工具箱   - -
+	https://www.wepe.com.cn/
+	https://upe.net/
 	https://12xzzx.com/			『十二星座工作室 &#8211; 《十二星座在线》《十二星座论坛》Www.12XzzX.CoM』		2022-11-10
 	http://pexitong.com/			『优启动U盘工具箱_U启动装机大师』		2022-11-10
 	https://hotpe.top/			PE 工具箱『首页 - HotPE』		2022-04-18
+->-+-   词典   -+-<-
+	https://merriam-webster.com/			『Dictionary by Merriam-Webster: America's most-trusted online dictionary』		2022-04-28
+	https://collinsdictionary.com/			英汉词典『Collins Online Dictionary | Definitions, Thesaurus and Translations』		2022-04-15
 ->-+-   设计师   -+-<-
 	https://materialpalette.com/			『Material Design Color Palette Generator - Material Palette』		2022-09-15
 	https://uigradients.com/			『uiGradients - Beautiful colored gradients』		2022-09-15
@@ -1194,6 +1268,11 @@
 	http://bbs.wuyou.net/			『论坛 -  无忧启动论坛 -  Powered by Discuz!』		2022-11-10
 	http://duzhitu.com/			不限于儿童早教『读知兔 - 儿童早教资源免费下载 - Powered by Discuz!』		2021-08-09
 ->-+-   电子书   -+-<-
+	https://xmsoushu.com/			电子书下载站导航
+	https://search.yibook.org/			<标签>#电子书下载 </标签>
+	https://book123.info/			<标签>#电子书下载 </标签>
+	https://freembook.com/
+	https://z-lib.is/
 	https://shuge.org/			『书格』		2023-01-30
 	https://zlib.cydiar.com/			『Z-Library』		2023-01-15
 	https://zlib.qtoh.xyz/			『zlib searcher』		2023-01-04
@@ -1202,7 +1281,7 @@
 	https://zlib.knat.network/			『zlib searcher』		2022-12-01
 	https://ssdown.org/			『SSDOWN』		2022-11-30
 	https://github.com/itdevbooks/pdf			『itdevbooks/pdf: 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类』		2022-11-30
-	https://annas-archive.org/			『Anna’s Archive』		2022-11-25
+	https://annas-archive.org/			<标签>#电子书下载 #免费下载 </标签>『Anna’s Archive』		2022-11-25
 	http://pilimi.org/			『Pirate Library Mirror』		2022-11-20
 	https://github.com/EbookFoundation/free-programming-books			免费中英文电子书『EbookFoundation/free-programming-books: Freely available programming books』		2022-04-23
 	https://lorefree.com/			『LoreFree - 首个基于EOS和IPFS的去中心化知识共享社区』
@@ -1217,6 +1296,8 @@
 	https://www.wangzhanchi.com/			『网站目录_分类目录_网站大全__国内外网址大全应有尽有 - 网站池』
 	https://chinag.pro/			『ChinaG.PRO - 学习网址导航』
 ->-+-   软件下载   -+-<-
+	https://mac.macxf.com/
+	https://soft.macxf.com/
 	https://web.distry.cn/			『温鑫Sys_全网最纯净Windows系统下载平台』		2022-12-30
 	https://www.yyej.com/			『小冯的小站』		2022-11-18
 	https://423down.com/			vmware 激活密钥 『423Down』		2022-11-18
@@ -1280,6 +1361,15 @@
 
 
 +++++ +++++   其他   +++++ +++++
+	https://typst.app/
+	http://pggho.com
+	https://iui.su/
+	https://mermaid.js.org/
+	https://aboard-telescope-bb9.notion.site/36c7967320324226aa131db78aa6219d			加拿大留学🇨🇦社区（长辉工业）档案
+	https://catbox.moe/
+	https://chat.forchange.cn/
+	https://fly.io/
+	https://topbook.cc/
 	https://ddosi.org/			『🔰雨苁ℒ🔰 - 暗网|黑客|极客|渗透测试|专注信息安全|数据泄露|隐私保护』		2023-02-28
 	https://onlinelibrary.wiley.com/			『Wiley Online Library | Scientific research articles, journals, books, and reference works』		2023-02-28
 	https://sem67.com/			『』		2023-02-25
@@ -1348,6 +1438,9 @@
 	http://chinesetest.cn/			『首页--汉语考试服务网』
 	https://econ.wiki/			『SHU's Wiki』
 	https://www.sitstars.com/			『Shu's Garden - 坐于群星之上』
+->-+-   润学   -+-<-
+	https://opencs.app/
+	https://global-cs-application.github.io/
 ->-+-   其他-经济   -+-<-
 - -   其他-经济-论坛   - -
 	https://bbs.pinggu.org/			『经管之家(原经济论坛)-国内活跃的经济、管理、金融、统计在线教育和咨询网站』		2022-12-04
@@ -1359,6 +1452,6 @@
 
 
 
-标签: #镜像站 #Linux命令
+标签: #镜像站 #Linux命令 #ChatGPT #破解激活 #格式转换 #古文 #电子书下载 #免费下载
 
-<标签>#镜像站 #Linux命令</标签>
+<标签>#镜像站 #Linux命令 #ChatGPT</标签>
